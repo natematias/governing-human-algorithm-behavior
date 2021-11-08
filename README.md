@@ -3,7 +3,7 @@
 
 *Tuesday and Thursday, Spring 2022*
 
-![rube goldberg machine](https://upload.wikimedia.org/wikipedia/commons/a/a9/Rube_Goldberg%27s_%22Self-Operating_Napkin%22_%28cropped%29.gif)
+![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png)
 
 Algorithms that monitor and influence human behavior are everywhere—directing the behavior of law enforcement, managing the world's financial systems, shaping our cultures, and flipping a coin on the success or failure of movements for change. Since human-algorithm feedback is already a basic pattern in society, we urgently need ways to assess the impact of attempts to steer that feedback toward justice.
 

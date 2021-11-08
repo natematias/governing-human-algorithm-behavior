@@ -12,6 +12,23 @@ In this course for (25) upper-level undergraduates and (5) PhD students, you wil
 
 This course is an excellent stepping stone for anyone interested in a career in policy, advocacy, academia, or industry research.
 
+<div style="background:#eee; border-radius:15px; border:2px solid #ddd; margin:15px; padding:10px">
+
+<h3>How to Register for this class</h3>
+
+<p><strong>Upper Level Undergraduates</strong>: to join this class, register for COMM 4940 like any class.</p>
+
+<p><strong>PhD Students</strong>: to join this class, you have two options:</p>
+
+<ol><li>Enroll in an <strong>independent study</strong> (COMM 7970) with Professor Matias and then attend the class (preferred). Before enrolling, please write a brief note to Professor Matias with "Enrolling in COMM [4940]" in the subject. The email should:<ul>
+<li>Introduce yourself, your program, and where you are at (1-2 sentences)</li>
+<li>Explain why you want to take the course. For example, is it related to your research? An interest in policy? A project you want to develop in the course? (2-3 sentences)</li>
+<li>Describe the perspectives and skills you bring to the class (a few bullet points) (<em>for example, an understanding of certain theory, or capabilities at qualitative research, data analysis, policy writing, advocacy, media-making, or software development</em>)</li>
+</ul>
+<li>Enroll in COMM 4940 as a piece of <strong>elective coursework</strong>
+</ol>
+</div>
+
 ## What You Learn
 In this seminar class, you will engage with the science and policy challenges of regulating human-algorithm behavior. Along the way, you will work with scientific issues of methods, theory, and ethics, policy questions about how to govern these situations, and how to bridge between science and policy in a democracy. For a final project, student teams (of 2-3) will produce a novel project that makes a contribution at the intersection of science and policy.
 
@@ -50,9 +67,9 @@ PhD students are encouraged to bring an existing research question that they wis
 
 <a href="http://twitter.com/natematias">Dr. J. Nathan Matias</a>
 (<a href="https://twitter.com/natematias">@natematias</a>) 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"> organizes citizen behavioral science for a safer, fairer, more understanding internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication.
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"> organizes citizen behavioral science for a safer, fairer, more understanding internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication. He is also a field member in Information Science.
 
-Nathan is the founder of the <a href="citizensandtech.org/">Citizens and Technology Lab</a>, a public-interest project at Cornell that supports community-led behavioral science—conducting independent, public-interest audits and evaluations of social technologies. CAT Lab achieves this through software systems that coordinate communities to conduct their own A/B tests on social issues. Nathan has worked with communities of millions of people to test ideas to <a href="https://civilservant.io/moderation_experiment_r_science_rule_posting.html" style="">prevent online harassment</a>, <a href="vimeo.com/natematias/followbias">broaden gender diversity</a> on social media, <a href="https://civilservant.io/persuading_ais_preserving_liberties_r_worldnews.html">manage human/algorithmic misinformation</a>, and <a href="https://www.theatlantic.com/technology/archive/2017/06/facebook-pride-reaction/531633/">audit algorithms</a>.</p>
+Nathan is the founder of the <a href="citizensandtech.org/">Citizens and Technology Lab</a>, a public-interest project at Cornell that supports community-led behavioral science—conducting independent, public-interest audits and evaluations of social technologies. CAT Lab achieves this through software systems that coordinate communities to conduct their own A/B tests on social issues. Nathan has worked with communities of millions of people to test ideas to <a href="https://civilservant.io/moderation_experiment_r_science_rule_posting.html" style="">prevent online harassment</a>, <a href="vimeo.com/natematias/followbias">broaden gender diversity</a> on social media, <a href="https://civilservant.io/persuading_ais_preserving_liberties_r_worldnews.html">manage human/algorithmic misinformation</a>, and <a href="https://citizensandtech.org/2021/11/crowdsourced-audit-studies/">audit algorithms</a>.</p>
 
 ## Schedule
 

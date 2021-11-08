@@ -1,5 +1,8 @@
 # COMM 4940: Governing Human-Algorithm Behavior
-[J. Nathan Matias](https://natematias.com), Department of Communication, nathan.matias@cornell.edu
+* [J. Nathan Matias](https://natematias.com) 
+* Department of Communication
+* Field Member, Information Science
+* nathan.matias AT cornell.edu
 
 * Spring 2022 ([see course listing](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))
 * Tuesday and Thursday, 9:40am-10:55pm 

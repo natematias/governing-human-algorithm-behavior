@@ -367,16 +367,16 @@ All grades are final. There will not be any make-up or extra credit assignments 
 Per university procedures, I will only give a grade of A+ in exceptional circumstances.
 
 Letter Grade	Numeric Grade
-A	93 - 100
-A-	90 - 92.99
-B+	87 - 89.99
-B	83 - 86.99
-B-	80 - 82.99
-C+	77 - 79.99
-C	73 - 76.99
-C-	70 - 72.99
-D	60 - 66.99
-F	0 - 59.99
+* A	93 - 100
+* A-	90 - 92.99
+* B+	87 - 89.99
+* B	83 - 86.99
+* B-	80 - 82.99
+* C+	77 - 79.99
+* C	73 - 76.99
+* C-	70 - 72.99
+* D	60 - 66.99
+* F	0 - 59.99
 
 ### Grace Period
 Late Submissions: All assignments have an automatic one-day grace period. On time and early papers are always encouraged and will be graded the same week. Students can turn in the assignment up to a day late, no questions asked, with the expectation that it could take substantially longer to receive a grade and feedback. After that, an automatic one grade (A to B, B to C, etc) is dropped on the assignment.

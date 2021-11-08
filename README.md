@@ -92,8 +92,8 @@ In this session, we will have a conversation with a researcher, advocate, or pol
 #### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
 Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.
 
-* Matias, J.N. (2021) Nudging Algorithms by Influencing Humans (under review).
-* Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). Algorithmic fairness: Choices, assumptions, and definitions. Annual Review of Statistics and Its Application, 8, 141-163.
+* Matias, J.N. (2021) [Nudging Algorithms by Influencing Humans](https://osf.io/m98b6/) (under review).
+* Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
 * (gradstudents) Wiener, N. (1948). "Feedback and Oscillation" from Cybernetics or Control and Communication in the Animal and the Machine. MIT press.
 
 #### Tues 02-15 Discussing and brainstorming final project ideas
@@ -122,13 +122,13 @@ Can algorithms reduce dicrimination since they're easier to change than biased h
 
 * Mullainathan, S. (2019). Biased algorithms are easier to fix than biased people. The New York Times.
 * Zhang, S., Mehta, N., Singh, P. V., & Srinivasan, K. (2021). [Can an AI Algorithm Mitigate Racial Economic Inequality? An Analysis in the Context of Airbnb](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770371). SSRN
-* (gradstudents) Pierson, E., Cutler, D. M., Leskovec, J., Mullainathan, S., & Obermeyer, Z. (2021). An algorithmic approach to reducing unexplained pain disparities in underserved populations. Nature Medicine, 27(1), 136-140.
+* (gradstudents) Pierson, E., Cutler, D. M., Leskovec, J., Mullainathan, S., & Obermeyer, Z. (2021). [An algorithmic approach to reducing unexplained pain disparities in underserved populations](https://www.nature.com/articles/s41591-020-01192-7). Nature Medicine, 27(1), 136-140.
 
 #### Tues 02-22 What Does it Mean to Understand Human-Algorithm Feedback?
 In order to govern human-algorithm behavior, we need to understand it and develop ideas to intervene. That hope remains elusive. Why is that?
 
-* Bak-Coleman, J. B., Alfano, M., Barfuss, W., Bergstrom, C. T., Centeno, M. A., Couzin, I. D., ... & Weber, E. U. (2021). Stewardship of global collective behavior. Proceedings of the National Academy of Sciences, 118(27).
-* (gradstudents) Kitchin, R. (2017). Thinking critically about and researching algorithms. Information, Communication & Society, 20(1), 14–29.
+* Bak-Coleman, J. B., Alfano, M., Barfuss, W., Bergstrom, C. T., Centeno, M. A., Couzin, I. D., ... & Weber, E. U. (2021). [Stewardship of global collective behavior](https://www.pnas.org/content/118/27/e2025764118). Proceedings of the National Academy of Sciences, 118(27).
+* (gradstudents) Kitchin, R. (2017). [Thinking critically about and researching algorithms](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1154087?journalCode=rics20). Information, Communication & Society, 20(1), 14–29.
 
 #### Thurs 02-24 Feedback Pattern: Reinforcement
 In a series of sessions, we will discuss common patterns of human-algorithm feedback. The first is reinforcement, which happens with individuals in the case of personalization and with groups in the case of herding behavior.
@@ -149,7 +149,7 @@ In this topic area session, we will discuss the role of algorithms in eating dis
 #### Thurs 03-03 Feedback Pattern: Herding
 Algorithms can amplify herding behavior by encouraging people to do something that's already popular. Ranking software has been credited with inspiring large-scale acts of charity, spreading prejudice and encouraging harassment mobs. When enough people engage in collective discrimination, adaptive systems can entrench injustice further. This class will investigate herding as a phenomenon of human + algorithm behavior.
 
-* Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). Experimental study of inequality and unpredictability in an artificial cultural market. Science, 311(5762), 854–856.
+* Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](https://www.science.org/doi/abs/10.1126/science.1121066). Science, 311(5762), 854–856.
 * Bravo, D. Y., Jefferies, J., Epps, A., & Hill, N. E. (2019). [When Things Go Viral: Youth’s Discrimination Exposure in the World of Social Media](https://link.springer.com/chapter/10.1007/978-3-030-12228-7_15). In Handbook of Children and Prejudice (pp. 269–287). Springer.
 * (graduate students) Brayne, S. (2020). "Directed Surveillance: Predictive Policing and Quantified Risk," from Predict and surveil: Data, discretion, and the future of policing. Oxford University Press, USA.
 
@@ -157,7 +157,7 @@ Algorithms can amplify herding behavior by encouraging people to do something th
 In this session, we will have a conversation with researchers, advocates, and policymakers working on human-algorithm feedback and hatred.
 
 * (TBD) Read something from the speaker
-* Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)
+<!--* Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)-->
 
 #### Thurs 03-10 Feedback Pattern: Thresholds
 Patterns of human and algorithm behavior can dramatically change when their behavior reaches a certain threshold. For example, a popular conversation within a marginalized group might attract harassment if an algorithm amplifies it to a wider population where hatred prevails.
@@ -184,37 +184,37 @@ In your final-project teams, students will present a 3 minute presentation to su
 * [Gender inequties in the online dissemination of scholars' work](https://www.pnas.org/content/118/39/e2102945118)
 * Cycles of [Moral outrage  out social media](https://www.science.org/doi/10.1126/sciadv.abe5641)
 * Sweeney, L. (2013). [Discrimination in online ad delivery: Google ads, black names and white names, racial discrimination, and click advertising](https://arxiv.org/abs/1301.6822). Queue, 11(3), 10–29.
-* Freelon, D., McIlwain, C. D., & Clark, M. (2016). Beyond the hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice. Center for Media & Social Impact, American University.
+* Freelon, D., McIlwain, C. D., & Clark, M. (2016). [Beyond the hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice](https://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/). Center for Media & Social Impact, American University.
 
 #### Tues 03-22 Policy Topic: What Is Policy Anyway?
 We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
 
 * Cairney, P. (2019). "What is Policy and policymaking" from Understanding public policy: theories and issues. Red Globe Press.
-* Gillespie, T. (2017). Governance of and by platforms. SAGE handbook of social media, 254-278.
+* Gillespie, T. (2017). [Governance of and by platforms](https://culturedigitally.org/2016/06/governance-of-and-by-platforms/). SAGE handbook of social media, 254-278.
 * (gradstudents) Lessig, L. (2009). "Code is Law" from [Code: And other laws of cyberspace](https://lessig.org/product/code). Basic Books.
 
 #### Thurs 03-24 Feedback Pattern: Chilling Effects
 People are often influenced by algorithms by design, but algorithms can also have side effects. Algorithms can also cause a chilling effect when people are influenced against taking legally-protected actions such as avoiding certain streets or self-censoring their political views.
 
-* Schauer, F. (1978). Fear, Risk and the First Amendment: Unraveling the Chilling Effect. Boston University Law Review, 58(5), 685–732.
+* Schauer, F. (1978). [Fear, Risk and the First Amendment: Unraveling the Chilling Effect](https://scholarship.law.wm.edu/facpubs/879/). Boston University Law Review, 58(5), 685–732.
 * Brayne, S. (2014). Surveillance and system avoidance: Criminal justice contact and institutional attachment. American Sociological Review, 79(3), 367–391.
 * (graduate student) Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment. https://doi.org/DOI 10.17605/OSF.IO/NC7E2
 
 <!--#### Thurs 03-24 Journalism and Policy: Hype Cycles or Accountability?
 * (TBD: pick a recent example of tech accountability journalism)
-* Orben, A. (2020). The Sisyphean cycle of technology panics. Perspectives on Psychological Science, 15(5), 1143-1157.
-* (graduate students) Bossetta, M. (2020) Scandalous Design: How Social Media Platforms’ Responses to Scandal Impacts Campaigns and Elections. Social Media + Society, 6(2).-->
+* Orben, A. (2020). [The Sisyphean cycle of technology panics](https://journals.sagepub.com/doi/full/10.1177/1745691620919372). Perspectives on Psychological Science, 15(5), 1143-1157.
+* (graduate students) Bossetta, M. (2020) [Scandalous Design: How Social Media Platforms’ Responses to Scandal Impacts Campaigns and Elections](https://journals.sagepub.com/doi/10.1177/2056305120924777). Social Media + Society, 6(2).-->
 
 #### Tues 03-29 How Can Evidence Inform Policy?
 What is evidence-based governance and how might research contribute (or not) to policy?
 
 * Matias, J.N., Wright, L. (2021) Impact Assessment of Human-Algorithm Feedback. Social Science Research Council (forthcoming)
-* (gradstudents) Weiss, C. H. (1979). The many meanings of research utilization. Public administration review, 39(5), 426-431.
+* (gradstudents) Weiss, C. H. (1979). [The many meanings of research utilization](https://www.jstor.org/stable/3109916). Public administration review, 39(5), 426-431.
 
 #### Thurs 03-31 Assessing The Class Recommender System
 We have now been using the Fuego news recommender system for over a month. In this class, teams will present analyses of the Fuego system for class discussion using perspectives and methods introduced in this class.
 
-* Bakshy, E., Messing, S., & Adamic, L. A. (2015). Exposure to ideologically diverse news and opinion on Facebook. Science, 348(6239), 1130-1132.
+* Bakshy, E., Messing, S., & Adamic, L. A. (2015). [Exposure to ideologically diverse news and opinion on Facebook](https://www.science.org/doi/10.1126/science.aaa1160). Science, 348(6239), 1130-1132.
 
 Possible analyses include:
 
@@ -246,9 +246,9 @@ How can we integrate evidence-creation into the policy process? One option is to
 In a previous class, we discussed theories for how evidence could inform policy. How does it really happen?
 
 * **Everyone** Share on Canvas an example of a piece of research that genuinely impacted policy, and comment on how it did so. Examples:
-  * Edelman, B. G., & Luca, M. (2014). Digital discrimination: The case of Airbnb. com. Harvard Business School NOM Unit Working Paper, (14-054).
-  * Buolamwini, J., & Gebru, T. (2018, January). Gender shades: Intersectional accuracy disparities in commercial gender classification. In Conference on fairness, accountability and transparency (pp. 77-91). PMLR.
-  * Penney, J. W. (2016). Chilling effects: Online surveillance and Wikipedia use. Berkeley Tech. LJ, 31, 117.
+  * Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb.com](https://www.hbs.edu/ris/Publication%20Files/Airbnb_92dd6086-6e46-4eaf-9cea-60fe5ba3c596.pdf). Harvard Business School NOM Unit Working Paper, (14-054).
+  * Buolamwini, J., & Gebru, T. (2018, January). [Gender shades: Intersectional accuracy disparities in commercial gender classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf). In Conference on fairness, accountability and transparency (pp. 77-91). PMLR.
+  * Penney, J. W. (2016). [Chilling effects: Online surveillance and Wikipedia use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769645). Berkeley Tech. LJ, 31, 117.
   * Matias, J. N. (2019). Preventing harassment and increasing group participation through social norms in 2,190 online science discussions. Proceedings of the National Academy of Sciences, 116(20), 9785-9789.
   * Bossetta, M. (2020). Scandalous design: How social media platforms’ responses to scandal impacts campaigns and elections. Social Media+ Society, 6(2), 2056305120924777.
   * Orben, A. (2020). The Sisyphean cycle of technology panics. Perspectives on Psychological Science, 15(5), 1143-1157. 
@@ -258,12 +258,12 @@ In a previous class, we discussed theories for how evidence could inform policy.
 Advocates of tech ethics argue that if we teach ethics to engineers, society will be more protected from the harms associated with algorithms. How much can that help?
 
 * Silbey, S. S. (2009). [Taming Prometheus: Talk about safety and culture](https://anthropology.mit.edu/sites/default/files/documents/silbey_safety_culture.pdf). Annual Review of Sociology, 35, 341–369.
-* (gradstudents) Zhang, B., Anderljung, M., Kahn, L., Dreksler, N., Horowitz, M. C., & Dafoe, A. (2021). Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers. arXiv preprint arXiv:2105.02117.
+* (gradstudents) Zhang, B., Anderljung, M., Kahn, L., Dreksler, N., Horowitz, M. C., & Dafoe, A. (2021). [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://arxiv.org/pdf/2105.02117.pdf). arXiv preprint arXiv:2105.02117.
 
 #### Tues 04-19 Policy Topic: Conversation with Advocacy Groups
 In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
 
-* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU) 
+<!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU) -->
 
 #### Thurs 04-21 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
 If algorithms are just math formulas that offer a reflection of a broken world, one way to govern algorithms is to protect them from bad people. What does that look like?
@@ -289,7 +289,7 @@ In order for democratic societies to govern a problem, people need to know about
 How can we learn the safety of algorithms or the effectiveness of policies in real-world situations—while still limiting the risks? Field experiments, when conducted with public consent and careful oversight, enable researchers to audit systems and test policies in controlled circumstances with as few people as possible.
 
 * Matias, J. N. (2015, June 8). [How Do You Fix a Broken System That Isn’t Yours to Repair?](https://www.theatlantic.com/technology/archive/2015/06/the-tragedy-of-the-digital-commons/395129/) The Atlantic.
-* Campbell, D. T. (1969). Reforms as experiments. American psychologist, 24(4), 409.
+* Campbell, D. T. (1969). [Reforms as experiments](https://www.sfu.ca/~palys/Campbell-1969-ReformsAsExperiments.pdf). American psychologist, 24(4), 409.
 * (gradstudents) TBD
 
 #### Tues 05-03 Final Presentations Part I

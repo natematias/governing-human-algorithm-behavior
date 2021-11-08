@@ -1,7 +1,7 @@
 # COMM 4940: Governing Human-Algorithm Behavior
 [J. Nathan Matias](https://natematias.com), Department of Communication, nathan.matias@cornell.edu
 
-* Spring 2022 ([see class roster](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))
+* Spring 2022 ([see course listing](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))
 * Tuesday and Thursday, 9:40am-10:55pm 
 
 ![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png)

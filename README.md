@@ -28,7 +28,7 @@ PhD students are encouraged to bring an existing research question that they wis
 
 *Weekly Activities*:  Throughout the semester, students will read a selection of articles and discuss that reading in class and in an online chat. In the second part of the semester, once teams (of 2-3) have been formed, students will submit regular progress reports on their final project.
 
-*Algorithm Analysis*: Student teams will write a 1000 word analysis of one issue related to the Fuego recommender system.
+*Algorithm Analysis*: Student teams will create a 5-minute slide deck examining one issue related to the Fuego recommender system.
 
 *Midterm*: The midterm is a group proposal for your team project, including a description of the project, a bibliography, a list of the roles that team members will play, and a timeline.
 
@@ -84,6 +84,7 @@ In this session, we will review the design and software architecture of Fuego, a
 
 #### Tues 02-08 Case Study: Guest Conversation on Digital Discrimination
 In this session, we will have a conversation with a researcher, advocate, or policymaker working on digital discrimination. 
+
 * (TBD) Read something by the speakers
 * Example invitees: David Robinson (Cornell), Deb Raji (Mozilla), representative of the NY State Attorney General's Office
 
@@ -153,6 +154,7 @@ Algorithms can amplify herding behavior by encouraging people to do something th
 
 #### Tues 03-08 Topic area: Guest Conversation about Algorithms and Hatred
 In this session, we will have a conversation with researchers, advocates, and policymakers working on human-algorithm feedback and hatred.
+
 * (TBD) Read something from the speaker
 * Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)
 
@@ -174,6 +176,7 @@ People claim that algorithms amplify and spread hatred, misogyny and extremism. 
 
 #### Thurs 03-17 Student Presentations of Human-Algorithm Feedback Topics
 In your final-project teams, students will present a 3 minute presentation to summarize and analyze an issue in human-algorithm feedback that you would like to work on for your final. Fellow students will submit feedback and suggestions. In addition to the case studies across this syllabus, further examples for inspiration include:
+
 * [Flash crashes](https://doi.org/10.1007/s11408-019-00331-6) in financial markets
 * [Route-mapping software sending people into forest fires](http://www.slate.com/blogs/future_tense/2017/12/07/california_wildfires_raise_questions_about_whether_you_can_trust_waze_google.html)
 * Duffy, B. E. (2020). [Algorithmic precarity in cultural work](https://journals.sagepub.com/doi/full/10.1177/2057047320959855?casa_token=ufuOcpB5apQAAAAA%3Apy7NWKzZbQeeTqEtcqFVLBUQVtpYlsx51Fo67DZQJnKM8gxbfQJa7w6HANUf1oksr-MEFvyf6ytKsg). Communication and the Public, 5(3-4), 103-107.
@@ -213,6 +216,7 @@ We have now been using the Fuego news recommender system for over a month. In th
 * Bakshy, E., Messing, S., & Adamic, L. A. (2015). Exposure to ideologically diverse news and opinion on Facebook. Science, 348(6239), 1130-1132.
 
 Possible analyses include:
+
 * Analyzing the articles suggested by the system for gender bias
 * Analyzing the initial seed communityfor evidence of gender bias in who they follow or whose articles they share on social media
 * Analyzing the supply of links provided by publishers for things such as gender bias

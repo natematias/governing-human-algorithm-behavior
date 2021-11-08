@@ -1,7 +1,8 @@
 # COMM 4940: Governing Human-Algorithm Behavior
 [J. Nathan Matias](https://natematias.com), Department of Communication, nathan.matias@cornell.edu
 
-*Tuesday and Thursday, 9:40am-10:55pm Spring 2022 ([see class roster](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))*
+* Spring 2022 ([see class roster](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))*
+* Tuesday and Thursday, 9:40am-10:55pm 
 
 ![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png)
 
@@ -12,7 +13,7 @@ In this course for (25) upper-level undergraduates and (5) PhD students, you wil
 This course is an excellent stepping stone for anyone interested in a career in policy, advocacy, academia, or industry research.
 
 ## What You Learn
-In this seminar class, students will engage with the science and policy challenges of regulating human-algorithm behavior. Along the way, students will engage with scientific issues of methods, theory, and ethics, policy questions about how to govern these situations, and how to bridge between science and policy in a democracy. For a final project, student teams (of 2-3) will produce a novel project that makes a contribution at the intersection of science and policy.
+In this seminar class, you will engage with the science and policy challenges of regulating human-algorithm behavior. Along the way, you will work with scientific issues of methods, theory, and ethics, policy questions about how to govern these situations, and how to bridge between science and policy in a democracy. For a final project, student teams (of 2-3) will produce a novel project that makes a contribution at the intersection of science and policy.
 
 By the end of the semester, students will be able to:
 - Identify, analyze, and evaluate claims about how human and algorithm behavior interact

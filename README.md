@@ -87,7 +87,7 @@ In this session, we will review the design and software architecture of Fuego, a
 In this session, we will have a conversation with a researcher, advocate, or policymaker working on digital discrimination. 
 
 * (TBD) Read something by the speakers
-* Example invitees: David Robinson (Cornell), Deb Raji (Mozilla), representative of the NY State Attorney General's Office
+* <!--Example invitees: David Robinson (Cornell), Deb Raji (Mozilla), representative of the NY State Attorney General's Office-->
 
 #### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
 Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.

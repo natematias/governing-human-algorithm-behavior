@@ -1,13 +1,13 @@
 # COMM 4940: Governing Human-Algorithm Behavior
 [J. Nathan Matias](https://natematias.com), Department of Communication, nathan.matias@cornell.edu
 
-*Tuesday and Thursday, Spring 2022*
+*Tuesday and Thursday, 9:40am-10:55pm Spring 2022 ([see class roster](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))*
 
 ![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png)
 
 Algorithms that monitor and influence human behavior are everywhere—directing the behavior of law enforcement, managing the world's financial systems, shaping our cultures, and flipping a coin on the success or failure of movements for change. Since human-algorithm feedback is already a basic pattern in society, we urgently need ways to assess the impact of attempts to steer that feedback toward justice.
 
-In this course for upper-level undergraduates and PhD students, you will learn about the design of adaptive algorithms and the feedback patterns they create with human behavior. You will learn about the challenge they represent for social policy, about ways to research their behavior, and about emerging policy ideas for governing these complex patterns. You will get first-hand experience at diagnosing and attempting to change a feedback system. Along the way, you will hear from pioneers in policy, advocacy, and scholarship.
+In this course for (25) upper-level undergraduates and (5) PhD students, you will learn about the design of adaptive algorithms and the feedback patterns they create with human behavior. You will learn about the challenge they represent for social policy, about ways to research their behavior, and about emerging policy ideas for governing these complex patterns. You will get first-hand experience at diagnosing and attempting to change a feedback system. Along the way, you will hear from pioneers in policy, advocacy, and scholarship.
 
 This course is an excellent stepping stone for anyone interested in a career in policy, advocacy, academia, or industry research.
 

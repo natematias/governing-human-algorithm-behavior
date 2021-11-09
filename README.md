@@ -60,7 +60,9 @@ PhD students are encouraged to bring an existing research question that they wis
 * an empirical study proposal (such as a registered report)
 * a pitch deck or grant proposal to create an organization/business/convening
 * a strategic plan for an advocacy campaign
-* a storyboard for a public education initiative
+* a storyboard for a public education initiative (film, website, videogame)
+* one or more Wikipedia articles about key people or topics 
+* a workshop facilitation plan for students, communities, policymakers, or activists
 
 *Grading*: Participation in class & online: 20%. Algorithm Analysis: 20%. Midterm project proposal: 20%. Final project: 40%.
 

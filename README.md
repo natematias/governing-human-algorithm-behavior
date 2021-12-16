@@ -2,7 +2,7 @@
 [J. Nathan Matias](https://natematias.com) &lt;nathan.matias AT cornell.edu&gt; , Department of Communication, Field Member, Information Science
 
 * Spring 2022 ([see course listing](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))
-* Tuesday and Thursday, 9:40am-10:55pm 
+* Tuesday and Thursday, 9:40am-10:55am 
 
 ![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png)
 

@@ -3,6 +3,7 @@
 
 * Spring 2022 ([see course listing](https://classes.cornell.edu/browse/roster/SP22/class/COMM/4940))
 * Tuesday and Thursday, 9:40am-10:55am 
+* Location: Online until Feb 8. From that point, Comstock B108
 
 ![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png)
 

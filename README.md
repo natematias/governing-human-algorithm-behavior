@@ -326,16 +326,27 @@ In this session, teams will give a final presentation of their project, with an 
 
 ### Weekly Workload
 
-Before each class, I will assign two readings I expect you to read before class. As part of class participation, you will submit a reaction comment on one of the readings to Element and respond to at least one other student's comment by 9pm Eastern the night before class. Please come to class with at least one question about each reading.
+Before each class, I will assign **two readings** I expect you to read before class. As part of class participation, you will submit a reaction comment on one of the readings to Element and respond to at least one other student's comment by 9pm Eastern the night before class. Please come to class with:
+* The ability to summarize:
+  * the goal/question of the paper
+  * the field or ecosystem that the author is in
+  * what constitutes an advancement in that field
+  * how the paper advances the conversation
+  * a question or observation that links the paper to the theme of the day or the theme of the course 
 
 Each week, students are expected to post at least one link recommended by the Fuego system to Element and add at least one comment in response to one other student's post.
 
-Graduate students will have additional readings and will rotate responsibility for summarizing the reading for the rest of the class.
+Graduate students will have additional readings and will rotate responsibility for summarizing the reading for the rest of the class. Summarizing the reading will involve:
+* Creating 2-3 slides for the reading
+  * Slide one: introducing the core question of the paper, and the authors
+  * Slide two: summarize the methods and findings of the paper
+  * Slide three: one to two discussion questions that link the paper to the theme of the class
+* Alt: if the author of the paper is a guest speaker, the graduate student will interview the guest
 
 Since this is a discussion course, attendance is expected.
 
 ### Participation in Discussions
-Please post discussions about readings and questions about the course to our chatroom in #discussion. Please use your Cornell University email address when requesting to join the workspace.
+Please post discussions about readings and questions about the course to our chatroom in #discussion on Element. Please use your Cornell University email address when requesting to join the workspace.
 
 Whenever the course has assigned reading for a session, you are expected to post at least one top-level comment and one reply to the chat. Participation will be 20% of your course grade.
 
@@ -403,8 +414,16 @@ Letter Grade	Numeric Grade
 ### Grace Period
 Late Submissions: All assignments have an automatic one-day grace period. On time and early papers are always encouraged and will be graded the same week. Students can turn in the assignment up to a day late, no questions asked, with the expectation that it could take substantially longer to receive a grade and feedback. After that, an automatic one grade (A to B, B to C, etc) is dropped on the assignment.
 
+If you turned in an assignment on time and haven't received a grade within the expected period, please contact the instructor in case of a technical glitch.
+
+### COVID Policies
+Students are expected to follow [Cornell COVID policies for students](https://covid.cornell.edu/students/), including vaccination and masking. 
+
 ### Accommodations
-Please let me know as soon as possible if you need accommodations (e.g. for disabilities).
+Please let me know as soon as possible if you need accommodations (e.g. for disabilities), and I will work with you to ensure you have the best possible class experience.
+
+### Health Accommodation for Professor Matias
+As part of a [medical condition of my own](https://natematias.com/portfolio/2021-06-06-ithaca-allergies/), I may on rare occasion need to teach remotely. Since I may not be alerted to this need until the morning before class, I will ask the designated presenting graduate student to also set up a video chat feed for me to join. 
 
 ### Counseling Resources
 It is common for students to experience stressful events at some point during graduate school. Students sometimes experience depression, anxiety, family stress, the loss of loved ones, financial strain, and other stressors. It is perfectly normal for students to seek the service of mental health professionals to provide them with support and skills to cope with these experiences. Below I have provided the contact information for some of the mental health services available to Cornell University students so that you will know where you can go if you or a friend would like to take advantage of these resources.

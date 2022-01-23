@@ -132,8 +132,10 @@ Common discussions of algorithm governance focus on decision-making, which is a 
 
 * Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "The Problem Space" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
 * Matias, J.N. (2021) [Nudging Algorithms by Influencing Humans](https://osf.io/m98b6/) (under review).
-* (gradstudents) Licklider, J. C. (1960). [Man-computer symbiosis. IRE transactions on human factors in electronics](https://groups.csail.mit.edu/medg/people/psz/Licklider.html), (1), 4-11.
-  *  For historical context: Mindell, David A. (2002) [Cybernetics](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF). From Research Seminar in Engineering Systems http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF
+* (gradstudents) Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "Dynamic Fairness" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
+
+<!--* (gradstudents) Licklider, J. C. (1960). [Man-computer symbiosis. IRE transactions on human factors in electronics](https://groups.csail.mit.edu/medg/people/psz/Licklider.html), (1), 4-11.
+  *  For historical context: Mindell, David A. (2002) [Cybernetics](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF). From Research Seminar in Engineering Systems http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF -->
 
 #### Tues 02-15 Discussing and brainstorming final project ideas
 In this session, we will discuss final project ideas. As a reminder, the final project is is a team project that intervenes in some way on human-algorithm feedback. For this class, you will pick an example and present to the class about what this kind of project entails and how you think it might contribute to governance.

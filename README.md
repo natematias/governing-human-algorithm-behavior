@@ -88,14 +88,29 @@ This class session will introduce the course and pose initial questions.
 To build our intuitions about governing algorithms and what to do about it, we're going to consider an in-depth series of classes about discrimination online. This class introduces the case study.
 
 * McGhee, H. (2021). "Racism Drained the Pool" from The sum of us: What racism costs everyone and how we can prosper together. One World.
-* Cox, M. (2017) [The Face of Airbnb, New York City](http://insideairbnb.com/reports/the-face-of-airbnb-nyc.pdf). ([read about the project](http://insideairbnb.com/face-of-airbnb-nyc/))
+ * Read pages 17 - 28
+* Cox, M. (2017) [The Face of Airbnb, New York City](http://insideairbnb.com/reports/the-face-of-airbnb-nyc.pdf). ([read about the project](https://medium.com/bloomberg/meet-murray-cox-the-man-trying-to-take-down-airbnb-ce9e81faf9f6))
 * (gradstudents) Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb. com.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2377353) Harvard Business School NOM Unit Working Paper, (14-054).
+
+Questions to think about from The Sum of Us: 
+* What is a public good? (you might want to bring in knowledge from other courses)
+* What was the role of institutions (such as city councils) in upholding discrimination at pools before de-segregation? What was their role afterward?
+* What was the role of White swimmers in upholding discrimination at pools before de-segregation? What was their role afterward?
+* The Civil Rights Act of 1964 prohibited discrimination in public accommodations and federally funded programs, requiring towns to make public services equally available to everyone regardless of race, color, religion, sex or national origin. Why might we believe that changing institutional policies could reduce discrimination?
+* Did changes to government policies reduce discrimination in pools?
+* If we wanted to describe discrimination in public pools as a feedback loop, how would we do that?
+
+Questions to think about from The Face of Airbnb:
+* Why might Black people in predominantly-Black New York City neighborhoods make less on Airbnb?
+* What other harms might Airbnb represent for Black residents beyond differences in rental rates?
+* How do inequality and discrimination occur on Airbnb?
+* Why did Murray Cox write this report? Who was his audience? What did he hope to achieve?
 
 #### Tues 02-01 Case Study on Discrimination: Laws, Individuals, Organizations, and Code
 Discrimination has a history and is reinforced through feedback from multiple sources: laws, individuals, organizations, and code. In this class, we will discuss how they interact.
 
-* Rothstein, Richard. (2017) "If San Francisco, then everywhere?" from The Color of Law. Economic Policy Institute.
-* Noble, S. (2018). "Searching for Black Girls" from Algorithms of Oppression. MIT Press.
+* Rothstein, Richard. (2017) "[If San Francisco, then everywhere?](https://erenow.net/modern/color-of-law-forgotten-history/2.php)" from The Color of Law. Economic Policy Institute.
+* Noble, S. (2018). "Searching for Black Girls" from [Algorithms of Oppression](https://newcatalog.library.cornell.edu/catalog/10294895). NYU Press.
 * (gradstudents) Ray, V. (2019). A theory of racialized organizations. American Sociological Review, 84(1), 26-53.
 
 #### Thurs 02-03 Tech and Methods: How Do Adaptive Algorithms Work?

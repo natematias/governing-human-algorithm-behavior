@@ -269,7 +269,7 @@ Possible analyses include:
 * Comparing what Fuego recommends to what you might otherwise receive, without Fuego
 * Interviewing people to solicit their theories for how Fuego suggests things to them
 
-#### SPRING BREAK
+#### SPRING BREAK (Syllabus Adjustment Check-In)
 
 #### Tues 04-05 Research Methods: Lab Tests and Simulations
 Is it possible to anticipate problems with human-algorithm behavior before they happen? How can we design research methods to do this anticipatory work?

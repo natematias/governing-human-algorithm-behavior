@@ -120,7 +120,7 @@ In this session, we will review the design and software architecture of Fuego, a
 * Phelps, A. (2013) [Introducing OpenFuego, your very own heat-seeking Twitter bot](https://www.niemanlab.org/2013/07/introducing-openfuego-your-very-own-heat-seeking-twitter-bot/). NiemanLab
   * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
 
-#### Tues 02-08 Case Study: Guest Conversation on Digital Discrimination
+#### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
 In this session, we will have a conversation with a researcher, advocate, or policymaker working on digital discrimination. 
 
 * (TBD) Read something by the speakers

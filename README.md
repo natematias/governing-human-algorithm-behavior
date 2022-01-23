@@ -121,17 +121,19 @@ In this session, we will review the design and software architecture of Fuego, a
   * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
 
 #### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
-In this session, we will have a conversation with a researcher, advocate, or policymaker working on digital discrimination. 
+In this session, we will have a conversation with a guest working on digital discrimination. 
 
-* (TBD) Read something by the speakers
-* <!--Example invitees: David Robinson (Cornell), Deb Raji (Mozilla), representative of the NY State Attorney General's Office-->
+* Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
+* Something from the speaker
+* 
 
 #### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
 Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.
 
+* Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "The Problem Space" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
 * Matias, J.N. (2021) [Nudging Algorithms by Influencing Humans](https://osf.io/m98b6/) (under review).
-* Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
-* (gradstudents) Wiener, N. (1948). "Feedback and Oscillation" from Cybernetics or Control and Communication in the Animal and the Machine. MIT press.
+* (gradstudents) Licklider, J. C. (1960). [Man-computer symbiosis. IRE transactions on human factors in electronics](https://groups.csail.mit.edu/medg/people/psz/Licklider.html), (1), 4-11.
+  *  For historical context: Mindell, David A. (2002) [Cybernetics](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF). From Research Seminar in Engineering Systems http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF
 
 #### Tues 02-15 Discussing and brainstorming final project ideas
 In this session, we will discuss final project ideas. As a reminder, the final project is is a team project that intervenes in some way on human-algorithm feedback. For this class, you will pick an example and present to the class about what this kind of project entails and how you think it might contribute to governance.

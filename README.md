@@ -194,11 +194,24 @@ Algorithms can amplify herding behavior by encouraging people to do something th
 * Bravo, D. Y., Jefferies, J., Epps, A., & Hill, N. E. (2019). [When Things Go Viral: Youth’s Discrimination Exposure in the World of Social Media](https://link.springer.com/chapter/10.1007/978-3-030-12228-7_15). In Handbook of Children and Prejudice (pp. 269–287). Springer.
 * (graduate students) Brayne, S. (2020). "Directed Surveillance: Predictive Policing and Quantified Risk," from Predict and surveil: Data, discretion, and the future of policing. Oxford University Press, USA.
 
-#### Tues 03-08 Topic area: Guest Conversation about Algorithms and Hatred
-In this session, we will have a conversation with researchers, advocates, and policymakers working on human-algorithm feedback and hatred.
+#### Tues 03-08 Topic area: How to Evaluate A Recommender System?
+If we have concerns about collective human-algorithm behavior, what methods might we use to study them? In this class, we will brainstorm ways to evaluate and assess the behavior of the _Fuego_ system, in advance of choosing midterm project topics.
+
+* Bakshy, E., Messing, S., & Adamic, L. A. (2015). [Exposure to ideologically diverse news and opinion on Facebook](https://www.science.org/doi/10.1126/science.aaa1160). Science, 348(6239), 1130-1132.
+
+Possible project ideas include:
+
+* Analyzing the articles suggested by the system for gender bias
+* Analyzing the initial seed communityfor evidence of gender bias in who they follow or whose articles they share on social media
+* Analyzing the supply of links provided by publishers for things such as gender bias
+* Analyzing the before/after sharing behavior of accounts that subscribe to the system
+* Altering the Fuego code and observing how the recommendations change
+* Simluating feedback in cases where Fuego is attending to accounts that are paying attention to it
+* Simulate whether it would be possible for Fuego to reduce gender bias in social media behavior
+* Comparing what Fuego recommends to what you might otherwise receive, without Fuego
+* Interviewing people to solicit their theories for how Fuego suggests things to them
 
 * (TBD) Read something from the speaker
-<!--* Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)-->
 
 #### Thurs 03-10 Feedback Pattern: Thresholds
 Patterns of human and algorithm behavior can dramatically change when their behavior reaches a certain threshold. For example, a popular conversation within a marginalized group might attract harassment if an algorithm amplifies it to a wider population where hatred prevails.
@@ -213,6 +226,8 @@ People claim that algorithms amplify and spread hatred, misogyny and extremism. 
 * Tufekci, Z. (2018). [YouTube, the great radicalizer](https://coinse.io/assets/files/teaching/2019/cs489/Tufekci.pdf). The New York Times, 10, 2018.
 * Massanari, A. (2017). [#Gamergate and The Fappening: How Reddit’s algorithm, governance, and culture support toxic technocultures.](https://journals.sagepub.com/doi/abs/10.1177/1461444815608807) New Media & Society, 19(3), 329–346.
 * (gradstudents) Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). [Examining the consumption of radical content on YouTube](https://www.pnas.org/content/118/32/e2101967118.short). Proceedings of the National Academy of Sciences, 118(32).
+
+<!--* Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)-->
 
 <!--* Airbnb. (2020) [A new way we're fighting discrimination on Airbnb](https://www.airbnb.com/resources/hosting-homes/a/a-new-way-were-fighting-discrimination-on-airbnb-201). Airbnb.-->
 
@@ -254,8 +269,6 @@ What is evidence-based governance and how might research contribute (or not) to 
 
 #### Thurs 03-31 Assessing The Class Recommender System
 We have now been using the Fuego news recommender system for over a month. In this class, teams will present analyses of the Fuego system for class discussion using perspectives and methods introduced in this class.
-
-* Bakshy, E., Messing, S., & Adamic, L. A. (2015). [Exposure to ideologically diverse news and opinion on Facebook](https://www.science.org/doi/10.1126/science.aaa1160). Science, 348(6239), 1130-1132.
 
 Possible analyses include:
 

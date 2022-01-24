@@ -119,7 +119,7 @@ In this session, we will review the design and software architecture of Fuego, a
 * Shardanand, U., & Maes, P. (1995, May). [Social information filtering: Algorithms for automating “word of mouth”](https://dl.acm.org/doi/10.1145/223904.223931). In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 210-217).
 * Phelps, A. (2013) [Introducing OpenFuego, your very own heat-seeking Twitter bot](https://www.niemanlab.org/2013/07/introducing-openfuego-your-very-own-heat-seeking-twitter-bot/). NiemanLab
   * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
-* (gradstudents) Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905. In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).
+* (gradstudents) Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905). In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).
 
 #### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
 In this session, we will have a conversation with [David Robinson](https://david.robinsonian.com/), visiting scholar at UC Berkeley, former managing director and co-founder of [Upturn](https://www.upturn.org/), and author of _Voices In the Code_, a 2022 book on the role of software-based decision-making systems in democracy.

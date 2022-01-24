@@ -116,16 +116,16 @@ Discrimination has a history and is reinforced through feedback from multiple so
 #### Thurs 02-03 Tech and Methods: How Do Adaptive Algorithms Work?
 In this session, we will review the design and software architecture of Fuego, a widely-influential system used by the Nieman Journalism Lab at Harvard to amplify news about journalism. In this session, we will also discuss the assignment due on 03/31.
 
-* (TBD) Introductory text on recommender systems
+* Shardanand, U., & Maes, P. (1995, May). [Social information filtering: Algorithms for automating “word of mouth”](https://dl.acm.org/doi/10.1145/223904.223931). In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 210-217).
 * Phelps, A. (2013) [Introducing OpenFuego, your very own heat-seeking Twitter bot](https://www.niemanlab.org/2013/07/introducing-openfuego-your-very-own-heat-seeking-twitter-bot/). NiemanLab
   * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
+* (gradstudents) Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905. In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).
 
 #### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
-In this session, we will have a conversation with a guest working on digital discrimination. 
+In this session, we will have a conversation with [David Robinson](https://david.robinsonian.com/), visiting scholar at UC Berkeley, former managing director and co-founder of [Upturn](https://www.upturn.org/), and author of _Voices In the Code_, a 2022 book on the role of software-based decision-making systems in democracy.
 
-* Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
-* Something from the speaker
-* 
+* Chapter from _Voices in the Code_ (see Canvas)
+* (gradstudents) Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
 
 #### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
 Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.

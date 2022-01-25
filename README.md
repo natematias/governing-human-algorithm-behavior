@@ -358,7 +358,7 @@ In this session, teams will give a final presentation of their project, with an 
 
 ### Weekly Workload
 
-Before each class, I will assign **two readings** I expect you to read before class. As part of class participation, you will submit a reaction comment on one of the readings to Element and respond to at least one other student's comment by 9pm Eastern the night before class. Please come to class with:
+Before each class, I will assign **two readings** I expect you to read before class. As part of class participation, you will submit a reaction comment on one of the readings to the relevant discussion on Canvas and respond to at least one other student's comment by 9pm Eastern the night before class. Please come to class with:
 * The ability to summarize:
   * the goal/question of the paper
   * the field or ecosystem that the author is in
@@ -366,7 +366,7 @@ Before each class, I will assign **two readings** I expect you to read before cl
   * how the paper advances the conversation
   * a question or observation that links the paper to the theme of the day or the theme of the course 
 
-Each week, students are expected to post at least one link recommended by the Fuego system to Element and add at least one comment in response to one other student's post.
+Each week, students are expected to post at least one link recommended by the Fuego system to Element in #discussion and add at least one comment in response to one other student's posted link. We will introduce the Fuego system on February 3rd.
 
 Graduate students will have additional readings and will rotate responsibility for summarizing the reading for the rest of the class. Summarizing the reading will involve:
 * Creating 2-3 slides for the reading
@@ -378,15 +378,16 @@ Graduate students will have additional readings and will rotate responsibility f
 Since this is a discussion course, attendance is expected.
 
 ### Participation in Discussions
-Please post discussions about readings and questions about the course to our chatroom in #discussion on Element. Please use your Cornell University email address when requesting to join the workspace.
+Please post discussions about readings to Canvas. 
 
-Whenever the course has assigned reading for a session, you are expected to post at least one top-level comment and one reply to the chat. Participation will be 20% of your course grade.
+Weekly discussions of Fuego and other relevant news links (details tbd) should be posted to Element. Instructions for joining Element are available on Canvas. Please use your Cornell University email address when requesting to join the Element workspace.
+
+Whenever the course has assigned reading for a session, you are expected to post at least one top-level comment and one reply to someone else's comment. Participation will be 20% of your course grade.
 
 Here is how we will use channels:
 
 * #discussion: please post your comment and your reply to this channel. This space will be evaluated for your participation grade.
-* #support: this room is for discussion of technical support issues
-* #announcements: will include announcements and discussion of class and syllabus issues
+* #announcements: will include announcements and discussion of class and syllabus issues. You can ask tech support questions here.
 * #random: is for news links to relevant content you're finding online and general encouragement to your fellow students
 * team-specific rooms are for coordinating with your team and sharing project-specific questions to the professor
 

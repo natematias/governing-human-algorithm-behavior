@@ -110,15 +110,39 @@ Questions to think about from The Face of Airbnb:
 Discrimination has a history and is reinforced through feedback from multiple sources: laws, individuals, organizations, and code. In this class, we will discuss how they interact.
 
 * Rothstein, Richard. (2017) "[If San Francisco, then everywhere?](https://erenow.net/modern/color-of-law-forgotten-history/2.php)" from The Color of Law. Economic Policy Institute.
-* Noble, S. (2018). "Searching for Black Girls" from [Algorithms of Oppression](https://newcatalog.library.cornell.edu/catalog/10294895). NYU Press.
-* (gradstudents) Ray, V. (2019). A theory of racialized organizations. American Sociological Review, 84(1), 26-53.
+* Noble, S. (2018). "Searching for Black Girls" from [Algorithms of Oppression](https://newcatalog.library.cornell.edu/catalog/10294895). NYU Press. (Pages 64-84)
+* (gradstudents) Ray, V. (2019). [A theory of racialized organizations](https://journals.sagepub.com/doi/full/10.1177/0003122418822335). American Sociological Review, 84(1), 26-53.
+
+Questions to consider from The Color of Law:
+* How was discrimination built into:
+    * Government housing allocation
+    * Access to education
+    * The geography of the Bay area
+    * Government services
+    * Policing
+    * Jobs & employment
+    * Access to loans
+    * Public advertising
+
+Questions to consider from Algorithms of Oppression:
+* What is "racialization" ?
+* How might the patterns described in The Color of Law influence the patterns observed in Algorithms of Oppression?
+    * Who gets to create algorithms
+    * Who gets to teach the people who create algorithms
+    * What information the algorithms learn from
+    * What questions people type into search boxes
+    * What ads appear next to search terms
+
+Overall questions: 
+* how might we describe these patterns as feedback loops?
+* what makes algorithms similar to other sources of discrimination, and what makes them different?
 
 #### Thurs 02-03 Tech and Methods: How Do Adaptive Algorithms Work?
-In this session, we will review the design and software architecture of Fuego, a widely-influential system used by the Nieman Journalism Lab at Harvard to amplify news about journalism. In this session, we will also discuss the assignment due on 03/31.
+In this session, we will review the design and software architecture of Fuego, a widely-influential system used by the Nieman Journalism Lab at Harvard to amplify news about journalism. In this session, we will also discuss the assignment due on 03/31. Our guest will be [Andrew Phelps](https://andrewphelps.com/), former Vice President at The Atlantic.
 
 * Shardanand, U., & Maes, P. (1995, May). [Social information filtering: Algorithms for automating “word of mouth”](https://dl.acm.org/doi/10.1145/223904.223931). In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 210-217).
 * Phelps, A. (2013) [Introducing OpenFuego, your very own heat-seeking Twitter bot](https://www.niemanlab.org/2013/07/introducing-openfuego-your-very-own-heat-seeking-twitter-bot/). NiemanLab
-  * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
+    * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
 * (gradstudents) Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905). In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).
 
 #### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
@@ -254,7 +278,7 @@ People are often influenced by algorithms by design, but algorithms can also hav
 
 * Schauer, F. (1978). [Fear, Risk and the First Amendment: Unraveling the Chilling Effect](https://scholarship.law.wm.edu/facpubs/879/). Boston University Law Review, 58(5), 685–732.
 * Brayne, S. (2014). Surveillance and system avoidance: Criminal justice contact and institutional attachment. American Sociological Review, 79(3), 367–391.
-* (graduate student) Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment. https://doi.org/DOI 10.17605/OSF.IO/NC7E2
+* (graduate student) Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/). https://osf.io/nc7e2/
 
 <!--#### Thurs 03-24 Journalism and Policy: Hype Cycles or Accountability?
 * (TBD: pick a recent example of tech accountability journalism)

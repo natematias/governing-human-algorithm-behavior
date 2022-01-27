@@ -106,6 +106,8 @@ Questions to think about from The Face of Airbnb:
 * How do inequality and discrimination occur on Airbnb?
 * Why did Murray Cox write this report? Who was his audience? What did he hope to achieve?
 
+---
+
 #### Tues 02-01 Case Study on Discrimination: Laws, Individuals, Organizations, and Code
 Discrimination has a history and is reinforced through feedback from multiple sources: laws, individuals, organizations, and code. In this class, we will discuss how they interact.
 
@@ -137,6 +139,8 @@ Overall questions:
 * how might we describe these patterns as feedback loops?
 * what makes algorithms similar to other sources of discrimination, and what makes them different?
 
+---
+
 #### Thurs 02-03 Tech and Methods: How Do Adaptive Algorithms Work?
 In this session, we will review the design and software architecture of Fuego, a widely-influential system used by the Nieman Journalism Lab at Harvard to amplify news about journalism. In this session, we will also discuss the assignment due on 03/31. Our guest will be [Andrew Phelps](https://andrewphelps.com/), former Vice President at The Atlantic.
 
@@ -145,11 +149,15 @@ In this session, we will review the design and software architecture of Fuego, a
     * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
 * (gradstudents) Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905). In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).
 
+---
+
 #### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
 In this session, we will have a conversation with [David Robinson](https://david.robinsonian.com/), visiting scholar at UC Berkeley, former managing director and co-founder of [Upturn](https://www.upturn.org/), and author of _Voices In the Code_, a 2022 book on the role of software-based decision-making systems in democracy.
 
 * Chapter from _Voices in the Code_ (see Canvas)
 * (gradstudents) Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
+
+---
 
 #### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
 Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.
@@ -160,6 +168,8 @@ Common discussions of algorithm governance focus on decision-making, which is a 
 
 <!--* (gradstudents) Licklider, J. C. (1960). [Man-computer symbiosis. IRE transactions on human factors in electronics](https://groups.csail.mit.edu/medg/people/psz/Licklider.html), (1), 4-11.
   *  For historical context: Mindell, David A. (2002) [Cybernetics](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF). From Research Seminar in Engineering Systems http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF -->
+
+---
 
 #### Tues 02-15 Discussing and brainstorming final project ideas
 In this session, we will discuss final project ideas. As a reminder, the final project is is a team project that intervenes in some way on human-algorithm feedback. For this class, you will pick an example and present to the class about what this kind of project entails and how you think it might contribute to governance.
@@ -181,6 +191,8 @@ In this session, we will discuss final project ideas. As a reminder, the final p
   * Guide: CommunityToolBox (2021) [Developing a Plan for Advocacy](https://ctb.ku.edu/en/table-of-contents/advocacy/advocacy-principles/advocacy-plan/main). University of Kansas.
 * a storyboard for a public education initiative (a website or video)
   * Example: [The Coded Gaze: Unmasking Algorithmic Bias](https://www.youtube.com/watch?v=162VzSzzoPs)
+
+---
 
 #### Thurs 02-17 Case Study: Algorithms as Solutions to Discrimination
 Can algorithms reduce dicrimination since they're easier to change than biased humans? So far, this has only been deliberately tried with decision-making systems, so the answer is unknown. So in this class, we look at algorithm solutions to decision-making discrimination.

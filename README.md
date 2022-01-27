@@ -84,6 +84,8 @@ Nathan is the founder of the <a href="citizensandtech.org/">Citizens and Technol
 #### Tues 01-25 Why Should We Care About Human-Algorithm Behavior? (Intro class)
 This class session will introduce the course and pose initial questions.
 
+---
+
 #### Thurs 01-27 Case Study: Algorithms and Discrimination
 To build our intuitions about governing algorithms and what to do about it, we're going to consider an in-depth series of classes about discrimination online. This class introduces the case study.
 

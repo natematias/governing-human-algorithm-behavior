@@ -151,6 +151,19 @@ In this session, we will review the design and software architecture of Fuego, a
     * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
 * (gradstudents) Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905). In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).
 
+**Posting links**: Starting this week, students are expected to post to Element one link a week that they observed on Fuego. When posting, include one sentence about why it's relevant to the course.
+
+Questions to consider:
+* What are social recommendations? How do they differ from personalized recommendations?
+* When would you want a personalized recommendation, and when would you want a recommendation that is not personalized?
+* What are the pros and cons of relying links shared on Twitter to get news and information about tech policy— especially in contrast with:
+  * a [Google alert](https://www.google.com/alerts)
+  * a [Google Scholar alert](https://scholar.google.com/intl/en/scholar/help.html) for recent papers
+  * subscribing to a newsletter like [Tech Policy Press](https://techpolicy.press/about/)
+  * following several thousand people on Twitter
+* How might the Fuego system contribute to discrimination or bias in the understanding of its users? How might it reduce discrimination?
+* If Fuego were following the people who follow Fuego, what do you think might happen?
+
 ---
 
 #### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making

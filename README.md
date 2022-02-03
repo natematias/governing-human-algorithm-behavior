@@ -169,8 +169,18 @@ Questions to consider:
 #### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
 In this session, we will have a conversation with [David Robinson](https://david.robinsonian.com/), visiting scholar at UC Berkeley, former managing director and co-founder of [Upturn](https://www.upturn.org/), and author of _Voices In the Code_, a 2022 book on the role of software-based decision-making systems in democracy.
 
-* Chapter from _Voices in the Code_ (see Canvas)
+* Chapter from _Voices in the Code_ (see Files under Canvas)
 * (gradstudents) Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
+
+Questions to consider:
+* From Voices in the Code:
+   * What is a "high-stakes" decision-making algorithms? 
+   * How might more technology mean less democracy?
+   * Why should governing (digital) algorithms be any different than governing anything else?
+   * What kind of moral burdens to algorithms take on?
+   * Why are trade-offs so important for decision-making algorithms?
+* Gradstudent Questions on Algorithmic Fairness:
+   * Identify two concepts from this review article that can shed light on the questions raised by Voices in the Code
 
 ---
 

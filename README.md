@@ -205,7 +205,7 @@ In this session, we will discuss final project ideas. As a reminder, the final p
   * example: Stray, J. (2021) [Designing Recommender Systems to Depolarize](https://arxiv.org/abs/2107.04953). Arxiv.
 * a simulation or prototype software system
   * example: Hart, V., Case, N. [Parable of the Polygons](https://ncase.me/polygons/). 
-  * example: Emden, Robin van. (2020) [Demo: Replication of John Myles White, Bandit Algorithms for Website Optimization](https://cran.r-project.org/web/packages/contextual/vignettes/website_optimization.html)
+  * example: Emden, Robin van. (2020) [Demo: Replication of John Myles White, Bandit Algorithms for Website Optimization](https://nth-iteration-labs.github.io/contextual/articles/website_optimization.html)
 * a "perspectives" style scholarly article
   * Wagner, C., Strohmaier, M., Olteanu, A., Kıcıman, E., Contractor, N., & Eliassi-Rad, T. (2021). [Measuring algorithmically infused societies](https://www.nature.com/articles/s41586-021-03666-1). Nature, 595(7866), 197-204.
 * an empirical study proposal (such as a registered report)

@@ -219,12 +219,27 @@ In this session, we will discuss final project ideas. As a reminder, the final p
 
 ---
 
-#### Thurs 02-17 Case Study: Algorithms as Solutions to Discrimination
-Can algorithms reduce dicrimination since they're easier to change than biased humans? So far, this has only been deliberately tried with decision-making systems, so the answer is unknown. So in this class, we look at algorithm solutions to decision-making discrimination.
+#### Thurs 02-17 Topic area: How to Evaluate A Recommender System?
+If we have concerns about collective human-algorithm behavior, what methods might we use to study them? In this class, we will brainstorm ways to evaluate and assess the behavior of the _Fuego_ system, in advance of choosing midterm project topics.
 
-* Mullainathan, S. (2019). Biased algorithms are easier to fix than biased people. The New York Times.
-* Zhang, S., Mehta, N., Singh, P. V., & Srinivasan, K. (2021). [Can an AI Algorithm Mitigate Racial Economic Inequality? An Analysis in the Context of Airbnb](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770371). SSRN
-* (gradstudents) Pierson, E., Cutler, D. M., Leskovec, J., Mullainathan, S., & Obermeyer, Z. (2021). [An algorithmic approach to reducing unexplained pain disparities in underserved populations](https://www.nature.com/articles/s41591-020-01192-7). Nature Medicine, 27(1), 136-140.
+* Bakshy, E., Messing, S., & Adamic, L. A. (2015). [Exposure to ideologically diverse news and opinion on Facebook](https://www.science.org/doi/10.1126/science.aaa1160). Science, 348(6239), 1130-1132.
+
+Possible project ideas include:
+
+* Analyzing the articles suggested by the system for gender bias
+* Analyzing the initial seed communityfor evidence of gender bias in who they follow or whose articles they share on social media
+* Analyzing the supply of links provided by publishers for things such as gender bias
+* Analyzing the before/after sharing behavior of accounts that subscribe to the system
+* Altering the Fuego code and observing how the recommendations change
+* Simluating feedback in cases where Fuego is attending to accounts that are paying attention to it
+* Simulate whether it would be possible for Fuego to reduce gender bias in social media behavior
+* Comparing what Fuego recommends to what you might otherwise receive, without Fuego
+* Interviewing people to solicit their theories for how Fuego suggests things to them
+
+For today's discussion post:
+* Reflect on your experience of Fuego
+* Identify at least one question we might investigate about Fuego
+* Imagine how you might investigate it—or if you're unsure (or it seems impossible), write about what seems impossible about it  
 
 #### Tues 02-22 What Does it Mean to Understand Human-Algorithm Feedback?
 In order to govern human-algorithm behavior, we need to understand it and develop ideas to intervene. That hope remains elusive. Why is that?
@@ -255,24 +270,12 @@ Algorithms can amplify herding behavior by encouraging people to do something th
 * Bravo, D. Y., Jefferies, J., Epps, A., & Hill, N. E. (2019). [When Things Go Viral: Youth’s Discrimination Exposure in the World of Social Media](https://link.springer.com/chapter/10.1007/978-3-030-12228-7_15). In Handbook of Children and Prejudice (pp. 269–287). Springer.
 * (graduate students) Brayne, S. (2020). "Directed Surveillance: Predictive Policing and Quantified Risk," from Predict and surveil: Data, discretion, and the future of policing. Oxford University Press, USA.
 
-#### Tues 03-08 Topic area: How to Evaluate A Recommender System?
-If we have concerns about collective human-algorithm behavior, what methods might we use to study them? In this class, we will brainstorm ways to evaluate and assess the behavior of the _Fuego_ system, in advance of choosing midterm project topics.
+#### Tues 03-08 Case Study: Algorithms as Solutions to Discrimination
+Can algorithms reduce dicrimination since they're easier to change than biased humans? So far, this has only been deliberately tried with decision-making systems, so the answer is unknown. So in this class, we look at algorithm solutions to decision-making discrimination.
 
-* Bakshy, E., Messing, S., & Adamic, L. A. (2015). [Exposure to ideologically diverse news and opinion on Facebook](https://www.science.org/doi/10.1126/science.aaa1160). Science, 348(6239), 1130-1132.
-
-Possible project ideas include:
-
-* Analyzing the articles suggested by the system for gender bias
-* Analyzing the initial seed communityfor evidence of gender bias in who they follow or whose articles they share on social media
-* Analyzing the supply of links provided by publishers for things such as gender bias
-* Analyzing the before/after sharing behavior of accounts that subscribe to the system
-* Altering the Fuego code and observing how the recommendations change
-* Simluating feedback in cases where Fuego is attending to accounts that are paying attention to it
-* Simulate whether it would be possible for Fuego to reduce gender bias in social media behavior
-* Comparing what Fuego recommends to what you might otherwise receive, without Fuego
-* Interviewing people to solicit their theories for how Fuego suggests things to them
-
-* (TBD) Read something from the speaker
+* Mullainathan, S. (2019). Biased algorithms are easier to fix than biased people. The New York Times.
+* Zhang, S., Mehta, N., Singh, P. V., & Srinivasan, K. (2021). [Can an AI Algorithm Mitigate Racial Economic Inequality? An Analysis in the Context of Airbnb](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770371). SSRN
+* (gradstudents) Pierson, E., Cutler, D. M., Leskovec, J., Mullainathan, S., & Obermeyer, Z. (2021). [An algorithmic approach to reducing unexplained pain disparities in underserved populations](https://www.nature.com/articles/s41591-020-01192-7). Nature Medicine, 27(1), 136-140.
 
 #### Thurs 03-10 Feedback Pattern: Thresholds
 Patterns of human and algorithm behavior can dramatically change when their behavior reaches a certain threshold. For example, a popular conversation within a marginalized group might attract harassment if an algorithm amplifies it to a wider population where hatred prevails.

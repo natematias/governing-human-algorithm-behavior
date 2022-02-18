@@ -247,6 +247,11 @@ In order to govern human-algorithm behavior, we need to understand it and develo
 * Bak-Coleman, J. B., Alfano, M., Barfuss, W., Bergstrom, C. T., Centeno, M. A., Couzin, I. D., ... & Weber, E. U. (2021). [Stewardship of global collective behavior](https://www.pnas.org/content/118/27/e2025764118). Proceedings of the National Academy of Sciences, 118(27).
 * (gradstudents) Kitchin, R. (2017). [Thinking critically about and researching algorithms](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1154087?journalCode=rics20). Information, Communication & Society, 20(1), 14–29.
 
+Questions for discussion:
+* With this "Perspectives" style article in PNAS, Bak-Coleman and colleagues are trying to convince many scientists from many fields to take their idea seriously. What ideas about science and what it achieves allow them to write to so many different fields?
+* The authors write that "We do not have access to a theory-driven, empirically verified body of literature" to answer basic questions about the effects of an algorithm, they describe it to climate models, biochemistry, and ecological science as examples of better-theorized areas. What do they mean by theory, and what would it accomplish?
+* How do we reckon with the problem that variation between people, social contexts, and algorithms might make general theory hard to create? 
+
 #### Thurs 02-24 Feedback Pattern: Reinforcement
 In a series of sessions, we will discuss common patterns of human-algorithm feedback. The first is reinforcement, which happens with individuals in the case of personalization and with groups in the case of herding behavior.
 

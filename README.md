@@ -275,6 +275,12 @@ Algorithms can amplify herding behavior by encouraging people to do something th
 * Bravo, D. Y., Jefferies, J., Epps, A., & Hill, N. E. (2019). [When Things Go Viral: Youth’s Discrimination Exposure in the World of Social Media](https://link.springer.com/chapter/10.1007/978-3-030-12228-7_15). In Handbook of Children and Prejudice (pp. 269–287). Springer.
 * (graduate students) Brayne, S. (2020). "Directed Surveillance: Predictive Policing and Quantified Risk," from Predict and surveil: Data, discretion, and the future of policing. Oxford University Press, USA.
 
+Questions to discuss:
+* How does herding happen even without algorithms? What ideas from your other classes or research might help explain herding? (COMM 2450 students - remember threshold models?) 
+* How might herding create social change you want to see in the world, as well as harms to avoid?
+* How might we interrupt herding, and how might you test it?
+* Who should have the right to interrupt herding?
+
 #### Tues 03-08 Case Study: Algorithms as Solutions to Discrimination
 Can algorithms reduce dicrimination since they're easier to change than biased humans? So far, this has only been deliberately tried with decision-making systems, so the answer is unknown. So in this class, we look at algorithm solutions to decision-making discrimination.
 

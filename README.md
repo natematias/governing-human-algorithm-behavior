@@ -320,7 +320,7 @@ In your final-project teams, students will present a 3 minute presentation to su
 #### Tues 03-22 Policy Topic: What Is Policy Anyway?
 We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
 
-* Cairney, P. (2019). "What is Policy and policymaking" from Understanding public policy: theories and issues. Red Globe Press.
+* Cairney, P. (2019). "[What is Policy and policymaking](https://paulcairney.files.wordpress.com/2019/03/chapter-2-upp-2nd-ed-8.3.19.pdf)" from Understanding public policy: theories and issues. Red Globe Press.
 * Gillespie, T. (2017). [Governance of and by platforms](https://culturedigitally.org/2016/06/governance-of-and-by-platforms/). SAGE handbook of social media, 254-278.
 * (gradstudents) Lessig, L. (2009). "Code is Law" from [Code: And other laws of cyberspace](https://lessig.org/product/code). Basic Books.
 

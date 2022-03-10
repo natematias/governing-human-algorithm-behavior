@@ -291,7 +291,7 @@ Can algorithms reduce dicrimination since they're easier to change than biased h
 #### Thurs 03-10 Feedback Pattern: Thresholds
 Patterns of human and algorithm behavior can dramatically change when their behavior reaches a certain threshold. For example, a popular conversation within a marginalized group might attract harassment if an algorithm amplifies it to a wider population where hatred prevails.
 
-* Granovetter, M. (1978). [Threshold models of collective behavior](https://sociology.stanford.edu/sites/sociology/files/economic_action_and_social_structure.pdf). American Journal of Sociology, 83(6), 1420–1443.
+* Granovetter, M. (1978). [Threshold models of collective behavior](https://www.jstor.org/stable/2778111). American Journal of Sociology, 83(6), 1420–1443.
 * Margetts, H., John, P., Hale, S., & Yasseri, T. (2015). "How it all kicks off" from Political turbulence: How social media shape collective action. Princeton University Press. (in Canvas)
 * (gradstudents) Biggins, David. [Goodbye, Thunderclap: How social media storms closed the popular crowdspeaking platform](https://luminouspr.com/goodbye-thunderclap-how-social-media-storms-closed-the-popular-crowdspeaking-platform/). Luminous PR.
 

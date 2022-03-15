@@ -311,7 +311,24 @@ People claim that algorithms amplify and spread hatred, misogyny and extremism. 
 
 <!--* Airbnb. (2020) [A new way we're fighting discrimination on Airbnb](https://www.airbnb.com/resources/hosting-homes/a/a-new-way-were-fighting-discrimination-on-airbnb-201). Airbnb.-->
 
-#### Thurs 03-17 Student Presentations of Human-Algorithm Feedback Topics
+Questions for discussion:
+* So far we have been considering theories and patterns. Now let's start applying the concepts we're considering in class to specific cases:
+   * How can the concepts we've considered in class help us understand misogyny and extremism online?
+   * How can the concepts from class help us envision interventions and policies to create change?
+
+#### Tues 03-17 Policy Topic: What Is Policy Anyway?
+We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
+
+* Cairney, P. (2019). "[What is Policy and policymaking](https://paulcairney.files.wordpress.com/2019/03/chapter-2-upp-2nd-ed-8.3.19.pdf)" from Understanding public policy: theories and issues. Red Globe Press.
+* Gillespie, T. (2017). [Governance of and by platforms](https://culturedigitally.org/2016/06/governance-of-and-by-platforms/). SAGE handbook of social media, 254-278.
+* (gradstudents) Lessig, L. (2009). "Code is Law" from [Code: And other laws of cyberspace](https://lessig.org/product/code). Basic Books.
+
+Questions for discussion:
+* What is a tech policy, really?
+* What is a platform policy, really?
+* What kind of policy outcomes can be achieved (or not) with code?
+
+#### Thurs 03-22 Student Presentations of Human-Algorithm Feedback Topics
 In your final-project teams, students will present a 3 minute presentation to summarize and analyze an issue in human-algorithm feedback that you would like to work on for your final. Fellow students will submit feedback and suggestions. In addition to the case studies across this syllabus, further examples for inspiration include:
 
 * [Flash crashes](https://doi.org/10.1007/s11408-019-00331-6) in financial markets
@@ -322,12 +339,6 @@ In your final-project teams, students will present a 3 minute presentation to su
 * Sweeney, L. (2013). [Discrimination in online ad delivery: Google ads, black names and white names, racial discrimination, and click advertising](https://arxiv.org/abs/1301.6822). Queue, 11(3), 10–29.
 * Freelon, D., McIlwain, C. D., & Clark, M. (2016). [Beyond the hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice](https://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/). Center for Media & Social Impact, American University.
 
-#### Tues 03-22 Policy Topic: What Is Policy Anyway?
-We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
-
-* Cairney, P. (2019). "[What is Policy and policymaking](https://paulcairney.files.wordpress.com/2019/03/chapter-2-upp-2nd-ed-8.3.19.pdf)" from Understanding public policy: theories and issues. Red Globe Press.
-* Gillespie, T. (2017). [Governance of and by platforms](https://culturedigitally.org/2016/06/governance-of-and-by-platforms/). SAGE handbook of social media, 254-278.
-* (gradstudents) Lessig, L. (2009). "Code is Law" from [Code: And other laws of cyberspace](https://lessig.org/product/code). Basic Books.
 
 #### Thurs 03-24 Feedback Pattern: Chilling Effects
 People are often influenced by algorithms by design, but algorithms can also have side effects. Algorithms can also cause a chilling effect when people are influenced against taking legally-protected actions such as avoiding certain streets or self-censoring their political views.

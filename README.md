@@ -352,11 +352,11 @@ People are often influenced by algorithms by design, but algorithms can also hav
 * Orben, A. (2020). [The Sisyphean cycle of technology panics](https://journals.sagepub.com/doi/full/10.1177/1745691620919372). Perspectives on Psychological Science, 15(5), 1143-1157.
 * (graduate students) Bossetta, M. (2020) [Scandalous Design: How Social Media Platforms’ Responses to Scandal Impacts Campaigns and Elections](https://journals.sagepub.com/doi/10.1177/2056305120924777). Social Media + Society, 6(2).-->
 
-#### Tues 03-29 How Can Evidence Inform Policy?
-What is evidence-based governance and how might research contribute (or not) to policy?
-
-* Matias, J.N., Wright, L. (2021) Impact Assessment of Human-Algorithm Feedback. Social Science Research Council (forthcoming)
-* (gradstudents) Weiss, C. H. (1979). [The many meanings of research utilization](https://www.jstor.org/stable/3109916). Public administration review, 39(5), 426-431.
+#### Tues 03-29 Project Check-in
+In this class, we will:
+* Support group collaboration time for algorithm audit projects
+* Support group collaboration time for midterm final project proposals
+* Discuss common questions about the algorithm audit and final project proposals
 
 #### Thurs 03-31 Assessing The Class Recommender System
 We have now been using the Fuego news recommender system for over a month. In this class, teams will present analyses of the Fuego system for class discussion using perspectives and methods introduced in this class.
@@ -374,6 +374,12 @@ Possible analyses include:
 * Interviewing people to solicit their theories for how Fuego suggests things to them
 
 #### SPRING BREAK (Syllabus Adjustment Check-In)
+
+#### Date TBD How Can Evidence Inform Policy?
+What is evidence-based governance and how might research contribute (or not) to policy?
+
+* Matias, J.N., Wright, L. (2021) Impact Assessment of Human-Algorithm Feedback. Social Science Research Council (forthcoming)
+* (gradstudents) Weiss, C. H. (1979). [The many meanings of research utilization](https://www.jstor.org/stable/3109916). Public administration review, 39(5), 426-431.
 
 #### Tues 04-05 Research Methods: Lab Tests and Simulations
 Is it possible to anticipate problems with human-algorithm behavior before they happen? How can we design research methods to do this anticipatory work?

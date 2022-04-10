@@ -375,12 +375,21 @@ Possible analyses include:
 
 #### SPRING BREAK (Syllabus Adjustment Check-In)
 
-#### Date TBD How Can Evidence Inform Policy?
+#### Tues 4-12 How Can Evidence Inform Policy?
 What is evidence-based governance and how might research contribute (or not) to policy?
 
-* Matias, J.N., Wright, L. (2021) Impact Assessment of Human-Algorithm Feedback. Social Science Research Council (forthcoming)
+* Matias, J.N., Wright, L. (2021) [Impact Assessment of Human-Algorithm Feedback](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/). Social Science Research Council
 * (gradstudents) Weiss, C. H. (1979). [The many meanings of research utilization](https://www.jstor.org/stable/3109916). Public administration review, 39(5), 426-431.
 
+Questions for discussion in Canvas and in class:
+* For your team's final project area:
+   * What kind of evidence might be needed for policymaking
+   * Is that kind of evidence possible yet?
+   * Does the evidence already exist?
+   * How does evidence already influence policy, if at all?
+   * What forces are preventing evidence from being available?
+
+<!--
 #### Tues 04-05 Research Methods: Lab Tests and Simulations
 Is it possible to anticipate problems with human-algorithm behavior before they happen? How can we design research methods to do this anticipatory work?
 
@@ -392,11 +401,13 @@ How can we integrate evidence-creation into the policy process? One option is to
 
 * Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). [Assembling Accountability: Algorithmic Impact Assessment for the Public Interest](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3877437). Available at SSRN 3877437.
 * (TBD) example of an algorithmic impact assessment, if such a thing exists yet!
+-->
 
-#### Tues 04-12 Policy Topic: How Does Evidence Actually Inform Policy?
+#### Thurs 04-14 Policy Topic: How Does Evidence Actually Inform Policy?
 In a previous class, we discussed theories for how evidence could inform policy. How does it really happen?
 
-* **Everyone** Share on Canvas an example of a piece of research that genuinely impacted policy, and comment on how it did so. Examples:
+* **Each Team** share on Canvas an example of a piece of research, journalism, or activism that genuinely impacted policy (ideally related to your project), and comment on how it did so. A especially high quality submission will be able to cite an example where someone made a claim about the relationship between the corporate/government policy change and the project. Comment on other team's examples, come prepared to discuss your team's example, and be prepared to ask questions and discuss other team's examples.
+* Examples:
   * Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb.com](https://www.hbs.edu/ris/Publication%20Files/Airbnb_92dd6086-6e46-4eaf-9cea-60fe5ba3c596.pdf). Harvard Business School NOM Unit Working Paper, (14-054).
   * Buolamwini, J., & Gebru, T. (2018, January). [Gender shades: Intersectional accuracy disparities in commercial gender classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf). In Conference on fairness, accountability and transparency (pp. 77-91). PMLR.
   * Penney, J. W. (2016). [Chilling effects: Online surveillance and Wikipedia use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769645). Berkeley Tech. LJ, 31, 117.
@@ -405,13 +416,13 @@ In a previous class, we discussed theories for how evidence could inform policy.
   * Orben, A. (2020). The Sisyphean cycle of technology panics. Perspectives on Psychological Science, 15(5), 1143-1157. 
 * Contandriopoulos, D., Lemire, M., Denis, J. L., & Tremblay, É. (2010). Knowledge exchange processes in organizations and policy arenas: a narrative systematic review of the literature. The Milbank Quarterly, 88(4), 444-483.
 
-#### Thurs 04-14 Policy Topic: Can Tech Ethics Prevent Harms?
+#### Tues 04-19 Policy Topic: Can Tech Ethics Prevent Harms?
 Advocates of tech ethics argue that if we teach ethics to engineers, society will be more protected from the harms associated with algorithms. How much can that help?
 
 * Silbey, S. S. (2009). [Taming Prometheus: Talk about safety and culture](https://anthropology.mit.edu/sites/default/files/documents/silbey_safety_culture.pdf). Annual Review of Sociology, 35, 341–369.
 * (gradstudents) Zhang, B., Anderljung, M., Kahn, L., Dreksler, N., Horowitz, M. C., & Dafoe, A. (2021). [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://arxiv.org/pdf/2105.02117.pdf). arXiv preprint arXiv:2105.02117.
 
-#### Tues 04-19 Policy Topic: Conversation with Advocacy Groups
+<!--#### Tues 04-19 Policy Topic: Conversation with Advocacy Groups
 In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
 
 <!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU) -->
@@ -430,18 +441,18 @@ What influence can courts have on the behavior of companies, populations, and al
 * Jillson, Elisa. (2021) [Aiming for truth, fairness, and equity in your company's use of AI](https://www.ftc.gov/news-events/blogs/business-blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai). Federal Trade Commission.
 * Possible guest: Jonathan Penney (Osgoode Hall Law School)
 
-<!--#### Tues 04-26 Policy Topic:Algorithmic Literacy
+#### Thurs 04-28 Policy Topic:Algorithmic Literacy
 In order for democratic societies to govern a problem, people need to know about it and care enough to do something. How does the public understand and care about human-algorithm feedback?
 
 * Rainie, L., Anderson, J. (2017) "The need grows for algorithmic literacy, transparency and oversight" from [Code-Dependent: Pros and Cons of the Algorithm Age](https://www.pewresearch.org/internet/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/). Pew Research Center
-* (possible invited guests: Baobao Zhang, Natalize Bazarova)-->
+<!--* (possible invited guests: Baobao Zhang, Natalize Bazarova)-->
 
-#### Thurs 04-28 Research Methods: Citizen Science and Field Experiments
+<!--#### Thurs 04-28 Research Methods: Citizen Science and Field Experiments
 How can we learn the safety of algorithms or the effectiveness of policies in real-world situations—while still limiting the risks? Field experiments, when conducted with public consent and careful oversight, enable researchers to audit systems and test policies in controlled circumstances with as few people as possible.
 
 * Matias, J. N. (2015, June 8). [How Do You Fix a Broken System That Isn’t Yours to Repair?](https://www.theatlantic.com/technology/archive/2015/06/the-tragedy-of-the-digital-commons/395129/) The Atlantic.
 * Campbell, D. T. (1969). [Reforms as experiments](https://www.sfu.ca/~palys/Campbell-1969-ReformsAsExperiments.pdf). American psychologist, 24(4), 409.
-* (gradstudents) TBD
+* (gradstudents) TBD-->
 
 #### Tues 05-03 Final Presentations Part I
 In this session, teams will give a final presentation of their project, with an opportunity to receive feedback from peers.

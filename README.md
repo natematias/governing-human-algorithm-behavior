@@ -422,6 +422,15 @@ Advocates of tech ethics argue that if we teach ethics to engineers, society wil
 * Silbey, S. S. (2009). [Taming Prometheus: Talk about safety and culture](https://anthropology.mit.edu/sites/default/files/documents/silbey_safety_culture.pdf). Annual Review of Sociology, 35, 341–369.
 * (gradstudents) Zhang, B., Anderljung, M., Kahn, L., Dreksler, N., Horowitz, M. C., & Dafoe, A. (2021). [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://arxiv.org/pdf/2105.02117.pdf). arXiv preprint arXiv:2105.02117.
 
+Questions for discussion on Canvas and in class:
+* For the algorithm harms you and your team are thinking about:
+   * What does it mean for things to be described as an "accident" and how does that imply certain kinds of solutions?
+   * How do people place responsibility on individual engineers?
+   * When do you think institutions rather than individuals should be responsible?
+* What questions do you have about terms? Silbey is trying to summarize ~150 years of debates and regulation, so there's a lot going on!
+   * What is an example of a "moral entrepreneur?"
+   * What is "safety culture" and how do people identify culture as responsible for disasters and accidents?
+
 <!--#### Tues 04-19 Policy Topic: Conversation with Advocacy Groups
 In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
 

@@ -447,8 +447,12 @@ What influence can courts have on the behavior of companies, populations, and al
 
 * Charles, S. (2020, January 27). [CPD decommissions ‘Strategic Subject List.’](https://chicago.suntimes.com/city-hall/2020/1/27/21084030/chicago-police-strategic-subject-list-party-to-violence-inspector-general-joe-ferguson) Chicago Sun-Times. 
 * Kaplan, J. (2017). [Predictive Policing and the Long Road to Transparency](https://southsideweekly.com/predictive-policing-long-road-transparency/)
-* Jillson, Elisa. (2021) [Aiming for truth, fairness, and equity in your company's use of AI](https://www.ftc.gov/news-events/blogs/business-blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai). Federal Trade Commission.
-* Possible guest: Jonathan Penney (Osgoode Hall Law School)
+* (Gradstudents) Jillson, Elisa. (2021) [Aiming for truth, fairness, and equity in your company's use of AI](https://www.ftc.gov/news-events/blogs/business-blog/2021/04/aiming-truth-fairness-equity-your-companys-use-ai). Federal Trade Commission.
+
+Questions to consider:
+* What role did courts play in the policy debates about the Strategic Subjects List?
+* How can laws and agencies influence what courts are able to do?
+* How might courts be important to the project you're working on?
 
 #### Thurs 04-28 Policy Topic:Algorithmic Literacy
 In order for democratic societies to govern a problem, people need to know about it and care enough to do something. How does the public understand and care about human-algorithm feedback?

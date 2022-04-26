@@ -459,7 +459,6 @@ In order for democratic societies to govern a problem, people need to know about
 
 * Druga, S., Christoph, F., & Ko, A. J. (2022). [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://faculty.washington.edu/ajko/papers/Druga2022FamilyAILiteracy.pdf).
 * Rainie, L., Anderson, J. (2017) "The need grows for algorithmic literacy, transparency and oversight" from [Code-Dependent: Pros and Cons of the Algorithm Age](https://www.pewresearch.org/internet/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/). Pew Research Center
-* (Gradstudents) Choose one of the following:
 <!--* (possible invited guests: Baobao Zhang, Natalize Bazarova)-->
 Discussion questions:
 * If the design of algorithms is controlled by engineers and most people aren't engineers, how would algorithm literacy actually make a difference in people's lives if at all?

@@ -476,15 +476,15 @@ How can we learn the safety of algorithms or the effectiveness of policies in re
 #### Tues 05-03 Final Presentations Part I
 In this session, teams will give a final presentation of their project, with an opportunity to receive feedback from peers.
 
-In the discussion, please post a question you would like your peers to consider during your session.
+In the discussion, please post in advance a question for feedback you would like your peers to consider during your session in the class.
 
 #### Thurs 05-15 Final Presentations Part II
 In this session, teams will give a final presentation of their project, with an opportunity to receive feedback from peers.
 
-In the discussion, please post a question you would like your peers to consider during your session.
+In the discussion, please post in advance a question for feedback you would like your peers to consider during your session in the class.
 
 #### Thurs 05-10 Reflections on Learning & the Future of Algorithms and Society
-In this session, we will reflect on the topics in the class. Please submit a discussion post, which will be the seed for a group conversation:
+In this session, we will reflect on the topics in the class. Please submit a discussion post, which will inform our group conversation:
 
 * Name something you believed at the beginning of the course
 * Reflect on how your thinking about that question has changed

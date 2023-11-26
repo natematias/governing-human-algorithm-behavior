@@ -11,7 +11,9 @@
 
 Algorithms that monitor and influence human behavior are everywhere—directing the behavior of law enforcement, managing the world's financial systems, shaping our cultures, and flipping a coin on the success or failure of movements for change. Since human-algorithm feedback is already a basic pattern in society, we urgently need ways to assess the impact of attempts to steer that feedback toward justice.
 
-In this course for (25) upper-level undergraduates and (5) PhD students, you will learn about the design of adaptive algorithms and the feedback patterns they create with human behavior. You will learn about the challenge they represent for social policy, about ways to research their behavior, and about emerging policy ideas for governing these complex patterns. You will get first-hand experience at diagnosing and attempting to change a feedback system. Along the way, you will hear from pioneers in policy, advocacy, and scholarship.
+In 2023, the challenge became even clearer when Attorney General Letitia James and 31 other state Attorneys General filed a federal lawsuit against Meta for allegedly "[harming young people's mental health and contributing to the youth mental health crisis](https://ag.ny.gov/press-release/2023/attorney-general-james-and-multistate-coalition-sue-meta-harming-youth)." One of the lawsuit's claims is that Meta, through Facebook and Instagram, encouraged compulsive use of the platform through its algorthms and design features—contributing to a widespread mental health crisis.
+
+In this course for (15) upper-level undergraduates and (5) PhD students, you will learn about the design of adaptive algorithms and the feedback patterns they create with human behavior. You will learn about the challenge they represent for social policy, about ways to research their behavior, and about emerging policy ideas for governing these complex patterns. You will get first-hand experience at diagnosing and attempting to change a feedback system. Along the way, you will hear from pioneers in policy, advocacy, and scholarship.
 
 This course is an excellent stepping stone for anyone interested in a career in policy, advocacy, academia, or industry research.
 
@@ -33,7 +35,7 @@ This course is an excellent stepping stone for anyone interested in a career in 
 </div>
 
 ## What You Learn
-In this seminar class, you will engage with the science and policy challenges of regulating human-algorithm behavior. Along the way, you will work with scientific issues of methods, theory, and ethics, policy questions about how to govern these situations, and how to bridge between science and policy in a democracy. For a final project, student teams (of 2-3) will produce a novel project that makes a contribution at the intersection of science and policy.
+In this seminar class, you will engage with the science and policy challenges of regulating human-algorithm behavior. Along the way, you will work with scientific issues of methods, theory, and ethics, policy questions about how to govern these situations, and how to bridge between science and policy in a democracy. For a final project, student teams (3-4) will produce a novel project that makes a contribution at the intersection of science and policy.
 
 By the end of the semester, students will be able to:
 - Identify, analyze, and evaluate claims about how human and algorithm behavior interact
@@ -43,51 +45,88 @@ By the end of the semester, students will be able to:
 - Understand the uses of social science and computer science research in the policy process
 - Design an intervention into scholarly and policy conversations on human-algorithm behavior
 
-PhD students are encouraged to bring an existing research question that they wish to connect with policy, or to develop a project that could become part of their wider research.
+PhD students are encouraged to connect the course to an existing research question that they wish to connect with policy, or to develop a project that could become part of their wider research.
 
 ## Activities
 
-*Weekly Activities*:  Throughout the semester, students will read a selection of articles and discuss that reading in class and in an online chat. In the second part of the semester, once teams (of 2-3) have been formed, students will submit regular progress reports on their final project.
+*Weekly Activities*:  Throughout the semester, students will read a selection of articles and discuss that reading in class and on Canvas. Once teams have been formed, students will also submit regular progress reports on their final project.
 
-*Algorithm Analysis*: Student teams will create a 5-minute slide deck examining one issue related to the Fuego recommender system.
+*Algorithm Incident Report*: The midterm is an analysis of an algorithm-involved event in the news, based on publicly-available information.
 
-*Midterm*: The midterm is a group proposal for your team project, including a description of the project, a bibliography, a list of the roles that team members will play, and a timeline.
+*Project Proposal*: Your project proposal will include a description of the project, a bibliography, a list of the roles that team members will play, and a timeline.
 
-*Final Project*: An intervention into academic and/or policy conversations on human-algorithm research. This could take the form of:
-* a briefing document for a government agency, congressional office, or advocacy organization
-* a simulation or prototype software system
-* an analysis of proposed legislation
-* a "perspectives" style scholarly article
-* an empirical study proposal (such as a registered report)
-* a pitch deck or grant proposal to create an organization/business/convening
-* a strategic plan for an advocacy campaign
-* a storyboard for a public education initiative (film, website, videogame)
-* one or more Wikipedia articles about key people or topics 
-* a workshop facilitation plan for students, communities, policymakers, or activists
+*Final Project*: An intervention into academic and/or policy conversations on human-algorithm research. In 2024, the class will support projects in three areas:
+* An in-depth case study and/or forensic analysis of some failure of an adaptive algorithm ([see the AI Incident Database for ideas](https://incidentdatabase.ai/about/))
+* A proposal for a "black box" or data schema of what to record to inform future analysis of incidents
+* A digital simulation or card game that can be used to engage lived experience experts in critical thinking about human-algorithm behavior.
 
-*Grading*: Participation in class & online: 20%. Algorithm Analysis: 20%. Midterm project proposal: 20%. Final project: 40%.
+*Grading*: Participation in class & online: 30%. Midterm: 30%. Final project: 40%.
 
 ## About the Instructor
 <img src="https://natematias.com/images/profile.png" style="margin-right:10px;" align="left" width="150">
 
-<a href="http://twitter.com/natematias">Dr. J. Nathan Matias</a>
-(<a href="https://twitter.com/natematias">@natematias</a>) 
-<meta http-equiv="content-type" content="text/html; charset=UTF-8"> organizes citizen behavioral science for a safer, fairer, more understanding internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication. He is also a field member in Information Science.
+<a href="https://natematias.com">Dr. J. Nathan Matias</a>
+(<a href="http://social.coop/@natematias">@natematias</a>) 
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"> organizes community behavioral science for a safer, fairer, more understanding internet. A Guatemalan-American, Nathan is an assistant professor in the Cornell University Department of Communication. He is also a field member in Information Science.
 
-Nathan is the founder of the <a href="citizensandtech.org/">Citizens and Technology Lab</a>, a public-interest project at Cornell that supports community-led behavioral science—conducting independent, public-interest audits and evaluations of social technologies. CAT Lab achieves this through software systems that coordinate communities to conduct their own A/B tests on social issues. Nathan has worked with communities of millions of people to test ideas to <a href="https://civilservant.io/moderation_experiment_r_science_rule_posting.html" style="">prevent online harassment</a>, <a href="vimeo.com/natematias/followbias">broaden gender diversity</a> on social media, <a href="https://civilservant.io/persuading_ais_preserving_liberties_r_worldnews.html">manage human/algorithmic misinformation</a>, and <a href="https://citizensandtech.org/2021/11/crowdsourced-audit-studies/">audit algorithms</a>.</p>
+Nathan is the founder of the <a href="citizensandtech.org/">Citizens and Technology Lab</a>, a public-interest project at Cornell that supports community-led behavioral science—conducting independent, public-interest audits and evaluations of social technologies. CAT Lab achieves this through software systems that coordinate communities to conduct their own research on social issues. Nathan has worked with communities of millions of people to test ideas to <a href="https://www.pnas.org/doi/10.1073/pnas.1813486116" style="">prevent online harassment</a>, <a href="vimeo.com/natematias/followbias">broaden gender diversity</a> on social media, <a href="https://www.nature.com/articles/s41598-023-38277-5">manage human/algorithmic misinformation</a>, and <a href="https://citizensandtech.org/2021/11/crowdsourced-audit-studies/">audit algorithms</a>.</p>
 
 ## Schedule
 
 <!-- 19 sessions then spring break-->
 <!-- then 8 sessions to the end of classes-->
 
-#### Tues 01-25 Why Should We Care About Human-Algorithm Behavior? (Intro class)
+#### Tues 01-23 Why Should We Care About Human-Algorithm Behavior? (Intro class)
 This class session will introduce the course and pose initial questions.
 
 ---
 
-#### Thurs 01-27 Case Study: Algorithms and Discrimination
-To build our intuitions about governing algorithms and what to do about it, we're going to consider an in-depth series of classes about discrimination online. This class introduces the case study.
+#### Thurs 01-25 Tech and Methods: How Do Adaptive Algorithms Work?
+In this class, we will discuss the code and mathematics behind adaptive algorithms.
+
+* News story TBD
+* Shardanand, U., & Maes, P. (1995, May). [Social information filtering: Algorithms for automating “word of mouth”](https://dl.acm.org/doi/10.1145/223904.223931). In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 210-217).
+
+<!--* Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905). In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).-->
+
+Questions to consider:
+* What are social recommendations? How do they differ from personalized recommendations?
+* When would you want a personalized recommendation, and when would you want a recommendation that is not personalized?
+* What are the pros and cons of relying links shared on social media to get news and information about tech policy— especially in contrast with:
+  * a [Google alert](https://www.google.com/alerts)
+  * a [Google Scholar alert](https://scholar.google.com/intl/en/scholar/help.html) for recent papers
+  * subscribing to a newsletter like [Tech Policy Press](https://techpolicy.press/about/)
+  * following several thousand people on Twitter
+* How might a recommender system contribute to discrimination or bias in the understanding of its users? How might it reduce discrimination?
+
+---
+
+#### Tues 01-30 Feedback Loops: Simple Models to Explain Complex Behaviors
+* Kimmerer, R. (2013) "[Defeating Windigo](https://cdn.inst-fs-iad-prod.inscloudgate.net/19f74d3b-2d9e-448a-88df-c94c66cafdc3/RobinWallKimmer_2013_DefeatingWindigo_BraidingSweetgrassInd.pdf?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii8xOWY3NGQzYi0yZDllLTQ0OGEtODhkZi1jOTRjNjZjYWZkYzMvUm9iaW5XYWxsS2ltbWVyXzIwMTNfRGVmZWF0aW5nV2luZGlnb19CcmFpZGluZ1N3ZWV0Z3Jhc3NJbmQucGRmIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6bnVsbCwiaWF0IjoxNzAxMDIyNzQ5LCJleHAiOjE3MDExMDkxNDl9.6MyHu0p_IgPfN1rOZ4TqG6jPg76-OqEaSC0bBb0MfqMSn1lz4dHMdtWesI_91rkUYJlSVJQdLH2bu4aTWepOXw&download=1&content_type=application%2Fpdf)" from Braiding Sweetgrass. Milkweed Editions
+
+Questions to think about from Defeating Windigo:
+* Think about an event related to algorithms and AI systems that matters to you. It might be an incident related to mental health, or discrimination, or something else
+* Imagine the forces akin to "hunger" (the drive for more) and "gratitude" (a drive for less of something) that direct individuals and institutions toward **more** and which ones direct them toward **less** 
+* Reflect on how those forces might have contributed to that event.
+
+#### Thurs 02-01 Case Study: Teenage Mental Health
+To build our intuitions about governing algorithms and what to do about it, we're going to consider a series of classes about discrimination online. This class introduces the first case study, related to allegations that Facebook and Instagram contributed to a teen mental health crisis.
+
+Readings: TBD
+
+<!--#### Thurs 02-24 Topic area: Algorithms, Self-Harm, and Eating Disorders
+In this topic area session, we will discuss the role of algorithms in eating disorders and self-harm.
+
+* Seetharaman, G. W., Jeff Horwitz and Deepa. (2021, September 14). [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739). Wall Street Journal.
+* Carvajal, D. (2008, April 15). [French legislators approve law against Web sites encouraging anorexia and bulimia](https://www.nytimes.com/2008/04/15/world/europe/15iht-paris.4.12015888.html). The New York Times. 
+* (gradstudents) Chancellor, S., Pater, J. A., Clear, T., Gilbert, E., & De Choudhury, M. (2016, February). [#thyghgapp: Instagram content moderation and lexical variation in pro-eating disorder communities](https://dl.acm.org/doi/abs/10.1145/2818048.2819963). In Proceedings of the 19th ACM conference on computer-supported cooperative work & social computing (pp. 1201-1213).-->
+
+
+---
+
+
+#### Tues 02-06 Case Study: Algorithms and Discrimination
+To build our intuitions about governing algorithms and what to do about it, we're going to consider a series of classes about discrimination online. This class introduces the problem of discrimination in online labor markets.
 
 * McGhee, H. (2021). "Racism Drained the Pool" from The sum of us: What racism costs everyone and how we can prosper together. One World.
  * Read pages 17 - 28
@@ -110,12 +149,14 @@ Questions to think about from The Face of Airbnb:
 
 ---
 
-#### Tues 02-01 Case Study on Discrimination: Laws, Individuals, Organizations, and Code
-Discrimination has a history and is reinforced through feedback from multiple sources: laws, individuals, organizations, and code. In this class, we will discuss how they interact.
+
+
+#### Thurs 02-08 Case Study on Discrimination: Laws, Individuals, Organizations, and Code
+Discrimination has a history and is reinforced through feedback from multiple sources beyond software: laws, individuals, organizations, and code. In this class, we will discuss how they interact.
 
 * Rothstein, Richard. (2017) "[If San Francisco, then everywhere?](https://erenow.net/modern/color-of-law-forgotten-history/2.php)" from The Color of Law. Economic Policy Institute.
 * Noble, S. (2018). "Searching for Black Girls" from [Algorithms of Oppression](https://newcatalog.library.cornell.edu/catalog/10294895). NYU Press. (Pages 64-84)
-* (gradstudents) Ray, V. (2019). [A theory of racialized organizations](https://journals.sagepub.com/doi/full/10.1177/0003122418822335). American Sociological Review, 84(1), 26-53.
+<!--* (gradstudents) Ray, V. (2019). [A theory of racialized organizations](https://journals.sagepub.com/doi/full/10.1177/0003122418822335). American Sociological Review, 84(1), 26-53.-->
 
 Questions to consider from The Color of Law:
 * How was discrimination built into:
@@ -143,132 +184,65 @@ Overall questions:
 
 ---
 
-#### Thurs 02-03 Tech and Methods: How Do Adaptive Algorithms Work?
-In this session, we will review the design and software architecture of Fuego, a widely-influential system used by the Nieman Journalism Lab at Harvard to amplify news about journalism. In this session, we will also discuss the assignment due on 03/31. Our guest will be [Andrew Phelps](https://andrewphelps.com/), former Vice President at The Atlantic.
+#### Tues 02-13 Could Things Be Different?
+In this class, we will discuss the challenge of determining responsibility for past harms and the difficulty of identifying interventions for change.
 
-* Shardanand, U., & Maes, P. (1995, May). [Social information filtering: Algorithms for automating “word of mouth”](https://dl.acm.org/doi/10.1145/223904.223931). In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 210-217).
-* Phelps, A. (2013) [Introducing OpenFuego, your very own heat-seeking Twitter bot](https://www.niemanlab.org/2013/07/introducing-openfuego-your-very-own-heat-seeking-twitter-bot/). NiemanLab
-    * [niemanlab.github.io/openfuego/](https://niemanlab.github.io/openfuego/)
-* (gradstudents) Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905). In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).
-
-**Posting links**: Starting this week, students are expected to post to Element one link a week that they observed on Fuego. When posting, include one sentence about why it's relevant to the course.
-
-Questions to consider:
-* What are social recommendations? How do they differ from personalized recommendations?
-* When would you want a personalized recommendation, and when would you want a recommendation that is not personalized?
-* What are the pros and cons of relying links shared on Twitter to get news and information about tech policy— especially in contrast with:
-  * a [Google alert](https://www.google.com/alerts)
-  * a [Google Scholar alert](https://scholar.google.com/intl/en/scholar/help.html) for recent papers
-  * subscribing to a newsletter like [Tech Policy Press](https://techpolicy.press/about/)
-  * following several thousand people on Twitter
-* How might the Fuego system contribute to discrimination or bias in the understanding of its users? How might it reduce discrimination?
-* If Fuego were following the people who follow Fuego, what do you think might happen?
+* Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
+* Mengersen, K., Moynihan, S. A., & Tweedie, R. L. (2007). [Causality and association: The statistical and legal approaches](https://www.jstor.org/stable/27645822). Statistical Science, 227-254.
 
 ---
 
-#### Tues 02-08 Case Study: Guest Conversation on Bias in Decision-Making
-In this session, we will have a conversation with [David Robinson](https://david.robinsonian.com/), visiting scholar at UC Berkeley, former managing director and co-founder of [Upturn](https://www.upturn.org/), and author of _Voices In the Code_, a 2022 book on the role of software-based decision-making systems in democracy.
+#### Thurs 02-15 Data, Evidence, and Strategic Litigation
+In this class, we will hear from someone working on litigation alleging that Meta should be held responsible for a mental health impact on teenagers.
 
-* Chapter from _Voices in the Code_ (see Files under Canvas)
-* (gradstudents) Mitchell, S., Potash, E., Barocas, S., D'Amour, A., & Lum, K. (2021). [Algorithmic fairness: Choices, assumptions, and definitions](https://www.annualreviews.org/doi/abs/10.1146/annurev-statistics-042720-125902). Annual Review of Statistics and Its Application, 8, 141-163.
+* Reading: TBD
 
-Questions to consider:
-* From Voices in the Code:
-   * What is a "high-stakes" decision-making algorithms? 
-   * How might more technology mean less democracy?
-   * Why should governing (digital) algorithms be any different than governing anything else?
-   * What kind of moral burdens to algorithms take on?
-   * Why are trade-offs so important for decision-making algorithms?
-* Gradstudent Questions on Algorithmic Fairness:
-   * Identify two concepts from this review article that can shed light on the questions raised by Voices in the Code
-
----
-
-#### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
+<!--#### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
 Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.
 
 * Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "The Problem Space" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
 * Matias, J.N. (2021) [Nudging Algorithms by Influencing Humans](https://osf.io/m98b6/) (under review).
 * (gradstudents) Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "Dynamic Fairness" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
-
+-->
 <!--* (gradstudents) Licklider, J. C. (1960). [Man-computer symbiosis. IRE transactions on human factors in electronics](https://groups.csail.mit.edu/medg/people/psz/Licklider.html), (1), 4-11.
   *  For historical context: Mindell, David A. (2002) [Cybernetics](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF). From Research Seminar in Engineering Systems http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF -->
 
 ---
 
-#### Tues 02-15 Discussing and brainstorming final project ideas
-In this session, we will discuss final project ideas. As a reminder, the final project is is a team project that intervenes in some way on human-algorithm feedback. For this class, you will pick an example and present to the class about what this kind of project entails and how you think it might contribute to governance.
+#### Tues 02-20 What is an AI Incident?
+In order for algorithms to be governed, we need to be able to describe what happens when one goes wrong. So what is an incident anyway, and how would we establish that harm had occurred?
 
-* a briefing document for a government agency, congressional office, or advocacy organization
-  * example: Lee, N.L., Resnick, P., Barton, G. (2019) [Algorithmic bias detection and mitigation: Best practices and policies to reduce consumer harms](https://www.brookings.edu/research/algorithmic-bias-detection-and-mitigation-best-practices-and-policies-to-reduce-consumer-harms/). Brookings Institution.
-  * example: Rahman, Z., Verhaert, P., & Nyst, C. (2018). [Biometrics in the Humanitarian Sector](https://www.theengineroom.org/wp-content/uploads/2018/03/Engine-Room-Oxfam-Biometrics-Review.pdf). The Engine Room.
-  * example: Stray, J. (2021) [Designing Recommender Systems to Depolarize](https://arxiv.org/abs/2107.04953). Arxiv.
-* a simulation or prototype software system
-  * example: Hart, V., Case, N. [Parable of the Polygons](https://ncase.me/polygons/). 
-  * example: Emden, Robin van. (2020) [Demo: Replication of John Myles White, Bandit Algorithms for Website Optimization](https://nth-iteration-labs.github.io/contextual/articles/website_optimization.html)
-* a "perspectives" style scholarly article
-  * Wagner, C., Strohmaier, M., Olteanu, A., Kıcıman, E., Contractor, N., & Eliassi-Rad, T. (2021). [Measuring algorithmically infused societies](https://www.nature.com/articles/s41586-021-03666-1). Nature, 595(7866), 197-204.
-* an empirical study proposal (such as a registered report)
-  * Example: Matias, J.N. (2016) Estimating the Effect of Encouraging Diverse Sources in Online News Discussions: Pre-Analysis Plan
-* a pitch deck or grant proposal to create an organization/business/convening
-  * Guide: Dushin, M., Laidler-Kylander, N. (2018) [Developing Your Social Enterprise Pitch Deck](https://www.hbs.edu/newventurecompetition/Documents/social-enterprise-track/DevelopingSEPitchDeck2018.pdf)
-* a plan for an advocacy campaign
-  * Guide: CommunityToolBox (2021) [Developing a Plan for Advocacy](https://ctb.ku.edu/en/table-of-contents/advocacy/advocacy-principles/advocacy-plan/main). University of Kansas.
-* a storyboard for a public education initiative (a website or video)
-  * Example: [The Coded Gaze: Unmasking Algorithmic Bias](https://www.youtube.com/watch?v=162VzSzzoPs)
+* McGregor, S. (2021, May). [Preventing repeated real world AI failures by cataloging incidents: The AI incident database](https://ojs.aaai.org/index.php/AAAI/article/view/17817). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 15458-15463).
 
 ---
 
-#### Thurs 02-17 Topic area: How to Evaluate A Recommender System?
-If we have concerns about collective human-algorithm behavior, what methods might we use to study them? In this class, we will brainstorm ways to evaluate and assess the behavior of the _Fuego_ system, in advance of choosing midterm project topics.
+#### Thurs 02-22 Discussing final project ideas
+In this class, we will discuss possible final project ideas for the course.
 
-* Bakshy, E., Messing, S., & Adamic, L. A. (2015). [Exposure to ideologically diverse news and opinion on Facebook](https://www.science.org/doi/10.1126/science.aaa1160). Science, 348(6239), 1130-1132.
+In preparation for the class, meet with a possible project team to develop ideas for collective feedback and discussion.
 
-Possible project ideas include:
 
-* Analyzing the articles suggested by the system for gender bias
-* Analyzing the initial seed communityfor evidence of gender bias in who they follow or whose articles they share on social media
-* Analyzing the supply of links provided by publishers for things such as gender bias
-* Analyzing the before/after sharing behavior of accounts that subscribe to the system
-* Altering the Fuego code and observing how the recommendations change
-* Simluating feedback in cases where Fuego is attending to accounts that are paying attention to it
-* Simulate whether it would be possible for Fuego to reduce gender bias in social media behavior
-* Comparing what Fuego recommends to what you might otherwise receive, without Fuego
-* Interviewing people to solicit their theories for how Fuego suggests things to them
+As a reminder, final project ideas include one of three options:
+* An in-depth case study and/or forensic analysis of some failure of an adaptive algorithm ([see the AI Incident Database for ideas](https://incidentdatabase.ai/about/))
+* A proposal for a "black box" or data schema of what to record to inform future analysis of incidents
+* A digital simulation or card game that can be used to engage lived experience experts in critical thinking about human-algorithm behavior.
 
-For today's discussion post:
-* Reflect on your experience of Fuego
-* Identify at least one question we might investigate about Fuego
-* Imagine how you might investigate it—or if you're unsure (or it seems impossible), write about what seems impossible about it  
 
-#### Tues 02-22 What Does it Mean to Understand Human-Algorithm Feedback?
-In order to govern human-algorithm behavior, we need to understand it and develop ideas to intervene. That hope remains elusive. Why is that?
+---
+FEBRUARY BREAK
+---
 
-* Bak-Coleman, J. B., Alfano, M., Barfuss, W., Bergstrom, C. T., Centeno, M. A., Couzin, I. D., ... & Weber, E. U. (2021). [Stewardship of global collective behavior](https://www.pnas.org/content/118/27/e2025764118). Proceedings of the National Academy of Sciences, 118(27).
-* (gradstudents) Kitchin, R. (2017). [Thinking critically about and researching algorithms](https://www.tandfonline.com/doi/abs/10.1080/1369118X.2016.1154087?journalCode=rics20). Information, Communication & Society, 20(1), 14–29.
-
-Questions for discussion:
-* With this "Perspectives" style article in PNAS, Bak-Coleman and colleagues are trying to convince many scientists from many fields to take their idea seriously. What ideas about science and what it achieves allow them to write to so many different fields?
-* The authors write that "We do not have access to a theory-driven, empirically verified body of literature" to answer basic questions about the effects of an algorithm, they describe it to climate models, biochemistry, and ecological science as examples of better-theorized areas. What do they mean by theory, and what would it accomplish?
-* How do we reckon with the problem that variation between people, social contexts, and algorithms might make general theory hard to create? 
-
-#### Thurs 02-24 Feedback Pattern: Reinforcement
+#### Thurs 03-29 Feedback Pattern: Reinforcement
 In a series of sessions, we will discuss common patterns of human-algorithm feedback. The first is reinforcement, which happens with individuals in the case of personalization and with groups in the case of herding behavior.
 
 * Epps-Darling, A. (2020, October 24). [Racist Algorithms Are Especially Dangerous for Teens](https://www.theatlantic.com/family/archive/2020/10/algorithmic-bias-especially-dangerous-teens/616793/). The Atlantic. 
 * Arnold, K. C., Chauncey, K., & Gajos, K. Z. (2020). [Predictive text encourages predictable writing](https://www.eecs.harvard.edu/~kgajos/papers/2020/arnold20predictcive.shtml). Proceedings of the 25th International Conference on Intelligent User Interfaces, 128–138.
 * (gradstudents) Li, L., Chu, W., Langford, J., & Schapire, R. E. (2010). [A contextual-bandit approach to personalized news article recommendation](https://doi.org/10.1145/1772690.1772758). Proceedings of the 19th International Conference on World Wide Web, 661–670.
 
-<!--#### Thurs 02-24 Topic area: Algorithms, Self-Harm, and Eating Disorders
-In this topic area session, we will discuss the role of algorithms in eating disorders and self-harm.
+---
 
-* Seetharaman, G. W., Jeff Horwitz and Deepa. (2021, September 14). [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739). Wall Street Journal.
-* Carvajal, D. (2008, April 15). [French legislators approve law against Web sites encouraging anorexia and bulimia](https://www.nytimes.com/2008/04/15/world/europe/15iht-paris.4.12015888.html). The New York Times. 
-* (gradstudents) Chancellor, S., Pater, J. A., Clear, T., Gilbert, E., & De Choudhury, M. (2016, February). [#thyghgapp: Instagram content moderation and lexical variation in pro-eating disorder communities](https://dl.acm.org/doi/abs/10.1145/2818048.2819963). In Proceedings of the 19th ACM conference on computer-supported cooperative work & social computing (pp. 1201-1213).-->
 
-#### Tues 03-01 (NO CLASS)
-
-#### Thurs 03-03 Feedback Pattern: Herding
+#### Thurs 03-05 Feedback Pattern: Herding
 Algorithms can amplify herding behavior by encouraging people to do something that's already popular. Ranking software has been credited with inspiring large-scale acts of charity, spreading prejudice and encouraging harassment mobs. When enough people engage in collective discrimination, adaptive systems can entrench injustice further. This class will investigate herding as a phenomenon of human + algorithm behavior.
 
 * Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](https://www.science.org/doi/abs/10.1126/science.1121066). Science, 311(5762), 854–856.
@@ -281,14 +255,17 @@ Questions to discuss:
 * How might we interrupt herding, and how might you test it?
 * Who should have the right to interrupt herding?
 
+<!--
 #### Tues 03-08 Case Study: Algorithms as Solutions to Discrimination
 Can algorithms reduce dicrimination since they're easier to change than biased humans? So far, this has only been deliberately tried with decision-making systems, so the answer is unknown. So in this class, we look at algorithm solutions to decision-making discrimination.
 
 * Mullainathan, S. (2019). Biased algorithms are easier to fix than biased people. The New York Times.
 * Zhang, S., Mehta, N., Singh, P. V., & Srinivasan, K. (2021). [Can an AI Algorithm Mitigate Racial Economic Inequality? An Analysis in the Context of Airbnb](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770371). SSRN
-* (gradstudents) Pierson, E., Cutler, D. M., Leskovec, J., Mullainathan, S., & Obermeyer, Z. (2021). [An algorithmic approach to reducing unexplained pain disparities in underserved populations](https://www.nature.com/articles/s41591-020-01192-7). Nature Medicine, 27(1), 136-140.
+* (gradstudents) Pierson, E., Cutler, D. M., Leskovec, J., Mullainathan, S., & Obermeyer, Z. (2021). [An algorithmic approach to reducing unexplained pain disparities in underserved populations](https://www.nature.com/articles/s41591-020-01192-7). Nature Medicine, 27(1), 136-140.-->
 
-#### Thurs 03-10 Feedback Pattern: Thresholds
+---
+
+#### Thurs 03-07 Feedback Pattern: Thresholds
 Patterns of human and algorithm behavior can dramatically change when their behavior reaches a certain threshold. For example, a popular conversation within a marginalized group might attract harassment if an algorithm amplifies it to a wider population where hatred prevails.
 
 * Granovetter, M. (1978). [Threshold models of collective behavior](https://www.jstor.org/stable/2778111). American Journal of Sociology, 83(6), 1420–1443.
@@ -300,13 +277,16 @@ Questions for discussion:
 * If people have thresholds, how might algorithms also have thresholds? How can we influence algorithm thresholds?
 * How might thresholds be useful tools for governing human-algorithm behavior?
 
-#### Tues 03-15 Topic Area: Misogyny and Extremism
-People claim that algorithms amplify and spread hatred, misogyny and extremism. How could we tell, and what can we do about it?
+---
 
-* Tufekci, Z. (2018). [YouTube, the great radicalizer](https://coinse.io/assets/files/teaching/2019/cs489/Tufekci.pdf). The New York Times, 10, 2018.
+#### Tues 03-12 Methods Area: Simulations
+
+People claim that algorithms amplify and spread hatred, misogyny and extremism. How could we tell, and what can we do about it? In this class, we will use the example of the spread of misogyny on Reddit as the basis of imagining simulations.
+
+* Reading on simulations TBD
 * Massanari, A. (2017). [#Gamergate and The Fappening: How Reddit’s algorithm, governance, and culture support toxic technocultures.](https://journals.sagepub.com/doi/abs/10.1177/1461444815608807) New Media & Society, 19(3), 329–346.
-* (gradstudents) Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). [Examining the consumption of radical content on YouTube](https://www.pnas.org/content/118/32/e2101967118.short). Proceedings of the National Academy of Sciences, 118(32).
-
+<!--* (gradstudents) Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). [Examining the consumption of radical content on YouTube](https://www.pnas.org/content/118/32/e2101967118.short). Proceedings of the National Academy of Sciences, 118(32).
+-->
 <!--* Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)-->
 
 <!--* Airbnb. (2020) [A new way we're fighting discrimination on Airbnb](https://www.airbnb.com/resources/hosting-homes/a/a-new-way-were-fighting-discrimination-on-airbnb-201). Airbnb.-->
@@ -316,7 +296,9 @@ Questions for discussion:
    * How can the concepts we've considered in class help us understand misogyny and extremism online?
    * How can the concepts from class help us envision interventions and policies to create change?
 
-#### Tues 03-17 Policy Topic: What Is Policy Anyway?
+---
+
+#### Thurs 03-14 Policy Topic: What Is Policy Anyway?
 We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
 
 * Cairney, P. (2019). "[What is Policy and policymaking](https://paulcairney.files.wordpress.com/2019/03/chapter-2-upp-2nd-ed-8.3.19.pdf)" from Understanding public policy: theories and issues. Red Globe Press.
@@ -328,19 +310,29 @@ Questions for discussion:
 * What is a platform policy, really?
 * What kind of policy outcomes can be achieved (or not) with code?
 
-#### Thurs 03-22 Student Presentations of Human-Algorithm Feedback Topics
-In your final-project teams, students will present a 3 minute presentation to summarize and analyze an issue in human-algorithm feedback that you would like to work on for your final. Fellow students will submit feedback and suggestions. In addition to the case studies across this syllabus, further examples for inspiration include:
+---
 
-* [Flash crashes](https://doi.org/10.1007/s11408-019-00331-6) in financial markets
-* [Route-mapping software sending people into forest fires](http://www.slate.com/blogs/future_tense/2017/12/07/california_wildfires_raise_questions_about_whether_you_can_trust_waze_google.html)
-* Duffy, B. E. (2020). [Algorithmic precarity in cultural work](https://journals.sagepub.com/doi/full/10.1177/2057047320959855?casa_token=ufuOcpB5apQAAAAA%3Apy7NWKzZbQeeTqEtcqFVLBUQVtpYlsx51Fo67DZQJnKM8gxbfQJa7w6HANUf1oksr-MEFvyf6ytKsg). Communication and the Public, 5(3-4), 103-107.
-* [Gender inequties in the online dissemination of scholars' work](https://www.pnas.org/content/118/39/e2102945118)
-* Cycles of [Moral outrage  out social media](https://www.science.org/doi/10.1126/sciadv.abe5641)
-* Sweeney, L. (2013). [Discrimination in online ad delivery: Google ads, black names and white names, racial discrimination, and click advertising](https://arxiv.org/abs/1301.6822). Queue, 11(3), 10–29.
-* Freelon, D., McIlwain, C. D., & Clark, M. (2016). [Beyond the hashtags: #Ferguson, #Blacklivesmatter, and the online struggle for offline justice](https://cmsimpact.org/resource/beyond-hashtags-ferguson-blacklivesmatter-online-struggle-offline-justice/). Center for Media & Social Impact, American University.
+#### Tues 03-19 Finalizing Student Projects
+In your final-project teams, students will present a 3 minute presentation to summarize and analyze an issue in human-algorithm feedback that you would like to work on for your final. Fellow students will submit feedback and suggestions.
 
+---
 
-#### Thurs 03-24 Feedback Pattern: Chilling Effects
+#### Thurs 03-21 How Can Evidence Inform Governance?
+What is evidence-based governance and how might research contribute (or not) to policy? In this session, we'll discuss a model where researchers are advisors, versus a model where researchers are producing evidence that is used in courts and other contestational settings.
+
+* Spruijt, P., Knol, A. B., Vasileiadou, E., Devilee, J., Lebret, E., & Petersen, A. C. (2014). [Roles of scientists as policy advisers on complex issues: A literature review](https://www.sciencedirect.com/science/article/pii/S1462901114000598). Environmental Science & Policy, 40, 16-25.
+* Systemic Justice (2023) [Strategic Litigation: A Guide for Legal Action](https://systemicjustice.ngo/community-toolkit/). Systemic Justice.
+* (gradstudents) Weiss, C. H. (1979). [The many meanings of research utilization](https://www.jstor.org/stable/3109916). Public administration review, 39(5), 426-431.
+
+Questions for discussion in Canvas and in class:
+* For your team's final project area:
+   * What kind of evidence might be needed for policymaking
+   * Is that kind of evidence possible yet?
+   * Does the evidence already exist?
+   * How does evidence already influence policy, if at all?
+   * What forces are preventing evidence from being available?
+
+#### Tues 03-26 Feedback Pattern: Chilling Effects on Rights
 People are often influenced by algorithms by design, but algorithms can also have side effects. Algorithms can also cause a chilling effect when people are influenced against taking legally-protected actions such as avoiding certain streets or self-censoring their political views.
 
 * Schauer, F. (1978). [Fear, Risk and the First Amendment: Unraveling the Chilling Effect](https://scholarship.law.wm.edu/facpubs/879/). Boston University Law Review, 58(5), 685–732.
@@ -352,42 +344,18 @@ People are often influenced by algorithms by design, but algorithms can also hav
 * Orben, A. (2020). [The Sisyphean cycle of technology panics](https://journals.sagepub.com/doi/full/10.1177/1745691620919372). Perspectives on Psychological Science, 15(5), 1143-1157.
 * (graduate students) Bossetta, M. (2020) [Scandalous Design: How Social Media Platforms’ Responses to Scandal Impacts Campaigns and Elections](https://journals.sagepub.com/doi/10.1177/2056305120924777). Social Media + Society, 6(2).-->
 
-#### Tues 03-29 Project Check-in
+---
+
+#### Thurs 03-28 Project Check-in
 In this class, we will:
-* Support group collaboration time for algorithm audit projects
-* Support group collaboration time for midterm final project proposals
-* Discuss common questions about the algorithm audit and final project proposals
+* Support group collaboration time student projects
+* Discuss common questions about projects and final proposals
 
-#### Thurs 03-31 Assessing The Class Recommender System
-We have now been using the Fuego news recommender system for over a month. In this class, teams will present analyses of the Fuego system for class discussion using perspectives and methods introduced in this class.
-
-Possible analyses include:
-
-* Analyzing the articles suggested by the system for gender bias
-* Analyzing the initial seed communityfor evidence of gender bias in who they follow or whose articles they share on social media
-* Analyzing the supply of links provided by publishers for things such as gender bias
-* Analyzing the before/after sharing behavior of accounts that subscribe to the system
-* Altering the Fuego code and observing how the recommendations change
-* Simluating feedback in cases where Fuego is attending to accounts that are paying attention to it
-* Simulate whether it would be possible for Fuego to reduce gender bias in social media behavior
-* Comparing what Fuego recommends to what you might otherwise receive, without Fuego
-* Interviewing people to solicit their theories for how Fuego suggests things to them
+---
 
 #### SPRING BREAK (Syllabus Adjustment Check-In)
 
-#### Tues 4-12 How Can Evidence Inform Policy?
-What is evidence-based governance and how might research contribute (or not) to policy?
-
-* Matias, J.N., Wright, L. (2021) [Impact Assessment of Human-Algorithm Feedback](https://just-tech.ssrc.org/field-reviews/impact-assessment-of-human-algorithm-feedback-loops/). Social Science Research Council
-* (gradstudents) Weiss, C. H. (1979). [The many meanings of research utilization](https://www.jstor.org/stable/3109916). Public administration review, 39(5), 426-431.
-
-Questions for discussion in Canvas and in class:
-* For your team's final project area:
-   * What kind of evidence might be needed for policymaking
-   * Is that kind of evidence possible yet?
-   * Does the evidence already exist?
-   * How does evidence already influence policy, if at all?
-   * What forces are preventing evidence from being available?
+---
 
 <!--
 #### Tues 04-05 Research Methods: Lab Tests and Simulations
@@ -403,8 +371,8 @@ How can we integrate evidence-creation into the policy process? One option is to
 * (TBD) example of an algorithmic impact assessment, if such a thing exists yet!
 -->
 
-#### Thurs 04-14 Policy Topic: How Does Evidence Actually Inform Policy?
-In a previous class, we discussed theories for how evidence could inform policy. How does it really happen?
+#### Thurs 04-09 Policy Topic: How Does Evidence Actually Inform Policy?
+In previous classes, we discussed theories for how evidence could inform policy. How does it really happen?
 
 * **Each Team** share on Canvas an example of a piece of research, journalism, or activism that genuinely impacted policy (ideally related to your project), and comment on how it did so. A especially high quality submission will be able to cite an example where someone made a claim about the relationship between the corporate/government policy change and the project. Comment on other team's examples, come prepared to discuss your team's example, and be prepared to ask questions and discuss other team's examples.
 * Examples:
@@ -416,6 +384,15 @@ In a previous class, we discussed theories for how evidence could inform policy.
   * Orben, A. (2020). The Sisyphean cycle of technology panics. Perspectives on Psychological Science, 15(5), 1143-1157. 
 * Contandriopoulos, D., Lemire, M., Denis, J. L., & Tremblay, É. (2010). Knowledge exchange processes in organizations and policy arenas: a narrative systematic review of the literature. The Milbank Quarterly, 88(4), 444-483.
 
+---
+
+#### Thurs 04-11 Policy Topic: Conversation with Advocacy Groups
+In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
+
+<!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU)
+
+
+<!--
 #### Tues 04-19 Policy Topic: Can Tech Ethics Prevent Harms?
 Advocates of tech ethics argue that if we teach ethics to engineers, society will be more protected from the harms associated with algorithms. How much can that help?
 
@@ -431,18 +408,23 @@ Questions for discussion on Canvas and in class:
    * What is an example of a "moral entrepreneur?"
    * What is "safety culture" and how do people identify culture as responsible for disasters and accidents?
 
+-->
 <!--#### Tues 04-19 Policy Topic: Conversation with Advocacy Groups
 In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
 
 <!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU) -->
 
-#### Thurs 04-21 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
+---
+
+#### Thurs 04-16 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
 If algorithms are just math formulas that offer a reflection of a broken world, one way to govern algorithms is to protect them from bad people. What does that look like?
 
 * Clegg, N. (2021, March 31). [You and the Algorithm: It Takes Two to Tango](https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2). Medium. 
 * Roberts, S. T. (2019). "Understanding Commercial Content Moderation," from Behind the screen. Yale University Press.
 
-#### Tues 04-26 Policy Topic: Creating Change With Courts
+---
+
+#### Tues 04-18 Policy Topic: Creating Change With Courts
 What influence can courts have on the behavior of companies, populations, and algorithms? 
 
 * Charles, S. (2020, January 27). [CPD decommissions ‘Strategic Subject List.’](https://chicago.suntimes.com/city-hall/2020/1/27/21084030/chicago-police-strategic-subject-list-party-to-violence-inspector-general-joe-ferguson) Chicago Sun-Times. 
@@ -454,7 +436,13 @@ Questions to consider:
 * How can laws and agencies influence what courts are able to do?
 * How might courts be important to the project you're working on?
 
-#### Thurs 04-28 Policy Topic:Algorithmic Literacy
+---
+#### Tues 04-23 Final Project Check-in
+In the class, teams will be supported to meet in person, workshop your ideas with peers, and get feedback on your project progress.
+
+---
+
+#### Thurs 04-25 Policy Topic:Algorithmic Literacy
 In order for democratic societies to govern a problem, people need to know about it and care enough to do something. How does the public understand and care about human-algorithm feedback?
 
 * Druga, S., Christoph, F., & Ko, A. J. (2022). [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://faculty.washington.edu/ajko/papers/Druga2022FamilyAILiteracy.pdf).
@@ -472,24 +460,24 @@ How can we learn the safety of algorithms or the effectiveness of policies in re
 * Campbell, D. T. (1969). [Reforms as experiments](https://www.sfu.ca/~palys/Campbell-1969-ReformsAsExperiments.pdf). American psychologist, 24(4), 409.
 * (gradstudents) TBD-->
 
-#### Tues 05-03 Final Presentations Part I
+#### Tues 04-30 Final Presentations Part I
 In this session, teams will give a final presentation of their project, with an opportunity to receive feedback from peers.
 
 In the discussion, please post in advance a question for feedback you would like your peers to consider during your session in the class.
 
-#### Thurs 05-15 Final Presentations Part II
+#### Thurs 05-02 Final Presentations Part II
 In this session, teams will give a final presentation of their project, with an opportunity to receive feedback from peers.
 
 In the discussion, please post in advance a question for feedback you would like your peers to consider during your session in the class.
 
-#### Thurs 05-10 Reflections on Learning & the Future of Algorithms and Society
+#### Ties 05-07 Reflections on Learning & the Future of Algorithms and Society
 In this session, we will reflect on the topics in the class. Please submit a discussion post, which will inform our group conversation:
 
 * Name something you believed at the beginning of the course
 * Reflect on how your thinking about that question has changed
 * Name one way this topic might continue to be relevant to your future life, whether in your role as citizen or your work
 
-#### Final Project Deadline: May 17 
+#### Final Project Deadline: May 16 
 
 ## Course Practices and Policies
 
@@ -503,9 +491,9 @@ Before each class, I will assign **two readings** I expect you to read before cl
   * how the paper advances the conversation
   * a question or observation that links the paper to the theme of the day or the theme of the course 
 
-Each week, students are expected to post at least one link recommended by the Fuego system to Element in #discussion and add at least one comment in response to one other student's posted link. We will introduce the Fuego system on February 3rd.
+Each week, students are expected to post at least one news article to Canvas add at least one comment in response to one other student's posted link.
 
-Graduate students will have additional readings and will rotate responsibility for summarizing the reading for the rest of the class. Summarizing the reading will involve:
+Graduate students will have additional readings. Graduate students will also rotate responsibility for summarizing presenting to the class on the readings assigned to everyone. Summarizing the reading will involve:
 * Creating 2-3 slides for the reading
   * Slide one: introducing the core question of the paper, and the authors
   * Slide two: summarize the methods and findings of the paper
@@ -517,16 +505,7 @@ Since this is a discussion course, attendance is expected.
 ### Participation in Discussions
 Please post discussions about readings to Canvas. 
 
-Weekly discussions of Fuego and other relevant news links (details tbd) should be posted to Element. Instructions for joining Element are available on Canvas. Please use your Cornell University email address when requesting to join the Element workspace.
-
 Whenever the course has assigned reading for a session, you are expected to post at least one top-level comment and one reply to someone else's comment. Participation will be 20% of your course grade.
-
-Here is how we will use channels:
-
-* #discussion: please post your comment and your reply to this channel. This space will be evaluated for your participation grade.
-* #announcements: will include announcements and discussion of class and syllabus issues. You can ask tech support questions here.
-* #random: is for news links to relevant content you're finding online and general encouragement to your fellow students
-* team-specific rooms are for coordinating with your team and sharing project-specific questions to the professor
 
 ### Team Progress Reports
 During the project period of the class, teams will submit on Canvas a weekly progress report no more than one page long, as group homework. This progress report will be graded 0/1 based on whether it was submitted. Reports should include the following details (a sample template is available here):
@@ -586,11 +565,11 @@ Late Submissions: All assignments have an automatic one-day grace period. On tim
 
 If you turned in an assignment on time and haven't received a grade within the expected period, please contact the instructor in case of a technical glitch.
 
-### COVID Policies
+<!--### COVID Policies
 Students are expected to follow [Cornell COVID policies for students](https://covid.cornell.edu/students/), including vaccination and masking. 
-
+-->
 ### Accommodations
-Please let me know as soon as possible if you need accommodations (e.g. for disabilities), and I will work with you to ensure you have the best possible class experience.
+I am committed to working with students with recognized SDSes to ensure you have the best possible class experience. Please [follow these steps to get started](https://sds.cornell.edu/get-started).
 
 ### Health Accommodation for Professor Matias
 As part of a [medical condition of my own](https://natematias.com/portfolio/2021-06-06-ithaca-allergies/), I may on rare occasion need to teach remotely. Since I may not be alerted to this need until the morning before class, I will ask the designated presenting graduate student to also set up a video chat feed for me to join. 
@@ -604,4 +583,4 @@ If you require a short term accommodation, please let me know as soon as possibl
 
 ### Acknowledgments
 
-I am grateful to my co-author Lucas Wright for his contributions to a review article that this course is based on. Several sections of these policies have been inspired by syllabi from Matthew Salganik, Adrienne Keene, and Neil Lewis Jr.
+I am grateful to my co-author Lucas Wright for his contributions to a review article that this course is based on, and to the Human-Algorithm-Behavior Research Collective for input. Several sections of these policies have been inspired by syllabi from Matthew Salganik, Adrienne Keene, and Neil Lewis Jr.

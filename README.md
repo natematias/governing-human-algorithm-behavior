@@ -1,9 +1,9 @@
 # COMM 4940: Governing Human-Algorithm Behavior
 [J. Nathan Matias](https://natematias.com) &lt;nathan.matias AT cornell.edu&gt; , Department of Communication, Field Member, Information Science
 
-* Spring 2024 ([see course listing]
-* Time: TBD
-* Location: TBD
+* Spring 2024 ([see course listing](https://classes.cornell.edu/browse/roster/SP24/class/COMM/4940))
+* Time: Tuesday & Thursday 11:40am - 12:55pm  
+* Location: Malott Hall 224
 
 ![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png)
 

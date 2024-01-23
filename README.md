@@ -84,20 +84,18 @@ This class session will introduce the course and pose initial questions.
 #### Thurs 01-25 Tech and Methods: How Do Adaptive Algorithms Work?
 In this class, we will discuss the code and mathematics behind adaptive algorithms.
 
-* News story TBD
+* Sophie Mellor (2022) [After a 14-year-old Instagram user's suicide, Meta apologizes for (some of) the self-harm and suicide content she saw](https://finance.yahoo.com/news/14-old-instagram-users-suicide-151102166.html). Yahoo! News
+* Paresh Dave (2023) [The 5 Instagram Features That US States Say Ruin Teens’ Mental Health](https://www.wired.com/story/the-5-instagram-features-that-us-states-say-ruin-teens-mental-health/). WIRED
+* Georgia Wells, Jeff Horwitz, and Deepa Seetharaman (2021) [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739). Wall Street Journal.
 * Shardanand, U., & Maes, P. (1995, May). [Social information filtering: Algorithms for automating “word of mouth”](https://dl.acm.org/doi/10.1145/223904.223931). In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 210-217).
 
 <!--* Resnick, P., Iacovou, N., Suchak, M., Bergstrom, P., & Riedl, J. (1994, October). [Grouplens: An open architecture for collaborative filtering of netnews](https://dl.acm.org/doi/abs/10.1145/192844.192905). In Proceedings of the 1994 ACM conference on Computer supported cooperative work (pp. 175-186).-->
 
 Questions to consider:
+* What are the specific claims being made about Meta and mental health?
 * What are social recommendations? How do they differ from personalized recommendations?
 * When would you want a personalized recommendation, and when would you want a recommendation that is not personalized?
-* What are the pros and cons of relying links shared on social media to get news and information about tech policy— especially in contrast with:
-  * a [Google alert](https://www.google.com/alerts)
-  * a [Google Scholar alert](https://scholar.google.com/intl/en/scholar/help.html) for recent papers
-  * subscribing to a newsletter like [Tech Policy Press](https://techpolicy.press/about/)
-  * following several thousand people on Twitter
-* How might a recommender system contribute to discrimination or bias in the understanding of its users? How might it reduce discrimination?
+* How might a recommender system contribute to mental health harms? How might they reduce mental health harms?
 
 ---
 

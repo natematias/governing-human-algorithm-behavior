@@ -107,6 +107,8 @@ Questions to think about from Defeating Windigo:
 * Imagine the forces akin to "hunger" (the drive for more) and "gratitude" (a drive for less of something) that direct individuals and institutions toward **more** and which ones direct them toward **less** 
 * Reflect on how those forces might have contributed to that event.
 
+---
+
 #### Thurs 02-01 Case Study: Teenage Mental Health
 To build our intuitions about governing algorithms and what to do about it, we're going to consider a series of classes about discrimination online. This class introduces the first case study, related to allegations that Facebook and Instagram contributed to a teen mental health crisis.
 

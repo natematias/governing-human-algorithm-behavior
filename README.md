@@ -505,7 +505,7 @@ Since this is a discussion course, attendance is expected.
 ### Participation in Discussions
 Please post discussions about readings to Canvas. 
 
-Whenever the course has assigned reading for a session, you are expected to post at least one top-level comment and one reply to someone else's comment. Participation will be 20% of your course grade.
+Whenever the course has assigned reading for a session, you are expected to post at least one top-level comment and one reply to someone else's comment. Participation will be 30% of your course grade.
 
 ### Team Progress Reports
 During the project period of the class, teams will submit on Canvas a weekly progress report no more than one page long, as group homework. This progress report will be graded 0/1 based on whether it was submitted. Reports should include the following details (a sample template is available here):

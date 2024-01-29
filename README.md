@@ -100,6 +100,7 @@ Questions to consider:
 ---
 
 #### Tues 01-30 Feedback Loops: Simple Models to Explain Complex Behaviors
+* Clegg, N. (2021, March 31). You and the Algorithm: It Takes Two to Tango Links to an external site.. Medium.
 * Kimmerer, R. (2013) "[Defeating Windigo](https://cdn.inst-fs-iad-prod.inscloudgate.net/19f74d3b-2d9e-448a-88df-c94c66cafdc3/RobinWallKimmer_2013_DefeatingWindigo_BraidingSweetgrassInd.pdf?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii8xOWY3NGQzYi0yZDllLTQ0OGEtODhkZi1jOTRjNjZjYWZkYzMvUm9iaW5XYWxsS2ltbWVyXzIwMTNfRGVmZWF0aW5nV2luZGlnb19CcmFpZGluZ1N3ZWV0Z3Jhc3NJbmQucGRmIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6bnVsbCwiaWF0IjoxNzAxMDIyNzQ5LCJleHAiOjE3MDExMDkxNDl9.6MyHu0p_IgPfN1rOZ4TqG6jPg76-OqEaSC0bBb0MfqMSn1lz4dHMdtWesI_91rkUYJlSVJQdLH2bu4aTWepOXw&download=1&content_type=application%2Fpdf)" from Braiding Sweetgrass. Milkweed Editions
 
 Questions to think about from Defeating Windigo:
@@ -109,10 +110,24 @@ Questions to think about from Defeating Windigo:
 
 ---
 
-#### Thurs 02-01 Case Study: Teenage Mental Health
+#### Thurs 02-01 Incidents and Disasters
+In this class, we're going to ask the question "What is an incident" and "What is an accident/disaster/catastrophe?" while also discussing how understanding them might help society:
+Readings: 
+* Marsh, Allison (2021) [The Inventor of the Black Box Was Told to Drop the Idea and “Get On With Blowing Up Fuel Tanks”](https://spectrum.ieee.org/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
+* Pinch, T. J. (1991). [How do we treat technical uncertainty in systems failure? The case of the space shuttle Challenger. In Social responses to large technical systems: control or anticipation](https://link.springer.com/content/pdf/10.1007/978-94-011-3400-2.pdf) (pp. 143-158). Dordrecht: Springer Netherlands.
+
+Questions to think about — choose a specific risk, harm, or incident involving AI, and consider:
+- Based on the article by Pinch, list out at least six of the "causes" of the Challenger disaster, and label them (were they technical, political social, etc). Could you name the most important one?
+- List out things that might possibly go wrong
+- What might you want to record in order to go back and figure out what went wrong?
+
+A cool article I sadly wasn't able to include:
+* Knowles, S. (2014). Engineering risk and disaster: Disaster-STS and the American history of technology. Engineering Studies, 6(3), 227-248.
+
+<!--#### Thurs 02-01 Case Study: Teenage Mental Health
 To build our intuitions about governing algorithms and what to do about it, we're going to consider a series of classes about discrimination online. This class introduces the first case study, related to allegations that Facebook and Instagram contributed to a teen mental health crisis.
 
-Readings: TBD
+Readings: TBD-->
 
 <!--#### Thurs 02-24 Topic area: Algorithms, Self-Harm, and Eating Disorders
 In this topic area session, we will discuss the role of algorithms in eating disorders and self-harm.

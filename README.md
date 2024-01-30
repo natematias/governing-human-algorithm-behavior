@@ -113,7 +113,7 @@ Questions to think about from Defeating Windigo:
 #### Thurs 02-01 Incidents and Disasters
 In this class, we're going to ask the question "What is an incident" and "What is an accident/disaster/catastrophe?" while also discussing how understanding them might help society:
 Readings: 
-* Marsh, Allison (2021) [The Inventor of the Black Box Was Told to Drop the Idea and “Get On With Blowing Up Fuel Tanks”](https://spectrum.ieee.org/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks)
+* Marsh, Allison (2021) [The Inventor of the Black Box Was Told to Drop the Idea and “Get On With Blowing Up Fuel Tanks”](https://spectrum.ieee.org/the-inventor-of-the-black-box-was-told-to-drop-the-idea-and-get-on-with-blowing-up-fuel-tanks). IEEE Spectrum.
 * Pinch, T. J. (1991). [How do we treat technical uncertainty in systems failure? The case of the space shuttle Challenger. In Social responses to large technical systems: control or anticipation](https://link.springer.com/content/pdf/10.1007/978-94-011-3400-2.pdf) (pp. 143-158). Dordrecht: Springer Netherlands.
 
 Questions to think about — choose a specific risk, harm, or incident involving AI, and consider:

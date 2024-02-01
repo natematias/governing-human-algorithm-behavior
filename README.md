@@ -143,24 +143,19 @@ In this topic area session, we will discuss the role of algorithms in eating dis
 #### Tues 02-06 Case Study: Algorithms and Discrimination
 To build our intuitions about governing algorithms and what to do about it, we're going to consider a series of classes about discrimination online. This class introduces the problem of discrimination in online labor markets.
 
+* Mullainathan, S. (2019). [Biased algorithms are easier to fix than biased people](https://www.nytimes.com/2019/12/06/business/algorithm-bias-fix.html). The New York Times.
 * McGhee, H. (2021). "Racism Drained the Pool" from The sum of us: What racism costs everyone and how we can prosper together. One World.
- * Read pages 17 - 28
+ * Read pages 17 - 28 (Cornell Library has e-book copies)
 * Cox, M. (2017) [The Face of Airbnb, New York City](http://insideairbnb.com/reports/the-face-of-airbnb-nyc.pdf). ([read about the project](https://medium.com/bloomberg/meet-murray-cox-the-man-trying-to-take-down-airbnb-ce9e81faf9f6))
-* (gradstudents) Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb. com.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2377353) Harvard Business School NOM Unit Working Paper, (14-054).
+<!--* (gradstudents) Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb. com.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2377353) Harvard Business School NOM Unit Working Paper, (14-054).-->
 
-Questions to think about from The Sum of Us: 
-* What is a public good? (you might want to bring in knowledge from other courses)
-* What was the role of institutions (such as city councils) in upholding discrimination at pools before de-segregation? What was their role afterward?
-* What was the role of White swimmers in upholding discrimination at pools before de-segregation? What was their role afterward?
-* The Civil Rights Act of 1964 prohibited discrimination in public accommodations and federally funded programs, requiring towns to make public services equally available to everyone regardless of race, color, religion, sex or national origin. Why might we believe that changing institutional policies could reduce discrimination?
-* Did changes to government policies reduce discrimination in pools?
-* If we wanted to describe discrimination in public pools as a feedback loop, how would we do that?
-
-Questions to think about from The Face of Airbnb:
-* Why might Black people in predominantly-Black New York City neighborhoods make less on Airbnb?
-* What other harms might Airbnb represent for Black residents beyond differences in rental rates?
-* How do inequality and discrimination occur on Airbnb?
-* Why did Murray Cox write this report? Who was his audience? What did he hope to achieve?
+Questions to think about for class and discussion:
+* How does Mullainathan think about discrimination and bias?
+* In Mullainathan's view, what does it mean to "fix" bias?
+* How does McGhee think about discrimination and bias?
+* How might McGhee think about "fixing" discrimination and bias?
+* What do we gain and lose by redefining our understanding of social issues only to the things that algorithms can meaningfully address?
+* * 
 
 ---
 

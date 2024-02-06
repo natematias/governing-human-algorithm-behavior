@@ -146,7 +146,7 @@ To build our intuitions about governing algorithms and what to do about it, we'r
 * Mullainathan, S. (2019). [Biased algorithms are easier to fix than biased people](https://www.nytimes.com/2019/12/06/business/algorithm-bias-fix.html). The New York Times.
 * McGhee, H. (2021). "Racism Drained the Pool" from The sum of us: What racism costs everyone and how we can prosper together. One World.
  * Read pages 17 - 28 (Cornell Library has e-book copies)
-* Cox, M. (2017) [The Face of Airbnb, New York City](http://insideairbnb.com/reports/the-face-of-airbnb-nyc.pdf). ([read about the project](https://medium.com/bloomberg/meet-murray-cox-the-man-trying-to-take-down-airbnb-ce9e81faf9f6))
+* Carville, O. (2019) Meet Murray Cox, [The Man Trying to Take Down Airbnb](https://www.bnnbloomberg.ca/meet-murray-cox-the-man-trying-to-take-down-airbnb-1.1263088). Bloomberg
 <!--* (gradstudents) Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb. com.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2377353) Harvard Business School NOM Unit Working Paper, (14-054).-->
 
 Questions to think about for class and discussion:

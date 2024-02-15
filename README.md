@@ -248,7 +248,7 @@ As a reminder, final project ideas include one of three options:
 FEBRUARY BREAK
 ---
 
-#### Thurs 03-29 Feedback Pattern: Reinforcement
+#### Thurs 02-29 Feedback Pattern: Reinforcement
 In a series of sessions, we will discuss common patterns of human-algorithm feedback. The first is reinforcement, which happens with individuals in the case of personalization and with groups in the case of herding behavior.
 
 * Epps-Darling, A. (2020, October 24). [Racist Algorithms Are Especially Dangerous for Teens](https://www.theatlantic.com/family/archive/2020/10/algorithmic-bias-especially-dangerous-teens/616793/). The Atlantic. 

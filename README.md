@@ -222,7 +222,14 @@ Common discussions of algorithm governance focus on decision-making, which is a 
 #### Tues 02-20 What is an AI Incident?
 In order for algorithms to be governed, we need to be able to describe what happens when one goes wrong. So what is an incident anyway, and how would we establish that harm had occurred?
 
+* Allen, J. (2024) [Why Is Instagram Search More Harmful Than Google Search?](https://integrityinstitute.org/blog/why-is-instagram-search-more-harmful-than-google-search). Integrity Institute
 * McGregor, S. (2021, May). [Preventing repeated real world AI failures by cataloging incidents: The AI incident database](https://ojs.aaai.org/index.php/AAAI/article/view/17817). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 15458-15463).
+
+To prepare for class, think about the story by Sophie Mellor that we read at the beginning of class. Imagine that you are an employee at Instagram who is asked to investigate a mental-health related incident experienced by a young person who was an Instagram user.
+* create a definition for the incident type— what is it and what isn't it? How would you tell what counts as an incident or not?
+* make a list of 6 things that you would want to record from what might be know by Instagram, friends/family, and institutions
+
+In class, we will work to collaborate on an incident report template for several kinds of mental health related incidents.
 
 ---
 
@@ -234,7 +241,7 @@ In preparation for the class, meet with a possible project team to develop ideas
 As a reminder, final project ideas include one of three options:
 * An in-depth case study and/or forensic analysis of some failure of an adaptive algorithm ([see the AI Incident Database for ideas](https://incidentdatabase.ai/about/))
 * A proposal for a "black box" or data schema of what to record to inform future analysis of incidents
-* A digital simulation or card game that can be used to engage lived experience experts in critical thinking about human-algorithm behavior.
+* A creative project that can be used to involved lived experience experts in critical thinking about human-algorithm behavior and incident reporting.
 
 
 ---

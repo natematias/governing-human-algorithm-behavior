@@ -194,7 +194,7 @@ Overall questions:
 
 ---
 
-#### Tues 02-13 Could Things Be Different?
+#### Thurs 02-15 Could Things Be Different?
 In this class, we will discuss the challenge of determining responsibility for past harms and the difficulty of identifying interventions for change.
 
 * Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
@@ -202,12 +202,12 @@ In this class, we will discuss the challenge of determining responsibility for p
 
 ---
 
-#### Thurs 02-15 Data, Evidence, and Strategic Litigation
+<!-- #### Thurs 02-15 Data, Evidence, and Strategic Litigation
 In this class, we will hear from someone working on litigation alleging that Meta should be held responsible for a mental health impact on teenagers.
 
 * Reading: TBD
 
-<!--#### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
+#### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
 Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.
 
 * Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "The Problem Space" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
@@ -230,7 +230,6 @@ In order for algorithms to be governed, we need to be able to describe what happ
 In this class, we will discuss possible final project ideas for the course.
 
 In preparation for the class, meet with a possible project team to develop ideas for collective feedback and discussion.
-
 
 As a reminder, final project ideas include one of three options:
 * An in-depth case study and/or forensic analysis of some failure of an adaptive algorithm ([see the AI Incident Database for ideas](https://incidentdatabase.ai/about/))

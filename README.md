@@ -258,7 +258,7 @@ In a series of sessions, we will discuss common patterns of human-algorithm feed
 ---
 
 
-#### Thurs 03-05 Feedback Pattern: Herding
+#### Tues 03-05 Feedback Pattern: Herding
 Algorithms can amplify herding behavior by encouraging people to do something that's already popular. Ranking software has been credited with inspiring large-scale acts of charity, spreading prejudice and encouraging harassment mobs. When enough people engage in collective discrimination, adaptive systems can entrench injustice further. This class will investigate herding as a phenomenon of human + algorithm behavior.
 
 * Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](https://www.science.org/doi/abs/10.1126/science.1121066). Science, 311(5762), 854–856.
@@ -283,10 +283,9 @@ Can algorithms reduce dicrimination since they're easier to change than biased h
 
 #### Thurs 03-07 Feedback Pattern: Thresholds
 Patterns of human and algorithm behavior can dramatically change when their behavior reaches a certain threshold. For example, a popular conversation within a marginalized group might attract harassment if an algorithm amplifies it to a wider population where hatred prevails.
-
+* Biggins, David. [Goodbye, Thunderclap: How social media storms closed the popular crowdspeaking platform](https://luminouspr.com/goodbye-thunderclap-how-social-media-storms-closed-the-popular-crowdspeaking-platform/). Luminous PR.
+* Lemon, A. (2014) [Case studies in Thunderclap](https://digital.gov/2014/06/25/case-studies-in-thunderclap/). Digital.gov
 * Granovetter, M. (1978). [Threshold models of collective behavior](https://www.jstor.org/stable/2778111). American Journal of Sociology, 83(6), 1420–1443.
-* Margetts, H., John, P., Hale, S., & Yasseri, T. (2015). "How it all kicks off" from Political turbulence: How social media shape collective action. Princeton University Press. (in Canvas)
-* (gradstudents) Biggins, David. [Goodbye, Thunderclap: How social media storms closed the popular crowdspeaking platform](https://luminouspr.com/goodbye-thunderclap-how-social-media-storms-closed-the-popular-crowdspeaking-platform/). Luminous PR.
 
 Questions for discussion:
 * How might adaptive algorithms change how threshold models work, by influencing certain thresholds or influencing who is visible to whom?

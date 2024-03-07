@@ -297,19 +297,20 @@ Questions for discussion:
 #### Tues 03-12 Methods Area: Simulations
 
 People claim that algorithms amplify and spread hatred, misogyny and extremism. How could we tell, and what can we do about it? In this class, we will use the example of the spread of misogyny on Reddit as the basis of imagining simulations.
-
-* Reading on simulations TBD
-* Massanari, A. (2017). [#Gamergate and The Fappening: How Reddit’s algorithm, governance, and culture support toxic technocultures.](https://journals.sagepub.com/doi/abs/10.1177/1461444815608807) New Media & Society, 19(3), 329–346.
+* Messeri, L., Crockett, M. J. (2024) [Artificial intelligence and illusions of understanding in scientific research](https://www.nature.com/articles/s41586-024-07146-0). Nature.
+* Editorial Board. [Why scientists trust AI too much — and what to do about it](https://www.nature.com/articles/d41586-024-00639-y). Nature.
+* Hosseinmardi, H., Ghasemian, A., Rivera-Lanas, M., Horta Ribeiro, M., West, R., & Watts, D. J. (2024). [Causally estimating the effect of YouTube’s recommender system using counterfactual bots](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121). Proceedings of the National Academy of Sciences, 121(8), e2313377121.
+<!--* Massanari, A. (2017). [#Gamergate and The Fappening: How Reddit’s algorithm, governance, and culture support toxic technocultures.](https://journals.sagepub.com/doi/abs/10.1177/1461444815608807) New Media & Society, 19(3), 329–346.-->
 <!--* (gradstudents) Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). [Examining the consumption of radical content on YouTube](https://www.pnas.org/content/118/32/e2101967118.short). Proceedings of the National Academy of Sciences, 118(32).
 -->
 <!--* Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)-->
 
 <!--* Airbnb. (2020) [A new way we're fighting discrimination on Airbnb](https://www.airbnb.com/resources/hosting-homes/a/a-new-way-were-fighting-discrimination-on-airbnb-201). Airbnb.-->
 
-Questions for discussion:
+<!-- Questions for discussion:
 * So far we have been considering theories and patterns. Now let's start applying the concepts we're considering in class to specific cases:
    * How can the concepts we've considered in class help us understand misogyny and extremism online?
-   * How can the concepts from class help us envision interventions and policies to create change?
+   * How can the concepts from class help us envision interventions and policies to create change?-->
 
 ---
 

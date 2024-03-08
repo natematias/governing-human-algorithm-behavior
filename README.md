@@ -299,7 +299,9 @@ Questions for discussion:
 People claim that algorithms amplify and spread hatred, misogyny and extremism. How could we tell, and what can we do about it? In this class, we will use the example of the spread of misogyny on Reddit as the basis of imagining simulations.
 * Messeri, L., Crockett, M. J. (2024) [Artificial intelligence and illusions of understanding in scientific research](https://www.nature.com/articles/s41586-024-07146-0). Nature.
 * Editorial Board. [Why scientists trust AI too much — and what to do about it](https://www.nature.com/articles/d41586-024-00639-y). Nature.
+Choose one:
 * Hosseinmardi, H., Ghasemian, A., Rivera-Lanas, M., Horta Ribeiro, M., West, R., & Watts, D. J. (2024). [Causally estimating the effect of YouTube’s recommender system using counterfactual bots](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121). Proceedings of the National Academy of Sciences, 121(8), e2313377121.
+* Yin, L., Alba, D,. Nicoletti, L (2024) [OpenAI’s GPT Is a Recruiter’s Dream Tool. Tests Show There’s Racial Bias](https://www.bloomberg.com/graphics/2024-openai-gpt-hiring-racial-discrimination/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwOTg1NjE4NCwiZXhwIjoxNzEwNDYwOTg0LCJhcnRpY2xlSWQiOiJTQTA1Q1FUMEFGQjQwMCIsImJjb25uZWN0SWQiOiI4QkY3REVFODZERTk0QjdEOEVDRDA1OEQ4RUJDQzAzMyJ9.q4dHdWWVcJO9PMKhwQ-IF5BfvVNVmPAX8hWNyrtwSYY). Bloomberg.
 <!--* Massanari, A. (2017). [#Gamergate and The Fappening: How Reddit’s algorithm, governance, and culture support toxic technocultures.](https://journals.sagepub.com/doi/abs/10.1177/1461444815608807) New Media & Society, 19(3), 329–346.-->
 <!--* (gradstudents) Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). [Examining the consumption of radical content on YouTube](https://www.pnas.org/content/118/32/e2101967118.short). Proceedings of the National Academy of Sciences, 118(32).
 -->

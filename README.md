@@ -316,24 +316,19 @@ Choose one:
 
 ---
 
-#### Thurs 03-14 Policy Topic: What Is Policy Anyway?
-We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
+#### Thurs 03-14 How Much Complexity Should Incident Reporting Embrace?
+So far this semester, we have looked at simple incident reports such as the systems used by the U.S. National Transportation Safety Board to report a crash— introduced in the 1960s. Since then, scholars have developed more comprehensive ideas about how to map and describe failures. How far should we go toward offering more complex models? And how much should we understand/engage with the politics at play?
 
-* Cairney, P. (2019). "[What is Policy and policymaking](https://paulcairney.files.wordpress.com/2019/03/chapter-2-upp-2nd-ed-8.3.19.pdf)" from Understanding public policy: theories and issues. Red Globe Press.
-* Gillespie, T. (2017). [Governance of and by platforms](https://culturedigitally.org/2016/06/governance-of-and-by-platforms/). SAGE handbook of social media, 254-278.
-* (gradstudents) Lessig, L. (2009). "Code is Law" from [Code: And other laws of cyberspace](https://lessig.org/product/code). Basic Books.
+In this class, we're going to learn more about those systems, in the case of the Richmond CA Refinery fire of 2012. We're also going to consider how incident reporting fits into wider political engagements over error reporting.
 
-Questions for discussion:
-* What is a tech policy, really?
-* What is a platform policy, really?
-* What kind of policy outcomes can be achieved (or not) with code?
+* Sadisivam, N. (2021) [A California law gave the people power to cut pollution. Why isn’t it working?](https://grist.org/equity/ab617-richmond-california-chevron-refinery-air-monitoring/). Grist.
+* Yousefi, A., Rodriguez Hernandez, M., & Lopez Peña, V. (2019). [Systemic accident analysis models: A comparison study between AcciMap, FRAM, and STAMP](https://aiche.onlinelibrary.wiley.com/doi/abs/10.1002/prs.12002). Process Safety Progress, 38(2), e12002. (in Canvas)
+
 
 ---
 
 #### Tues 03-19 Finalizing Student Projects
 In your final-project teams, students will present a 3 minute presentation to summarize and analyze an issue in human-algorithm feedback that you would like to work on for your final. Fellow students will submit feedback and suggestions.
-
----
 
 #### Thurs 03-21 How Can Evidence Inform Governance?
 What is evidence-based governance and how might research contribute (or not) to policy? In this session, we'll discuss a model where researchers are advisors, versus a model where researchers are producing evidence that is used in courts and other contestational settings.
@@ -348,14 +343,15 @@ Questions for discussion in Canvas and in class:
    * Is that kind of evidence possible yet?
    * Does the evidence already exist?
    * How does evidence already influence policy, if at all?
-   * What forces are preventing evidence from being available?
+   * What forces are preventing evidence from being available?-->
 
-#### Tues 03-26 Feedback Pattern: Chilling Effects on Rights
+<!--Feedback Pattern: Chilling Effects on Rights
 People are often influenced by algorithms by design, but algorithms can also have side effects. Algorithms can also cause a chilling effect when people are influenced against taking legally-protected actions such as avoiding certain streets or self-censoring their political views.
 
 * Schauer, F. (1978). [Fear, Risk and the First Amendment: Unraveling the Chilling Effect](https://scholarship.law.wm.edu/facpubs/879/). Boston University Law Review, 58(5), 685–732.
 * Brayne, S. (2014). Surveillance and system avoidance: Criminal justice contact and institutional attachment. American Sociological Review, 79(3), 367–391.
 * (graduate student) Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/). https://osf.io/nc7e2/
+-->
 
 <!--#### Thurs 03-24 Journalism and Policy: Hype Cycles or Accountability?
 * (TBD: pick a recent example of tech accountability journalism)
@@ -363,6 +359,17 @@ People are often influenced by algorithms by design, but algorithms can also hav
 * (graduate students) Bossetta, M. (2020) [Scandalous Design: How Social Media Platforms’ Responses to Scandal Impacts Campaigns and Elections](https://journals.sagepub.com/doi/10.1177/2056305120924777). Social Media + Society, 6(2).-->
 
 ---
+#### Tues 03-26 Policy Topic: What Is Policy Anyway?
+We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
+
+* Cairney, P. (2019). "[What is Policy and policymaking](https://paulcairney.files.wordpress.com/2019/03/chapter-2-upp-2nd-ed-8.3.19.pdf)" from Understanding public policy: theories and issues. Red Globe Press.
+* Gillespie, T. (2017). [Governance of and by platforms](https://culturedigitally.org/2016/06/governance-of-and-by-platforms/). SAGE handbook of social media, 254-278.
+* (gradstudents) Lessig, L. (2009). "Code is Law" from [Code: And other laws of cyberspace](https://lessig.org/product/code). Basic Books.
+
+Questions for discussion:
+* What is a tech policy, really?
+* What is a platform policy, really?
+* What kind of policy outcomes can be achieved (or not) with code?
 
 #### Thurs 03-28 Project Check-in
 In this class, we will:
@@ -404,8 +411,8 @@ In previous classes, we discussed theories for how evidence could inform policy.
 
 ---
 
-#### Thurs 04-11 Policy Topic: Conversation with Advocacy Groups
-In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
+#### Thurs 04-11 Policy Topic: Conversation with guest TBD
+In this session, we will have a conversation with a guest (TBD)
 
 <!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU)
 
@@ -415,7 +422,7 @@ In this session, we will have a conversation with representatives of thinktanks 
 Advocates of tech ethics argue that if we teach ethics to engineers, society will be more protected from the harms associated with algorithms. How much can that help?
 
 * Silbey, S. S. (2009). [Taming Prometheus: Talk about safety and culture](https://anthropology.mit.edu/sites/default/files/documents/silbey_safety_culture.pdf). Annual Review of Sociology, 35, 341–369.
-* (gradstudents) Zhang, B., Anderljung, M., Kahn, L., Dreksler, N., Horowitz, M. C., & Dafoe, A. (2021). [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://arxiv.org/pdf/2105.02117.pdf). arXiv preprint arXiv:2105.02117.
+* Zhang, B., Anderljung, M., Kahn, L., Dreksler, N., Horowitz, M. C., & Dafoe, A. (2021). [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://arxiv.org/pdf/2105.02117.pdf). arXiv preprint arXiv:2105.02117.
 
 Questions for discussion on Canvas and in class:
 * For the algorithm harms you and your team are thinking about:
@@ -434,11 +441,15 @@ In this session, we will have a conversation with representatives of thinktanks 
 
 ---
 
-#### Thurs 04-16 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
+#### Thurs 04-16 Policy Topic: TBD
+
+<!--#### Thurs 04-16 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
+
 If algorithms are just math formulas that offer a reflection of a broken world, one way to govern algorithms is to protect them from bad people. What does that look like?
 
 * Clegg, N. (2021, March 31). [You and the Algorithm: It Takes Two to Tango](https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2). Medium. 
 * Roberts, S. T. (2019). "Understanding Commercial Content Moderation," from Behind the screen. Yale University Press.
+-->
 
 ---
 
@@ -460,7 +471,7 @@ In the class, teams will be supported to meet in person, workshop your ideas wit
 
 ---
 
-#### Thurs 04-25 Policy Topic:Algorithmic Literacy
+#### Thurs 04-25 Policy Topic: Algorithmic Literacy
 In order for democratic societies to govern a problem, people need to know about it and care enough to do something. How does the public understand and care about human-algorithm feedback?
 
 * Druga, S., Christoph, F., & Ko, A. J. (2022). [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://faculty.washington.edu/ajko/papers/Druga2022FamilyAILiteracy.pdf).

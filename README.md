@@ -411,8 +411,16 @@ In previous classes, we discussed theories for how evidence could inform policy.
 
 ---
 
-#### Thurs 04-11 Policy Topic: Conversation with guest TBD
-In this session, we will have a conversation with a guest (TBD)
+#### Thurs 04-11 Policy Topic: Algorithmic Literacy
+In order for democratic societies to govern a problem, people need to know about it and care enough to do something. How does the public understand and care about human-algorithm feedback?
+
+* Druga, S., Christoph, F., & Ko, A. J. (2022). [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://faculty.washington.edu/ajko/papers/Druga2022FamilyAILiteracy.pdf).
+* Rainie, L., Anderson, J. (2017) "The need grows for algorithmic literacy, transparency and oversight" from [Code-Dependent: Pros and Cons of the Algorithm Age](https://www.pewresearch.org/internet/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/). Pew Research Center
+<!--* (possible invited guests: Baobao Zhang, Natalize Bazarova)-->
+Discussion questions:
+* If the design of algorithms is controlled by engineers and most people aren't engineers, how would algorithm literacy actually make a difference in people's lives if at all?
+* What kinds of knowledge about algorithms does a democratic public need?
+* How could your project area be transformed by algorithmic literacy — and how not?
 
 <!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU)
 
@@ -480,16 +488,10 @@ In the class, teams will be supported to meet in person, workshop your ideas wit
 
 ---
 
-#### Thurs 04-25 Policy Topic: Algorithmic Literacy
-In order for democratic societies to govern a problem, people need to know about it and care enough to do something. How does the public understand and care about human-algorithm feedback?
-
-* Druga, S., Christoph, F., & Ko, A. J. (2022). [Family as a Third Space for AI Literacies: How do children and parents learn about AI together?](https://faculty.washington.edu/ajko/papers/Druga2022FamilyAILiteracy.pdf).
-* Rainie, L., Anderson, J. (2017) "The need grows for algorithmic literacy, transparency and oversight" from [Code-Dependent: Pros and Cons of the Algorithm Age](https://www.pewresearch.org/internet/2017/02/08/code-dependent-pros-and-cons-of-the-algorithm-age/). Pew Research Center
-<!--* (possible invited guests: Baobao Zhang, Natalize Bazarova)-->
-Discussion questions:
-* If the design of algorithms is controlled by engineers and most people aren't engineers, how would algorithm literacy actually make a difference in people's lives if at all?
-* What kinds of knowledge about algorithms does a democratic public need?
-* Given feedback loops between humans and algorithms, what social science knowledge should be included in algorithmic literacy projects?
+#### Thurs 04-25 Case Study: Myanmar and Meta
+Guests:
+* Susan Benesch
+* Erin Kissane
 
 <!--#### Thurs 04-28 Research Methods: Citizen Science and Field Experiments
 How can we learn the safety of algorithms or the effectiveness of policies in real-world situations—while still limiting the risks? Field experiments, when conducted with public consent and careful oversight, enable researchers to audit systems and test policies in controlled circumstances with as few people as possible.

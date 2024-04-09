@@ -437,11 +437,20 @@ Questions for discussion on Canvas and in class:
 <!--#### Tues 04-19 Policy Topic: Conversation with Advocacy Groups
 In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
 
-<!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU) -->
+<y!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU) -->
 
 ---
 
-#### Thurs 04-16 Policy Topic: TBD
+#### Thurs 04-16 Policy Topic: Public Engagement with Incident Reporting
+
+If incident reporting is to work, the public need to understand incidents. In this class, in conversation with Dr. Jennifer King at Stanford University, we will look at the history of the Dark Patterns Tip Line.
+* Nguyen, Stephanie (2021) [Key learnings from the Dark Patterns Tip Line](https://ritaallen.org/stories/key-learnings-from-the-dark-patterns-tip-line/). Rita Allen Foundation
+* King, J., & Stephan, A. (2021). Regulating Privacy Dark Patterns in Practice-Drawing Inspiration from the California Privacy Rights Act. Georgetown Law Technology Review, 5(2), 250-276.
+
+Questions for discussion on Canvas and in class:
+* For your team's topic, how might it be possible to ask the public to report incidents?
+* Would the public be able to notice and distinguish possible incidents?
+* What kind of public awarness be necessar
 
 <!--#### Thurs 04-16 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
 

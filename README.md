@@ -100,10 +100,10 @@ Questions to consider:
 ---
 
 #### Tues 01-30 Feedback Loops: Simple Models to Explain Complex Behaviors
-* Clegg, N. (2021, March 31). You and the Algorithm: It Takes Two to Tango Links to an external site.. Medium.
-* Kimmerer, R. (2013) "[Defeating Windigo](https://cdn.inst-fs-iad-prod.inscloudgate.net/19f74d3b-2d9e-448a-88df-c94c66cafdc3/RobinWallKimmer_2013_DefeatingWindigo_BraidingSweetgrassInd.pdf?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii8xOWY3NGQzYi0yZDllLTQ0OGEtODhkZi1jOTRjNjZjYWZkYzMvUm9iaW5XYWxsS2ltbWVyXzIwMTNfRGVmZWF0aW5nV2luZGlnb19CcmFpZGluZ1N3ZWV0Z3Jhc3NJbmQucGRmIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6bnVsbCwiaWF0IjoxNzAxMDIyNzQ5LCJleHAiOjE3MDExMDkxNDl9.6MyHu0p_IgPfN1rOZ4TqG6jPg76-OqEaSC0bBb0MfqMSn1lz4dHMdtWesI_91rkUYJlSVJQdLH2bu4aTWepOXw&download=1&content_type=application%2Fpdf)" from Braiding Sweetgrass. Milkweed Editions
+* Clegg, N. (2021, March 31). [You and the Algorithm: It Takes Two to Tango](https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2). Medium.
+* Kimmerer, R. (2013) "Windigo Footprints" from Braiding Sweetgrass. Milkweed Editions
 
-Questions to think about from Defeating Windigo:
+Questions to think about from Windigo Footprints:
 * Think about an event related to algorithms and AI systems that matters to you. It might be an incident related to mental health, or discrimination, or something else
 * Imagine the forces akin to "hunger" (the drive for more) and "gratitude" (a drive for less of something) that direct individuals and institutions toward **more** and which ones direct them toward **less** 
 * Reflect on how those forces might have contributed to that event.

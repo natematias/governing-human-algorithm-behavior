@@ -24,18 +24,19 @@ This course requires students to have taken introductory statistics and be able 
 
 <div style="background:#eee; border-radius:15px; border:2px solid #ddd; margin:15px; padding:10px">
 
-<h3>How to Register for this class</h3>
+### How to Register for this class
 
-<p><strong>Upper Level Undergraduates</strong>: to join this class, register for COMM 4940 like any class.</p>
+#### Upper Level Undergraduates
+To join this class, register for COMM 4940 like any class.</p>
 
-<p><strong>PhD Students</strong>: to join this class, you have two options:</p>
+#### PhD Students
+To join this class, you have two options:</p>
 
-<ol><li>Enroll in an <strong>independent study</strong> (COMM 7970) with Professor Matias and then attend the class (preferred). Before enrolling, please write a brief note to Professor Matias with "Enrolling in COMM [4940]" in the subject. The email should:<ul>
+<ol><li>1. Enroll in an <strong>independent study</strong> (COMM 7970) with Professor Matias and then attend the class (preferred). Before enrolling, please write a brief note to Professor Matias with "Enrolling in COMM [4940]" in the subject. The email should:<ul>
 <li>Introduce yourself, your program, and where you are at (1-2 sentences)</li>
 <li>Explain why you want to take the course. For example, is it related to your research? An interest in policy? A project you want to develop in the course? (2-3 sentences)</li>
-<li>Describe the perspectives and skills you bring to the class (a few bullet points) (<em>for example, an understanding of certain theory, or capabilities at qualitative research, data analysis, policy writing, advocacy, media-making, or software development</em>)</li>
-</ul>
-<li>Enroll in COMM 4940 as a piece of <strong>elective coursework</strong>
+<li>Describe the perspectives and skills you bring to the class (a few bullet points) (<em>for example, an understanding of certain theory, or capabilities at qualitative research, data analysis, policy writing, advocacy, media-making, or software development</em>)</li></ul></li>
+<li>2. Enroll in COMM 4940 as a piece of <strong>elective coursework</strong><li>
 </ol>
 </div>
 
@@ -65,6 +66,7 @@ PhD students are encouraged to connect the course to an existing research questi
 *Project Proposal*: Your project proposal will include a description of the project, a bibliography, a list of the roles that team members will play, and a timeline.
 
 *Final Project*: An intervention into academic and/or policy conversations on human-algorithm research. In 2024, the class will support projects in two areas:
+
 * An in-depth case study and/or forensic analysis of some alleged AI system failure ([see the AI Incident Database for ideas](https://incidentdatabase.ai/about/))
 * A proposal for a "black box" or data schema of what to record to inform future analysis of incidents
 * A research project of your own choosing, if your team includes a PhD student
@@ -341,6 +343,7 @@ How do researchers identify systemic failures in the behavior of an AI system? A
 * Bullwinkel, B., Minnich, A., Chawla, S., Lopez, G., Pouliot, M., Maxwell, W., ... & Russinovich, M. (2025). [Lessons from red teaming 100 generative ai products](https://arxiv.org/abs/2501.07238). arXiv preprint arXiv:2501.07238.
 
 Graduate student reading:
+
 * Gerchick, M., Jegede, T., Shah, T., Gutierrez, A., Beiers, S., Shemtov, N., ... & Horowitz, A. (2023, June). [The devil is in the details: Interrogating values embedded in the allegheny family screening tool](https://dl.acm.org/doi/abs/10.1145/3593013.3594081). In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (pp. 1292-1310).
 
 Before class, write how you would test the AI system you want to study for an outcome that matters to you.
@@ -361,82 +364,6 @@ Graduate student reading:
 * Larsen, R. (2022). [‘Information Pressures’ and the Facebook Files: Navigating questions around leaked platform data](https://www.tandfonline.com/doi/full/10.1080/21670811.2022.2087099). Digital Journalism, 10(9), 1591-1603.
 
 Before the class, reflect on what might have been different if someone had done a systematic analysis of the type of alleged AI failure you are hoping to study.
-
-<!--
-#### 6.1 Taking Algorithms to Court
-In this class, we will discuss the challenge of taking an AI system to court. The class will be a conversation with someone who has been involved in litigation involving an AI system.
-
-* Metcalf, J., Singh, R., Moss, E., Tafesse, E., & Watkins, E. A. (2023, June). [Taking algorithms to courts: A relational approach to algorithmic accountability](https://doi-org.proxy.library.cornell.edu/10.1145/3593013.3594092). In Proceedings of the 2023 ACM Conference on Fairness, Accountability, and Transparency (pp. 1450-1462).
-
-To prepare for this conversation, find the public court filing for a lawsuit involving an AI product and write out a list of claims that would need to be true in order for the plaintiffs to make a successful case.-->
-
-
-<!--#### Thurs 02-29 Feedback Pattern: Reinforcement
-In a series of sessions, we will discuss common patterns of human-algorithm feedback. The first is reinforcement, which happens with individuals in the case of personalization and with groups in the case of herding behavior.
-
-* Epps-Darling, A. (2020, October 24). [Racist Algorithms Are Especially Dangerous for Teens](https://www.theatlantic.com/family/archive/2020/10/algorithmic-bias-especially-dangerous-teens/616793/). The Atlantic. 
-* Arnold, K. C., Chauncey, K., & Gajos, K. Z. (2020). [Predictive text encourages predictable writing](https://www.eecs.harvard.edu/~kgajos/papers/2020/arnold20predictcive.shtml). Proceedings of the 25th International Conference on Intelligent User Interfaces, 128–138.
-* (gradstudents) Li, L., Chu, W., Langford, J., & Schapire, R. E. (2010). [A contextual-bandit approach to personalized news article recommendation](https://doi.org/10.1145/1772690.1772758). Proceedings of the 19th International Conference on World Wide Web, 661–670.-->
-
-<!-- --- -->
-
-<!--
-#### Tues 03-05 Feedback Pattern: Herding
-Algorithms can amplify herding behavior by encouraging people to do something that's already popular. Ranking software has been credited with inspiring large-scale acts of charity, spreading prejudice and encouraging harassment mobs. When enough people engage in collective discrimination, adaptive systems can entrench injustice further. This class will investigate herding as a phenomenon of human + algorithm behavior.
-
-* Salganik, M. J., Dodds, P. S., & Watts, D. J. (2006). [Experimental study of inequality and unpredictability in an artificial cultural market](https://www.science.org/doi/abs/10.1126/science.1121066). Science, 311(5762), 854–856.
-* Bravo, D. Y., Jefferies, J., Epps, A., & Hill, N. E. (2019). [When Things Go Viral: Youth’s Discrimination Exposure in the World of Social Media](https://link.springer.com/chapter/10.1007/978-3-030-12228-7_15). In Handbook of Children and Prejudice (pp. 269–287). Springer.
-* (graduate students) Brayne, S. (2020). "Directed Surveillance: Predictive Policing and Quantified Risk," from Predict and surveil: Data, discretion, and the future of policing. Oxford University Press, USA.
-
-Questions to discuss:
-* How does herding happen even without algorithms? What ideas from your other classes or research might help explain herding? (COMM 2450 students - remember threshold models?) 
-* How might herding create social change you want to see in the world, as well as harms to avoid?
-* How might we interrupt herding, and how might you test it?
-* Who should have the right to interrupt herding?-->
-
-<!--
-#### Tues 03-08 Case Study: Algorithms as Solutions to Discrimination
-Can algorithms reduce dicrimination since they're easier to change than biased humans? So far, this has only been deliberately tried with decision-making systems, so the answer is unknown. So in this class, we look at algorithm solutions to decision-making discrimination.
-
-* Mullainathan, S. (2019). Biased algorithms are easier to fix than biased people. The New York Times.
-* Zhang, S., Mehta, N., Singh, P. V., & Srinivasan, K. (2021). [Can an AI Algorithm Mitigate Racial Economic Inequality? An Analysis in the Context of Airbnb](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3770371). SSRN
-* (gradstudents) Pierson, E., Cutler, D. M., Leskovec, J., Mullainathan, S., & Obermeyer, Z. (2021). [An algorithmic approach to reducing unexplained pain disparities in underserved populations](https://www.nature.com/articles/s41591-020-01192-7). Nature Medicine, 27(1), 136-140.
-
----
-
-#### Thurs 03-07 Feedback Pattern: Thresholds
-Patterns of human and algorithm behavior can dramatically change when their behavior reaches a certain threshold. For example, a popular conversation within a marginalized group might attract harassment if an algorithm amplifies it to a wider population where hatred prevails.
-* Biggins, David. [Goodbye, Thunderclap: How social media storms closed the popular crowdspeaking platform](https://luminouspr.com/goodbye-thunderclap-how-social-media-storms-closed-the-popular-crowdspeaking-platform/). Luminous PR.
-* Lemon, A. (2014) [Case studies in Thunderclap](https://digital.gov/2014/06/25/case-studies-in-thunderclap/). Digital.gov
-* Granovetter, M. (1978). [Threshold models of collective behavior](https://www.jstor.org/stable/2778111). American Journal of Sociology, 83(6), 1420–1443.
-
-Questions for discussion:
-* How might adaptive algorithms change how threshold models work, by influencing certain thresholds or influencing who is visible to whom?
-* If people have thresholds, how might algorithms also have thresholds? How can we influence algorithm thresholds?
-* How might thresholds be useful tools for governing human-algorithm behavior?-->
-
-
-<!-- --- -->
-
-<!-- #### Tues 03-12 Methods Area: Simulations-->
-
-<!--People claim that algorithms amplify and spread hatred, misogyny and extremism. How could we tell, and what can we do about it? In this class, we will use the example of the spread of misogyny on Reddit as the basis of imagining simulations.
-* Messeri, L., Crockett, M. J. (2024) [Artificial intelligence and illusions of understanding in scientific research](https://www.nature.com/articles/s41586-024-07146-0). Nature.
-* Editorial Board. [Why scientists trust AI too much — and what to do about it](https://www.nature.com/articles/d41586-024-00639-y). Nature.
-Choose one:
-* Hosseinmardi, H., Ghasemian, A., Rivera-Lanas, M., Horta Ribeiro, M., West, R., & Watts, D. J. (2024). [Causally estimating the effect of YouTube’s recommender system using counterfactual bots](https://www.pnas.org/doi/abs/10.1073/pnas.2313377121). Proceedings of the National Academy of Sciences, 121(8), e2313377121.
-* Yin, L., Alba, D,. Nicoletti, L (2024) [OpenAI’s GPT Is a Recruiter’s Dream Tool. Tests Show There’s Racial Bias](https://www.bloomberg.com/graphics/2024-openai-gpt-hiring-racial-discrimination/?accessToken=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzb3VyY2UiOiJTdWJzY3JpYmVyR2lmdGVkQXJ0aWNsZSIsImlhdCI6MTcwOTg1NjE4NCwiZXhwIjoxNzEwNDYwOTg0LCJhcnRpY2xlSWQiOiJTQTA1Q1FUMEFGQjQwMCIsImJjb25uZWN0SWQiOiI4QkY3REVFODZERTk0QjdEOEVDRDA1OEQ4RUJDQzAzMyJ9.q4dHdWWVcJO9PMKhwQ-IF5BfvVNVmPAX8hWNyrtwSYY). Bloomberg.
---><!--* Massanari, A. (2017). [#Gamergate and The Fappening: How Reddit’s algorithm, governance, and culture support toxic technocultures.](https://journals.sagepub.com/doi/abs/10.1177/1461444815608807) New Media & Society, 19(3), 329–346.-->
-<!--* (gradstudents) Hosseinmardi, H., Ghasemian, A., Clauset, A., Mobius, M., Rothschild, D. M., & Watts, D. J. (2021). [Examining the consumption of radical content on YouTube](https://www.pnas.org/content/118/32/e2101967118.short). Proceedings of the National Academy of Sciences, 118(32).
--->
-<!--* Possible invitees: Adrienne Massanari (UIC), Surya Mattu (The Markup), Lisa Nakamura (Michigan), Brandi Geurkink (Mozilla), Avriel Epps-Darling (Harvard)-->
-
-<!--* Airbnb. (2020) [A new way we're fighting discrimination on Airbnb](https://www.airbnb.com/resources/hosting-homes/a/a-new-way-were-fighting-discrimination-on-airbnb-201). Airbnb.-->
-
-<!-- Questions for discussion:
-* So far we have been considering theories and patterns. Now let's start applying the concepts we're considering in class to specific cases:
-   * How can the concepts we've considered in class help us understand misogyny and extremism online?
-   * How can the concepts from class help us envision interventions and policies to create change?-->
 
 ---
 
@@ -460,6 +387,7 @@ In this class, we will discuss the question of causality and methods for establi
 * Identify hurdles to obtaining those causal inferences
 * Guess how many scientists, studies, and years you think it might take to arrive at confident causal claims about the harm you are studying
 
+---
 
 #### 8.2 How Can Evidence Inform Governance?
 What is evidence-based governance and how might research contribute (or not) to policy? In this session, we'll discuss a model where researchers are advisors, versus a model where researchers are producing evidence that is used in courts and other contestational settings.
@@ -512,6 +440,9 @@ Questions for discussion:
 
 ---
 -->
+
+---
+
 
 #### 9.1 Team Check-In
 
@@ -627,6 +558,7 @@ Graduate Student Reading:
 * Blake, C., Rhanor, A., & Pajic, C. (2020). [The demographics of citizen science participation and its implications for data quality and environmental justice](https://theoryandpractice.citizenscienceassociation.org/articles/10.5334/cstp.320?_rsc=8l4u7). Citizen Science: Theory and Practice, 5(1).
 
 Questions for discussion on Canvas and in class:
+
 * For your team's topic, how might it be possible to ask the public to report incidents?
 * Would the public be able to notice and distinguish possible incidents?
 * What kind of public awareness will be necessary?
@@ -659,6 +591,7 @@ Questions to consider:
 * How might courts be important to the project you're working on?
 
 ---
+
 #### 12.1 Final Project Check-in
 In the class, teams will be supported to meet in person, workshop your ideas with peers, and get feedback on your project progress.
 

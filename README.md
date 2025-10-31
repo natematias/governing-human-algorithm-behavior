@@ -36,7 +36,7 @@ To join this class, you have two options:</p>
 <li>Introduce yourself, your program, and where you are at (1-2 sentences)</li>
 <li>Explain why you want to take the course. For example, is it related to your research? An interest in policy? A project you want to develop in the course? (2-3 sentences)</li>
 <li>Describe the perspectives and skills you bring to the class (a few bullet points) (<em>for example, an understanding of certain theory, or capabilities at qualitative research, data analysis, policy writing, advocacy, media-making, or software development</em>)</li></ul></li>
-<li>2. Enroll in COMM 4940 as a piece of <strong>elective coursework</strong><li>
+<li>2. Enroll in COMM 4940 as a piece of <strong>elective coursework</strong></li>
 </ol>
 </div>
 

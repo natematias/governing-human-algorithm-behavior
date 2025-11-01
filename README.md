@@ -210,7 +210,7 @@ In this class, we will consider the lifecycle of a conversation about harms over
 * **Air pollution**, environmental toxicology, and the clean air act:
 	* Jacobs, E. T., Burgess, J. L., & Abbott, M. B. (2018). [The Donora smog revisited: 70 years after the event that inspired the clean air act](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.304219). American journal of public health, 108(S2), S85-S88.
 	* Costa, D., & Gordon, T. (2000). [Mary O. Amdur](https://academic.oup.com/toxsci/article-abstract/56/1/5/1646040). Toxicological Sciences, 56(1), 5-7.
-* The **automotive safety** and crash injury studies:
+* **Automotive safety** and crash injury studies:
 	* Gangloff, A. (2013). [Safety in accidents: hugh dehaven and the development of crash injury studies](https://muse.jhu.edu/pub/1/article/500796/summary). Technology and Culture, 54(1), 40-61.
 	* Mars, R. (2017) "[The Nut Behind the Wheel](https://99percentinvisible.org/episode/nut-behind-wheel/)." 99% Invisible
 * **Nuclear testing**, radiation exposure, and Lukemia
@@ -239,7 +239,7 @@ For whichever of these stories you choose, the group of students studying the sa
 
 
 #### 3.2 Missatribution and Mis-estimation of Harm
-While unaddressed harm can lead to compounding problems over time, misattribution and mis-estimation of harms can also create serious problems. It can lead to injustice toward accused product creators and distract attention from the real problem. The consequences of a false positive for institutions and people's lives can cause irreversible harm and can for generations. In this class, we will discuss what happens when scientists and policymakers are wrong about the causes of an evident harm.
+While unaddressed harm can lead to compounding problems over time, misattribution and mis-estimation of harms can also create serious problems. It can lead to injustice toward accused product creators and distract attention from the real problem. The consequences of a false positive for institutions and people's lives can cause irreversible harm and can last for generations. In this class, we will discuss what happens when scientists and policymakers are wrong about the causes of an evident harm.
 
 * Pierson, E., Li, S. (2015) [A better way to gauge how common sexual assault is on college campuses](https://www.washingtonpost.com/news/grade-point/wp/2015/10/15/a-better-way-to-gauge-how-common-sexual-assault-is-on-college-campuses/). The Washington Post
 * Gantman, A. P., & Paluck, E. L. (2025). [What is the psychological appeal of the serial rapist model? Worldviews predicting endorsement](https://www.cambridge.org/core/journals/behavioural-public-policy/article/what-is-the-psychological-appeal-of-the-serial-rapist-model-worldviews-predicting-endorsement/732E0DC20E4742A09FEB013E5D466C96). Behavioural Public Policy, 9(2), 461-476.

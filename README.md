@@ -562,7 +562,7 @@ Questions for discussion on Canvas and in class:
 * For your team's topic, how might it be possible to ask the public to report incidents?
 * Would the public be able to notice and distinguish possible incidents?
 * What kind of public awareness will be necessary?
-* How might inequalities in incident report influence who gets served by policy?
+* How might inequalities in incident reporting influence who gets served by policy?
 
 <!--#### Thurs 04-16 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
 

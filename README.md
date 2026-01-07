@@ -1,16 +1,13 @@
-# COMM 4940: Investigating Alleged AI Failures
+# COMM 4940: Investigating Alleged Failures of AI
 [J. Nathan Matias](https://natematias.com) &lt;nathan.matias AT cornell.edu&gt; , Department of Communication, Field Member, Information Science
 
 <a href="https://en.wikipedia.org/wiki/Humanetics"><img alt="he Q10 is an anthropomorphic test device (ATD) that represents a ten year old child for crash test simulation." style="width:30%; float:right; margin-left:10px; margin-bottom:10px; border:3px solid #ccc;" src="Child_ATD_-_Q10.jpg"/></a>
 
-* Spring 2026 (see course listing)
-* Time: DAY & DAY TIME - TIME  
-* Location: TBD
+* Spring 2026 
+* Time: 8:4am - 9:55am  
+* Location: (See registrar)
 
 
-<!--![Paradise Wildfires, YouTube algorithms, Wilmer Catalan-Ramirez](https://imgur.com/R5pWrV1.png) -->
-<!--<small style="opacity:0.3"><em>Images: <a href="https://www.prnewswire.com/news-releases/googles-waze-app-blocks-wildfire-escape-route-for-residents-living-in-the-los-gatos-hills-and-historic-neighborhoods-300913095.html">Google Waze blocks wildfire escape route</a>, <a href="https://www.media.mit.edu/publications/the-international-affiliation-network-of-youtube-trends/">The international affiliation network of YouTube Trends</a>, and <a href="https://www.chicagotribune.com/news/ct-met-immigrant-released-jail-0126-story.html">Immigrant released from detention after being wrongly listed as gang member</a>.</em></small>
--->
 AI systems that monitor and interact with people are everywhere—directing the behavior of law enforcement, giving us relationship advice, managing the world's financial systems, shaping our cultures, and flipping a coin on the success or failure of movements for change. How can we know if they are any good, and if accusations of their harms are true?
 
 In 2023, this challenge became even clearer when Attorney General Letitia James and 31 other state Attorneys General filed a federal lawsuit against Meta for allegedly "[harming young people's mental health and contributing to the youth mental health crisis](https://ag.ny.gov/press-release/2023/attorney-general-james-and-multistate-coalition-sue-meta-harming-youth)." One of the lawsuit's claims is that Meta, through Facebook and Instagram, encouraged compulsive use of the platform through its algorthms and design features—contributing to a widespread mental health crisis. In the next two years as generative AI was deployed to millions of people, people started to raise the alarm that chatbots were also [contributing to deaths by suicide](https://www.nytimes.com/2025/10/24/magazine/character-ai-chatbot-lawsuit-teen-suicide-free-speech.html). In response, company CEOs sometimes argued that deeper social problems, not their products were to blame.
@@ -27,16 +24,20 @@ This course requires students to have taken introductory statistics and be able 
 ### How to Register for this class
 
 #### Upper Level Undergraduates
-To join this class, register for COMM 4940 like any class.</p>
+To join this class, register for COMM 4940 like any class. The course is set up to auto-enroll Communication majors. If you are unable to enroll, please write to Professor Matias with "Enrolling in COMM [4940]" in the subject. The email should:</p>
+<ul>
+<li>Introduce yourself, your program, what year you are(1-2 sentences)</li>
+<li>Explain why you want to take the course. For example, is it related to your research? An interest in policy? A project you want to develop in the course? (2-3 sentences)</li>
+</ul>
 
 #### PhD Students
 To join this class, you have two options:</p>
 
-<ol><li>1. Enroll in an <strong>independent study</strong> (COMM 7970) with Professor Matias and then attend the class (preferred). Before enrolling, please write a brief note to Professor Matias with "Enrolling in COMM [4940]" in the subject. The email should:<ul>
+<ol><li>Enroll in an <strong>independent study</strong> (COMM 7970) with Professor Matias and then attend the class (preferred). Before enrolling, please write a brief note to Professor Matias with "Enrolling in COMM [4940]" in the subject. The email should:<ul>
 <li>Introduce yourself, your program, and where you are at (1-2 sentences)</li>
 <li>Explain why you want to take the course. For example, is it related to your research? An interest in policy? A project you want to develop in the course? (2-3 sentences)</li>
 <li>Describe the perspectives and skills you bring to the class (a few bullet points) (<em>for example, an understanding of certain theory, or capabilities at qualitative research, data analysis, policy writing, advocacy, media-making, or software development</em>)</li></ul></li>
-<li>2. Enroll in COMM 4940 as a piece of <strong>elective coursework</strong></li>
+<li>Enroll in COMM 4940 as a piece of <strong>elective coursework</strong></li>
 </ol>
 </div>
 
@@ -65,7 +66,7 @@ PhD students are encouraged to connect the course to an existing research questi
 
 *Project Proposal*: Your project proposal will include a description of the project, a bibliography, a list of the roles that team members will play, and a timeline.
 
-*Final Project*: An intervention into academic and/or policy conversations on human-algorithm research. In 2024, the class will support projects in two areas:
+*Final Project*: An intervention into academic and/or policy conversations on human-algorithm research. In 2026, the class will support projects in two areas:
 
 * An in-depth case study and/or forensic analysis of some alleged AI system failure ([see the AI Incident Database for ideas](https://incidentdatabase.ai/about/))
 * A proposal for a "black box" or data schema of what to record to inform future analysis of incidents
@@ -85,10 +86,10 @@ Nathan is the founder of the <a href="citizensandtech.org/">Citizens and Technol
 ### Office Hours
 I am available for office hours in person and online during the following times:
 
-* DAY (TIME-TIME)
-* DAY (TIME-TIME)
+* Tuesday 10am - 11:30am
+* Thursday 10am - 11:30am
 
-Please feel free to show up or [schedule in advance](https://calendarbridge.com/book/natematias/office-hours). The most productive office hours involve coming to my office with a sense of your question and all of the needed information ready to go. I also enjoy just having interesting conversations with students about things you're interested in as well!
+Please feel free to show up or [schedule in advance](https://calendarbridge.com/book/natematias/office-hours). The most productive office hours involve coming to my office with a sense of your question and all of the needed information ready to go. I also enjoy just having interesting conversations with students about things you're interested in as well! If you plan to meet right after class, expect to walk back to my office together. 
 
 ## Schedule
 
@@ -116,10 +117,7 @@ Graduate student reading:
 -->
 <!--* Georgia Wells, Jeff Horwitz, and Deepa Seetharaman (2021) [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739). Wall Street Journal.-->
 
-<!--Graduate student reading: 
-
-* Angel, M. P., & boyd, d. (2024, March). [Techno-legal solutionism: Regulating children's online safety in the United States](https://dl.acm.org/doi/pdf/10.1145/3614407.3643705). In Proceedings of the 2024 Symposium on Computer Science and Law (pp. 86-97).-->
-
+<!--Graduate student reading: Angel, M. P., & boyd, d. (2024, March). [Techno-legal solutionism: Regulating children's online safety in the United States](https://dl.acm.org/doi/pdf/10.1145/3614407.3643705). In Proceedings of the 2024 Symposium on Computer Science and Law (pp. 86-97).-->
 
 <!--Shardanand, U., & Maes, P. (1995, May). [Social information filtering: Algorithms for automating “word of mouth”](https://dl.acm.org/doi/10.1145/223904.223931). In Proceedings of the SIGCHI conference on Human factors in computing systems (pp. 210-217).
 -->
@@ -135,6 +133,8 @@ Questions to consider:
 ---
 
 #### 2.1 Feedback Loops: Simple Models to Explain Complex Behaviors
+In this class, we will discuss why it can be so hard to understand the role, if any, that an AI system has had in a clear harm.
+
 * Clegg, N. (2021, March 31). [You and the Algorithm: It Takes Two to Tango](https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2). Medium.
 * Kimmerer, R. (2013) "Windigo Footprints" from Braiding Sweetgrass. Milkweed Editions
 
@@ -165,42 +165,8 @@ Graduate student reading:
 Questions to think about — choose a specific risk, harm, or incident involving AI, and consider:
 
 - Based on the article by Pinch, list out at least six of the "causes" of the Challenger disaster, and label them (were they technical, political social, etc). Could you name the most important one?
-- List out things that might possibly go wrong
-- What might you want to record in order to go back and figure out what went wrong?
-
-<!--#### Thurs 02-01 Case Study: Teenage Mental Health
-To build our intuitions about governing algorithms and what to do about it, we're going to consider a series of classes about discrimination online. This class introduces the first case study, related to allegations that Facebook and Instagram contributed to a teen mental health crisis.
-
-Readings: TBD-->
-
-<!--#### Thurs 02-24 Topic area: Algorithms, Self-Harm, and Eating Disorders
-In this topic area session, we will discuss the role of algorithms in eating disorders and self-harm.
-
-* Seetharaman, G. W., Jeff Horwitz and Deepa. (2021, September 14). [Facebook Knows Instagram Is Toxic for Teen Girls, Company Documents Show](https://www.wsj.com/articles/facebook-knows-instagram-is-toxic-for-teen-girls-company-documents-show-11631620739). Wall Street Journal.
-* Carvajal, D. (2008, April 15). [French legislators approve law against Web sites encouraging anorexia and bulimia](https://www.nytimes.com/2008/04/15/world/europe/15iht-paris.4.12015888.html). The New York Times. 
-* (gradstudents) Chancellor, S., Pater, J. A., Clear, T., Gilbert, E., & De Choudhury, M. (2016, February). [#thyghgapp: Instagram content moderation and lexical variation in pro-eating disorder communities](https://dl.acm.org/doi/abs/10.1145/2818048.2819963). In Proceedings of the 19th ACM conference on computer-supported cooperative work & social computing (pp. 1201-1213).-->
-
-
-<!-----
-
-
-#### Tues 02-06 Case Study: Algorithms and Discrimination
-To build our intuitions about governing algorithms and what to do about it, we're going to consider a series of classes about discrimination online. This class introduces the problem of discrimination in online labor markets.
-
-* Mullainathan, S. (2019). [Biased algorithms are easier to fix than biased people](https://www.nytimes.com/2019/12/06/business/algorithm-bias-fix.html). The New York Times.
-* McGhee, H. (2021). "Racism Drained the Pool" from The sum of us: What racism costs everyone and how we can prosper together. One World.
- * Read pages 17 - 28 (Cornell Library has e-book copies)
-* Carville, O. (2019) Meet Murray Cox, [The Man Trying to Take Down Airbnb](https://www.bnnbloomberg.ca/meet-murray-cox-the-man-trying-to-take-down-airbnb-1.1263088). Bloomberg
-<!--* (gradstudents) Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb. com.](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2377353) Harvard Business School NOM Unit Working Paper, (14-054).-->
-
-<!--Questions to think about for class and discussion:
-
-* How does Mullainathan think about discrimination and bias?
-* In Mullainathan's view, what does it mean to "fix" bias?
-* How does McGhee think about discrimination and bias?
-* How might McGhee think about "fixing" discrimination and bias?
-* What do we gain and lose by redefining our understanding of social issues only to the things that algorithms can meaningfully address?
- -->
+- List out things that might possibly go wrong for your AI incident
+- What might you want to record about the AI incident in order to go back and figure out what went wrong?
 
 ---
 
@@ -211,10 +177,10 @@ In this class, we will consider the lifecycle of a conversation about harms over
 	* Jacobs, E. T., Burgess, J. L., & Abbott, M. B. (2018). [The Donora smog revisited: 70 years after the event that inspired the clean air act](https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.304219). American journal of public health, 108(S2), S85-S88.
 	* Costa, D., & Gordon, T. (2000). [Mary O. Amdur](https://academic.oup.com/toxsci/article-abstract/56/1/5/1646040). Toxicological Sciences, 56(1), 5-7.
 * **Automotive safety** and crash injury studies:
-	* Gangloff, A. (2013). [Safety in accidents: hugh dehaven and the development of crash injury studies](https://muse.jhu.edu/pub/1/article/500796/summary). Technology and Culture, 54(1), 40-61.
+	* Gangloff, A. (2013). [Safety in accidents: Hugh DeHaven and the development of crash injury studies](https://muse.jhu.edu/pub/1/article/500796/summary). Technology and Culture, 54(1), 40-61.
 	* Mars, R. (2017) "[The Nut Behind the Wheel](https://99percentinvisible.org/episode/nut-behind-wheel/)." 99% Invisible
 * **Nuclear testing**, radiation exposure, and Lukemia
-	* Documentary:[Downwinders and the Radioactive West](https://www.youtube.com/watch?v=77gJtV13ouo). PBS Utah
+	* Documentary: [Downwinders and the Radioactive West](https://www.youtube.com/watch?v=77gJtV13ouo). PBS Utah
 	* Machado, S. G., Land, C. E., & McKay, F. W. (1987). Cancer mortality and radioactive fallout in southwestern Utah. American journal of epidemiology, 125(1), 44-61.
 	* Beck, H. L., & Krey, P. W. (1983). Radiation exposures in Utah from Nevada nuclear tests. Science, 220(4592), 18-24.
 * **Smoking** and lung cancer:
@@ -271,40 +237,14 @@ In this class, teams will present competing analyses to try to convince the clas
 
 We will then discuss what we learned from the experience.
 
-<!--* Eckhouse, L., Lum, K., Conti-Cook, C., & Ciccolini, J. (2019). [Layers of bias: A unified approach for understanding problems with risk assessment](https://journals.sagepub.com/doi/abs/10.1177/0093854818811379). Criminal Justice and Behavior, 46(2), 185-209.
--->
-
-<!--
-* Matias, J.N. (2023) [Humans and algorithms work together — so study them together](https://www.nature.com/articles/d41586-023-01521-z). Nature.
-* Orben, A., & Matias, J. N. (2025). [Fixing the science of digital technology harms](https://www.science.org/doi/full/10.1126/science.adt6807). Science, 388(6743), 152-155.-->
-
-<!--* Mengersen, K., Moynihan, S. A., & Tweedie, R. L. (2007). [Causality and association: The statistical and legal approaches](https://www.jstor.org/stable/27645822). Statistical Science, 227-254.
-
----
-
-#### Thurs 02-15 Data, Evidence, and Strategic Litigation
-In this class, we will hear from someone working on litigation alleging that Meta should be held responsible for a mental health impact on teenagers.
-
-* Reading: TBD
-
-#### Thurs 02-10 Case Study: Bias, Fairness, and Human-Algorithm Feedback
-Common discussions of algorithm governance focus on decision-making, which is a simpler problem than human-algorithm feedback. In this class, we will discuss this difference between the two.
-
-* Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "The Problem Space" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
-* Matias, J.N. (2021) [Nudging Algorithms by Influencing Humans](https://osf.io/m98b6/) (under review).
-* (gradstudents) Ekstrand, M. D., Das, A., Burke, R., & Diaz, F. (2021). "Dynamic Fairness" from [Fairness and Discrimination in Information Access Systems](https://arxiv.org/abs/2105.05779). arXiv preprint arXiv:2105.05779.
--->
-<!--* (gradstudents) Licklider, J. C. (1960). [Man-computer symbiosis. IRE transactions on human factors in electronics](https://groups.csail.mit.edu/medg/people/psz/Licklider.html), (1), 4-11.
-  *  For historical context: Mindell, David A. (2002) [Cybernetics](http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF). From Research Seminar in Engineering Systems http://web.mit.edu/esd.83/www/notebook/Cybernetics.PDF -->
+Readings TBD
 
 ---
 
 #### 5.1 What is an AI Incident?
 In order for algorithms to be governed, we need to be able to describe what happens when one goes wrong. So what is an incident anyway, and how would we establish that harm had occurred?
 
-<!--* Allen, J. (2024) [Why Is Instagram Search More Harmful Than Google Search?](https://integrityinstitute.org/blog/why-is-instagram-search-more-harmful-than-google-search). Integrity Institute
--->
-* Matias et al (under review). Accelerating the Science of Digital Harms through Data Donations to a Digital Harms Research Center. 
+* Matias et al (under review). [Accelerating the Science of Digital Harms through Data Donations](https://osf.io/3ebj2/overview). Open Science Framework. [10.17605/OSF.IO/3EBJ2 ](https://doi.org/10.17605/OSF.IO/3EBJ2)
 * McGregor, S. (2021, May). [Preventing repeated real world AI failures by cataloging incidents: The AI incident database](https://ojs.aaai.org/index.php/AAAI/article/view/17817). In Proceedings of the AAAI Conference on Artificial Intelligence (Vol. 35, No. 17, pp. 15458-15463).
 
 Graduate Student Reading:
@@ -355,7 +295,7 @@ So far this semester, we have looked at simple incident reports such as the syst
 
 In this class, we're going to learn more about those systems and work through the case of the Richmond CA Refinery fire of 2012. We're also going to consider how incident reporting fits into the wider politics of error reporting and the challenges of academic access to sensitive information.
 
-* [Animation of Fire at Chefron's Richmond Refinery, August 6, 2012](https://www.youtube.com/watch?v=QiILbGbk8Qk). US Chemical Safety and Hazard Investigation Board.
+* [Animation of Fire at Chevron's Richmond Refinery, August 6, 2012](https://www.youtube.com/watch?v=QiILbGbk8Qk). US Chemical Safety and Hazard Investigation Board.
 * Sadisivam, N. (2021) [A California law gave the people power to cut pollution. Why isn’t it working?](https://grist.org/equity/ab617-richmond-california-chevron-refinery-air-monitoring/). Grist.
 * Yousefi, A., Rodriguez Hernandez, M., & Lopez Peña, V. (2019). [Systemic accident analysis models: A comparison study between AcciMap, FRAM, and STAMP](https://aiche.onlinelibrary.wiley.com/doi/10.1002/prs.12002). Process Safety Progress, 38(2), e12002. (in Canvas)
 
@@ -374,6 +314,8 @@ In your final-project teams, students will present a 3 minute presentation to su
 
 #### 8.1 Methods: Causality
 
+In this class, we will discuss the question of causality and methods for establishing the different kinds of causality that might be important to answer practical questions about technology benefits, harms, and interventions to transform them. 
+
 * Odgers, C. L. (2024). [The great rewiring: is social media really behind an epidemic of teenage mental illness?](https://ideas.repec.org/a/nat/nature/v628y2024i8006d10.1038_d41586-024-00902-2.html) Nature, 628(8006), 29-30.
 * Matias, N., & Penney, J. (2025). [Science and Causality in Technology Litigation](https://tsjournal.org/index.php/jots/article/view/233). Journal of Online Trust and Safety, 2(5).
 
@@ -381,7 +323,7 @@ Graduate student reading:
 
 * Office of the Surgeon General. (2023). [Social media and youth mental health: The US Surgeon general’s advisory](https://pubmed.ncbi.nlm.nih.gov/37721985/). U.S. Department of Health and Human Services.
 
-In this class, we will discuss the question of causality and methods for establishing the different kinds of causality that might be important to answer practical questions about technology benefits, harms, and interventions to transform them. For your project topic:
+For your project topic:
 
 * Identify the kinds of causality that matter
 * Identify hurdles to obtaining those causal inferences
@@ -408,39 +350,6 @@ Questions for discussion in Canvas and in class:
    * How does evidence already influence policy, if at all?
    * What forces are preventing evidence from being available?-->
 
-<!--Feedback Pattern: Chilling Effects on Rights
-People are often influenced by algorithms by design, but algorithms can also have side effects. Algorithms can also cause a chilling effect when people are influenced against taking legally-protected actions such as avoiding certain streets or self-censoring their political views.
-
-* Schauer, F. (1978). [Fear, Risk and the First Amendment: Unraveling the Chilling Effect](https://scholarship.law.wm.edu/facpubs/879/). Boston University Law Review, 58(5), 685–732.
-* Brayne, S. (2014). Surveillance and system avoidance: Criminal justice contact and institutional attachment. American Sociological Review, 79(3), 367–391.
-* (graduate student) Matias, J. N., Mou, M. E., Penney, J., & Klein, M. (2020). [Do Automated Legal Threats Reduce Freedom of Expression Online? Preliminary Results from a Natural Experiment](https://osf.io/nc7e2/). https://osf.io/nc7e2/
--->
-
-<!--#### Thurs 03-24 Journalism and Policy: Hype Cycles or Accountability?
-* (TBD: pick a recent example of tech accountability journalism)
-* Orben, A. (2020). [The Sisyphean cycle of technology panics](https://journals.sagepub.com/doi/full/10.1177/1745691620919372). Perspectives on Psychological Science, 15(5), 1143-1157.
-* (graduate students) Bossetta, M. (2020) [Scandalous Design: How Social Media Platforms’ Responses to Scandal Impacts Campaigns and Elections](https://journals.sagepub.com/doi/10.1177/2056305120924777). Social Media + Society, 6(2).-->
-<!--
----
-#### 8.2 Policy Topic: What Is Policy Anyway?
-We've been talking about policy and governance in the abstract, but what is it really, and how is that changing in a world where algorithms are also being given governance power?
-
-* Cairney, P. (2019). "[What is Policy and policymaking](https://paulcairney.files.wordpress.com/2019/03/chapter-2-upp-2nd-ed-8.3.19.pdf)" from Understanding public policy: theories and issues. Red Globe Press.
-* Gillespie, T. (2017). [Governance of and by platforms](https://culturedigitally.org/2016/06/governance-of-and-by-platforms/). SAGE handbook of social media, 254-278.
-
-Graduate Student reading: 
-
-* Lessig, L. (2009). "Code is Law" from [Code: And other laws of cyberspace](https://lessig.org/product/code). Basic Books.
-
-Questions for discussion:
-
-* What is a tech policy, really?
-* What is a platform policy, really?
-* What kind of policy outcomes can be achieved (or not) with code?
-
----
--->
-
 ---
 
 
@@ -458,41 +367,19 @@ In this class, we will:
 
 In this class, we will hear from a group of scientists developing a center that can receive posthumous digital remains. 
 
-* Orben, A., & Matias, J. N. (2025). [Fixing the science of digital technology harms](https://www.science.org/doi/full/10.1126/science.adt6807). Science, 388(6743), 152-155.
-
-
----
-
-#### SPRING BREAK (Syllabus Adjustment Check-In)
+* Matias et al (under review). [Accelerating the Science of Digital Harms through Data Donations](https://osf.io/3ebj2/overview). Open Science Framework. [10.17605/OSF.IO/3EBJ2 ](https://doi.org/10.17605/OSF.IO/3EBJ2)
 
 ---
 
-<!--
-#### Tues 04-05 Research Methods: Lab Tests and Simulations
-Is it possible to anticipate problems with human-algorithm behavior before they happen? How can we design research methods to do this anticipatory work?
+#### SPRING BREAK 
+*Before spring break, we will do a syllabus adjustment check-in, to make sure that there's enough room and support for team projects.*
 
-* Lucherini, E., Sun, M., Winecoff, A., & Narayanan, A. (2021). [T-RECS: A Simulation Tool to Study the Societal Impact of Recommender Systems](http://arxiv.org/abs/2107.08959). ArXiv:2107.08959 [Cs]. http://arxiv.org/abs/2107.08959
-* (graduate students) Ie, E., Hsu, C., Mladenov, M., Jain, V., Narvekar, S., Wang, J., Wu, R., & Boutilier, C. (2019). [RecSim: A Configurable Simulation Platform for Recommender Systems]( http://arxiv.org/abs/1909.04847). ArXiv:1909.04847 [Cs, Stat]. 
 
-#### Thurs 04-07 Research Methods: Algorithm Impact Assessments
-How can we integrate evidence-creation into the policy process? One option is to borrow the idea of impact assessments from the area of environmental risk management.
-
-* Moss, E., Watkins, E. A., Singh, R., Elish, M. C., & Metcalf, J. (2021). [Assembling Accountability: Algorithmic Impact Assessment for the Public Interest](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3877437). Available at SSRN 3877437.
-* (TBD) example of an algorithmic impact assessment, if such a thing exists yet!
--->
 
 #### 10.1 Policy Topic: How Does Evidence Actually Inform Policy?
 In previous classes, we discussed theories for how evidence could inform policy. How does it really happen?
 
-* **Each Team** share on Canvas an example of a piece of research, journalism, or activism that genuinely impacted policy (ideally related to your project), and comment on how it did so. A especially high quality submission will be able to cite an example where someone made a claim about the relationship between the corporate/government policy change and the project. This will require some research beyond the single article or project page. Comment on other team's examples, come prepared to discuss your team's example, and be prepared to ask questions and discuss other team's examples.
-
-<!--
-* Examples and readings to consider if you're looking for examples:
-
-  * Edelman, B. G., & Luca, M. (2014). [Digital discrimination: The case of Airbnb.com](https://www.hbs.edu/ris/Publication%20Files/Airbnb_92dd6086-6e46-4eaf-9cea-60fe5ba3c596.pdf). Harvard Business School NOM Unit Working Paper, (14-054).
-  * Buolamwini, J., & Gebru, T. (2018, January). [Gender shades: Intersectional accuracy disparities in commercial gender classification](https://proceedings.mlr.press/v81/buolamwini18a/buolamwini18a.pdf). In Conference on fairness, accountability and transparency (pp. 77-91). PMLR.
-  * Penney, J. W. (2016). [Chilling effects: Online surveillance and Wikipedia use](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2769645). Berkeley Tech. LJ, 31, 117.
-  * Matias, J. N. (2019). Preventing harassment and increasing group participation through social norms in 2,190 online science discussions. Proceedings of the National Academy of Sciences, 116(20), 9785-9789.-->
+* **Each Team** share on Canvas an example of a piece of research, journalism, or activism that genuinely impacted policy (ideally related to your project), and comment on how it did so. A high-quality submission will be able to cite an example where someone made a claim about the relationship between the corporate/government policy change and the project. This will require some research beyond the single article or project page. Comment on other team's examples, come prepared to discuss your team's example, and be prepared to ask questions and discuss other team's examples.
 
 Graduate Student Reading (choose one):  
 
@@ -519,31 +406,6 @@ Discussion questions:
 * What kinds of knowledge about algorithms does a democratic public need?
 * How could your project area be transformed by algorithmic literacy — and how not?
 
-<!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU)
-
-
-<!--
-#### Tues 04-19 Policy Topic: Can Tech Ethics Prevent Harms?
-Advocates of tech ethics argue that if we teach ethics to engineers, society will be more protected from the harms associated with algorithms. How much can that help?
-
-* Silbey, S. S. (2009). [Taming Prometheus: Talk about safety and culture](https://anthropology.mit.edu/sites/default/files/documents/silbey_safety_culture.pdf). Annual Review of Sociology, 35, 341–369.
-* Zhang, B., Anderljung, M., Kahn, L., Dreksler, N., Horowitz, M. C., & Dafoe, A. (2021). [Ethics and Governance of Artificial Intelligence: Evidence from a Survey of Machine Learning Researchers](https://arxiv.org/pdf/2105.02117.pdf). arXiv preprint arXiv:2105.02117.
-
-Questions for discussion on Canvas and in class:
-* For the algorithm harms you and your team are thinking about:
-   * What does it mean for things to be described as an "accident" and how does that imply certain kinds of solutions?
-   * How do people place responsibility on individual engineers?
-   * When do you think institutions rather than individuals should be responsible?
-* What questions do you have about terms? Silbey is trying to summarize ~150 years of debates and regulation, so there's a lot going on!
-   * What is an example of a "moral entrepreneur?"
-   * What is "safety culture" and how do people identify culture as responsible for disasters and accidents?
-
--->
-<!--#### Tues 04-19 Policy Topic: Conversation with Advocacy Groups
-In this session, we will have a conversation with representatives of thinktanks and advocacy groups working on algorithm-related policy topics in Washington DC.
-
-<y!--* (possible invited guests: Mozilla, AccessNow, Center for Democracy and Technology, Electronic Frontier Foundation, Knight First Amendment Center, ACLU) -->
-
 ---
 
 #### 11.1 Policy Topic: Public Engagement with Incident Reporting
@@ -563,14 +425,6 @@ Questions for discussion on Canvas and in class:
 * Would the public be able to notice and distinguish possible incidents?
 * What kind of public awareness will be necessary?
 * How might inequalities in incident reporting influence who gets served by policy?
-
-<!--#### Thurs 04-16 Policy Topic: Protecting Algorithms from Bad People with Content Moderation
-
-If algorithms are just math formulas that offer a reflection of a broken world, one way to govern algorithms is to protect them from bad people. What does that look like?
-
-* Clegg, N. (2021, March 31). [You and the Algorithm: It Takes Two to Tango](https://nickclegg.medium.com/you-and-the-algorithm-it-takes-two-to-tango-7722b19aa1c2). Medium. 
-* Roberts, S. T. (2019). "Understanding Commercial Content Moderation," from Behind the screen. Yale University Press.
--->
 
 ---
 
@@ -603,27 +457,6 @@ In this class, we will review a consequential case study that made it into the c
 
 Readings: TBD
 
-
-<!--Guests:
-
-* Susan Benesch
-* Erin Kissane
--->
-<!--Readings:
-
-* Kissane, E. (2023) [Meta in Myanmar, Part 1: The Setup](https://erinkissane.com/meta-in-myanmar-part-i-the-setup). Erinkissane.com
-* Kissane, E. (2023) [Meta in Myanmar, Part 2: The Crisis](https://erinkissane.com/meta-in-myanmar-part-ii-the-crisis). Erinkissane.com
-* Kissane, E. (2023) [Meta in Myanmar, Part 3: The Inside View](https://erinkissane.com/meta-in-myanmar-part-iii-the-inside-view). Erinkissane.com-->
-
-
-
-<!--#### Thurs 04-28 Research Methods: Citizen Science and Field Experiments
-How can we learn the safety of algorithms or the effectiveness of policies in real-world situations—while still limiting the risks? Field experiments, when conducted with public consent and careful oversight, enable researchers to audit systems and test policies in controlled circumstances with as few people as possible.
-
-* Matias, J. N. (2015, June 8). [How Do You Fix a Broken System That Isn’t Yours to Repair?](https://www.theatlantic.com/technology/archive/2015/06/the-tragedy-of-the-digital-commons/395129/) The Atlantic.
-* Campbell, D. T. (1969). [Reforms as experiments](https://www.sfu.ca/~palys/Campbell-1969-ReformsAsExperiments.pdf). American psychologist, 24(4), 409.
-* (gradstudents) TBD-->
-
 ---
 
 #### 13.1 Final Presentations Part I
@@ -650,9 +483,11 @@ In this session, we will reflect on the topics in the class. Please submit a dis
 ---
 
 
-#### Final Project Deadline: TBD 
+#### Final Project Deadline: May 8th 
+Final projects will be due by 8pm on Friday May 8th.
 
 ---
+
 
 
 ## Course Practices and Policies
@@ -750,11 +585,7 @@ This policy is not meant to restrict students’ ability to use classroom record
 
 
 ### Grading
-I use the following grading scale, derived from Matt Salganik's grading practices.
-
-All grades are final. There will not be any make-up or extra credit assignments offered.
-
-Per university procedures, I will only give a grade of A+ in exceptional circumstances.
+I use the following grading scale. All grades are final. There will not be any make-up or extra credit assignments offered. Per university procedures, I will only give a grade of A+ in exceptional circumstances.
 
 Letter Grade	Numeric Grade
 
@@ -774,9 +605,6 @@ Late Submissions: All assignments have an automatic one-day grace period. On tim
 
 If you turned in an assignment on time and haven't received a grade within the expected period, please contact the instructor in case of a technical glitch.
 
-<!--### COVID Policies
-Students are expected to follow [Cornell COVID policies for students](https://covid.cornell.edu/students/), including vaccination and masking. 
--->
 ### Accommodations
 I am committed to working with students with recognized SDSes to ensure you have the best possible class experience. Please [follow these steps to get started](https://sds.cornell.edu/get-started).
 

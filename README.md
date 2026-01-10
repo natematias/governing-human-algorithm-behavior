@@ -4,19 +4,20 @@
 <a href="https://en.wikipedia.org/wiki/Humanetics"><img alt="he Q10 is an anthropomorphic test device (ATD) that represents a ten year old child for crash test simulation." style="width:30%; float:right; margin-left:10px; margin-bottom:10px; border:3px solid #ccc;" src="Child_ATD_-_Q10.jpg"/></a>
 
 * Spring 2026 
-* Time: 8:4am - 9:55am  
-* Location: (See registrar)
+* Time: 8:4am - 9:55am Tuesday and Thursday 
+* Location: (See the course listing)
 
 
 AI systems that monitor and interact with people are everywhere—directing the behavior of law enforcement, giving us relationship advice, managing the world's financial systems, shaping our cultures, and flipping a coin on the success or failure of movements for change. How can we know if they are any good, and if accusations of their harms are true?
 
-In 2023, this challenge became even clearer when Attorney General Letitia James and 31 other state Attorneys General filed a federal lawsuit against Meta for allegedly "[harming young people's mental health and contributing to the youth mental health crisis](https://ag.ny.gov/press-release/2023/attorney-general-james-and-multistate-coalition-sue-meta-harming-youth)." One of the lawsuit's claims is that Meta, through Facebook and Instagram, encouraged compulsive use of the platform through its algorthms and design features—contributing to a widespread mental health crisis. In the next two years as generative AI was deployed to millions of people, people started to raise the alarm that chatbots were also [contributing to deaths by suicide](https://www.nytimes.com/2025/10/24/magazine/character-ai-chatbot-lawsuit-teen-suicide-free-speech.html). In response, company CEOs sometimes argued that deeper social problems, not their products were to blame.
-
-
 In this 3 credit course for (15) upper-level undergraduates and up to (5) PhD students, you will learn about the design of interactive algorithms and the feedback patterns they create with human behavior. You will learn about the challenge they represent for social policy, ways to research their behavior, debates over how to identify AI failures, and emerging policy ideas for investigating and governing these complex patterns. Along the way, you will hear from pioneers in policy, advocacy, and scholarship.
 
-This course is an excellent stepping stone for anyone interested in a career in policy, advocacy, academia, or industry research.
+### Motivation
+In 2023, this challenge became even clearer when Attorney General Letitia James and 31 other state Attorneys General filed a federal lawsuit against Meta for allegedly "[harming young people's mental health and contributing to the youth mental health crisis](https://ag.ny.gov/press-release/2023/attorney-general-james-and-multistate-coalition-sue-meta-harming-youth)." One of the lawsuit's claims is that Meta, through Facebook and Instagram, encouraged compulsive use of the platform through its algorthms and design features—contributing to a widespread mental health crisis. In the next two years as generative AI was deployed to millions of people, people started to raise the alarm that chatbots were also [contributing to deaths by suicide](https://www.nytimes.com/2025/10/24/magazine/character-ai-chatbot-lawsuit-teen-suicide-free-speech.html). In response, company CEOs sometimes argued that deeper social problems, not their products were to blame.
 
+This course is a stepping stone for anyone interested in engaging with such claims through a career in policy, advocacy, academia, or industry research. 
+
+### Prerequisites
 This course requires students to have taken introductory statistics and be able to conduct multiple regression. This could include ILRST2110, AEM 2100, CRP 1200, ENGRD 2700, HADM 2010, MATH 1710, PUBPOL 2100, PUBPOL 2101, PSYCH 2500, SOC 3010, STSCI 2100, STSCI 2150, BTRY 3020, STSCI 2110, STSCI 3200. If you have any questions about this requirement, please contact the instructor.
 
 <div style="background:#eee; border-radius:15px; border:2px solid #ddd; margin:15px; padding:10px">

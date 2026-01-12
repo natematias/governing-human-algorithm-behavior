@@ -1,4 +1,4 @@
-# COMM 4940: Investigating Alleged Failures of AI
+# COMM 4940: Investigating Artificial Intelligence Failures
 [J. Nathan Matias](https://natematias.com) &lt;nathan.matias AT cornell.edu&gt; , Department of Communication, Field Member, Information Science
 
 <a href="https://en.wikipedia.org/wiki/Humanetics"><img alt="he Q10 is an anthropomorphic test device (ATD) that represents a ten year old child for crash test simulation." style="width:30%; float:right; margin-left:10px; margin-bottom:10px; border:3px solid #ccc;" src="Child_ATD_-_Q10.jpg"/></a>
@@ -216,6 +216,8 @@ Graduate student reading (choose one):
 * Rosenberg, M., Townes, A., Taylor, S., Luetke, M., & Herbenick, D. (2019). [Quantifying the magnitude and potential influence of missing data in campus sexual assault surveys: A systematic review of surveys, 2010–2016](https://www.tandfonline.com/doi/full/10.1080/07448481.2018.1462817). Journal of American college health, 67(1), 42-50.
 * Porat, R., Gantman, A., Green, S. A., Pezzuto, J. H., & Paluck, E. L. (2024). [Preventing sexual violence: A behavioral problem without a behaviorally informed solution](https://journals.sagepub.com/doi/full/10.1177/15291006231221978). Psychological Science in the Public Interest, 25(1), 4-29.
 
+Questions to think about — choose a specific risk, harm, or incident involving AI, and consider what the consequences might be if researchers and policymakers come to the wrong conclusions about a possible harm from technology?
+
 ---
 
 
@@ -237,8 +239,6 @@ Before the class, students will read a paper related to the topic and come prepa
 In this class, teams will present competing analyses to try to convince the class of their point of view.
 
 We will then discuss what we learned from the experience.
-
-Readings TBD
 
 ---
 

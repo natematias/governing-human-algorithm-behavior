@@ -4,7 +4,7 @@
 <a href="https://en.wikipedia.org/wiki/Humanetics"><img alt="he Q10 is an anthropomorphic test device (ATD) that represents a ten year old child for crash test simulation." style="width:30%; float:right; margin-left:10px; margin-bottom:10px; border:3px solid #ccc;" src="Child_ATD_-_Q10.jpg"/></a>
 
 * Spring 2026 
-* Time: 8:4am - 9:55am Tuesday and Thursday 
+* Time: 8:40am - 9:55am Tuesday and Thursday 
 * Location: (See the course listing)
 
 

@@ -505,7 +505,7 @@ Before each class, I will assign **two readings** I expect you to read before cl
   * a question or observation that links the paper to the theme of the day or the theme of the course 
   * you can choose to respond to one of the prompt questions, but are not obligated to
 
-Each week, students are expected to post at least one news article to Canvas add at least one comment in response to one other student's posted link.
+Each week, students are expected to post at least one news article to Canvas and add at least one comment in response to one other student's posted link.
 
 Graduate students will have additional readings. Graduate students will also rotate responsibility for summarizing their reading to the class. Summarizing the reading will involve:
 

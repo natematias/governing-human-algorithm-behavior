@@ -241,8 +241,10 @@ In this class, teams will present competing analyses to try to convince the clas
 We will then discuss what we learned from the experience.
 
 ---
+FEBRUARY BREAK
+---
 
-#### 5.1 What is an AI Incident?
+#### 5.2 What is an AI Incident?
 In order for algorithms to be governed, we need to be able to describe what happens when one goes wrong. So what is an incident anyway, and how would we establish that harm had occurred?
 
 * Matias et al (under review). [Accelerating the Science of Digital Harms through Data Donations](https://osf.io/3ebj2/overview). Open Science Framework. [10.17605/OSF.IO/3EBJ2 ](https://doi.org/10.17605/OSF.IO/3EBJ2)
@@ -261,7 +263,7 @@ In class, we will work to collaborate on an incident report template for several
 
 ---
 
-#### 5.2 Discussing Final Project Ideas
+#### 6.1 Discussing Final Project Ideas
 In this class, we will discuss possible final project ideas for the course.
 
 In preparation for the class, meet with a possible project team to develop ideas for collective feedback and discussion.
@@ -272,8 +274,6 @@ As a reminder, final project ideas include one of three options:
 * A proposal for a "black box" or data schema of what to record to inform future analysis of incidents
 * An independent project involving a graduate student team member
 
----
-FEBRUARY BREAK
 ---
 
 #### 6.2 Methods: Auditing and Red Teaming an AI System

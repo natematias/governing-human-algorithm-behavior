@@ -369,13 +369,9 @@ In this class, we will:
 In this class, we will hear from a group of scientists developing a center that can receive posthumous digital remains. 
 
 * Matias et al (under review). [Accelerating the Science of Digital Harms through Data Donations](https://osf.io/3ebj2/overview). Open Science Framework. [10.17605/OSF.IO/3EBJ2 ](https://doi.org/10.17605/OSF.IO/3EBJ2)
+* Lundberg, I., Narayanan, A., Levy, K., & Salganik, M. J. (2019). [Privacy, ethics, and data access: A case study of the Fragile Families Challenge](https://journals.sagepub.com/doi/10.1177/2378023118813023). Socius, 5, 2378023118813023
 
 ---
-
-#### SPRING BREAK 
-*Before spring break, we will do a syllabus adjustment check-in, to make sure that there's enough room and support for team projects.*
-
-
 
 #### 10.1 Policy Topic: How Does Evidence Actually Inform Policy?
 In previous classes, we discussed theories for how evidence could inform policy. How does it really happen?
@@ -408,6 +404,12 @@ Discussion questions:
 * How could your project area be transformed by algorithmic literacy — and how not?
 
 ---
+
+#### SPRING BREAK 
+*Before spring break, we will do a syllabus adjustment check-in, to make sure that there's enough room and support for team projects.*
+
+---
+
 
 #### 11.1 Policy Topic: Public Engagement with Incident Reporting
 

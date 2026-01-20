@@ -615,7 +615,7 @@ I am committed to working with students with recognized SDSes to ensure you have
 As part of a [medical condition of my own](https://natematias.com/portfolio/2021-06-06-ithaca-allergies/), I may on rare occasion need accommodations myself. I will introduce the details of this accommodation and related processes in the first class.
 
 ### Counseling Resources
-This class is covering some very difficult topicsthat relate to severe harms. If you are someone who wrestles with mental health issues, I encourage you to take a moment to ensure that you have the support you need to take this class effectively. If you're unsure what kind of support would be helpful, we can discuss ideas in office hours.
+This class is covering some very difficult topics that relate to severe harms. If you are someone who wrestles with mental health issues, I encourage you to take a moment to ensure that you have the support you need to take this class effectively. If you're unsure what kind of support would be helpful, we can discuss ideas in office hours.
 
 It is common for students to experience stressful events at some point during graduate school. Students sometimes experience depression, anxiety, family stress, the loss of loved ones, financial strain, and other stressors. It is perfectly normal for students to seek the service of mental health professionals to provide them with support and skills to cope with these experiences. Below I have provided the contact information for some of the mental health services available to Cornell University students so that you will know where you can go if you or a friend would like to take advantage of these resources.
 
